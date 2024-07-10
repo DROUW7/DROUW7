@@ -1,53 +1,14 @@
 #EXTM3U
 
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(UK) BBC 1 HD (1)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://trsat.ddns.us:80/3EUJ8KUWuz/JTMumB5grj/1025
-
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(UK) BBC 1 HD (2)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=771164&extension=ts&play_token=9rLAEIzpwO
-
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(UK) BBC 1 HD (3)
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:19:72:59&stream=38260&extension=ts&play_token=Z1mAetI4pM
-
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(FR) TF1 HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://bjoris.rostelekom.xyz/iptv/PAN3MDF8SGVPH8/7262/index.m3u8
-
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(FR) TF1 HD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://canais.fammelzundap.xyz:80/play/yL_oTkysd3FVWBNPtE5_6sdiOwJmVZZtv1O2qVxUXJmfRA1WNerJd13UsFQkqic6FDQG-8E1VLjdhF2ZcR55fwjfnpWoD-d32yPvjwDPpeYhJyk7VUwfVez6nnGd2Sqe8aXjEju6rAz68aFWWA2uda6wqbtMWNamH-YsLaAywnQ?ext=.ts
 
 #EXTINF:60 group-title="Euro 2024" tvg-logo="https://icdn.football-italia.net/wp-content/uploads/2023/12/Euro-2024-logo.jpg",(BE) LA UNE HD
