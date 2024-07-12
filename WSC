@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 1 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-Gvx-In4YFKISQ57iqI47zihcgOYH8qZc3c5XqiVELMmqgyAJk_bTIjCNim8X9p8fw?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 2 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-Gj5-muFHdt4BMLBtd3hk3XYATxrpsmDtfjBtKyIcQR9Xm4EIJDn2M3ZzaCINGvijE?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 3 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-ESnf9axZO7hFNBNy2L2vEshpB7weRLMg853Ak0Gk7Dit7NZxbiPb4UwT8P0Bkh1j4?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 4 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-Ga2ImFURvtPRjKMRL9cC2Zeav46TZLc8ikvzAvh37Q7a0A1JDoq49aMcLYRtEFfyo?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 5 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-ErMG1XNCoAeWXfrVhOfEeDmqDh-tyIlx9oph-nRydQaH0jlQrHGyC2IYI6o7D988s?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 6 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-EPVISrz82sh4NNigar148bqoBH2efEl8GSFIAeXBQcfKLxpj1pofQOGbaLI0l9N6A?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 1 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-H_ewJW14JcSaTQZlCS-1bz5dmKDSjNZzoqGWroLZsmt8WCVy_V3aj3RfZTw2G2Y1E?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 2 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-FvrcIcVKBQuJeGcizbACS3UgLOm6vZparsOTEFxA8CWh4_0TgqnEgBzkrC6FDbR54?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 3 SD
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-GKob1y3BCTJYZW1sRXBr-kvGGXuXF9rb4vWrJVJ97cil044UG8RQJPw1NFL5gN84Q?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 4
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-EwS75AQnKwXxCaQ3FRMZAMcaHc09EcO2Wo_h3_RkRyqBqxnTkdgGjeHkOpKvvW4u4?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 5
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-Ft_4f92DEpnvzIxNxTMXzArlCp54Y4asm0II1VAJs5X30zM-geQEJ1uHrrVuhy_Lc?ext=.ts
+
+#EXTINF:0 group-title="" tvg-logo="",DAZN Eleven Sports 6
+http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-FkFyA2ulnNzwj8gQVbzQImV0uKvJ2WhUnre0DnhR2EOXkBSqQfI8IizkRthN5kSEo?ext=.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="",ITV 1 SD
 http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20044&extension=ts
 
