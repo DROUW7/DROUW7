@@ -1,16 +1,43 @@
 #EXTM3U
 
-#EXTINF:0 group-title="" tvg-logo="",Klan Sport 1
-http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86963&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ITV 1 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20044&extension=ts
 
-#EXTINF:0 group-title="" tvg-logo="",Klan Kosova
-http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86973&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ITV 2 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20061&extension=ts
 
-#EXTINF:0 group-title="" tvg-logo="",Eir Sport 1
-http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=7389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ITV 3 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20062&extension=ts
 
-#EXTINF:0 group-title="" tvg-logo="",ART Sport 1
-http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ITV 4 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20063&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",BBC ONE SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20042&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",BBC TWO SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=20043&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",TNT SPORT 1 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=119578&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",TNT SPORT 2 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=119579&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",TNT SPORT 3 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=119580&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",TNT SPORT 4 SD
+http://ezstream.eztv4you.xyz:81/play/live.php?mac=00:1A:79:97:6a:36&stream=119581&extension=ts
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="" tvg-logo="",True Sport 1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=51584&extension=ts
@@ -24,6 +51,43 @@ http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=51588&extension
 #EXTINF:0 group-title="" tvg-logo="",Spor Smart 
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=5090&extension=ts
 
+
+
+
+
+#EXTINF:0 group-title="" tvg-logo="",Klan Sport 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86963&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Klan Kosova
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86973&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Eir Sport 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=7389&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30158&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 2
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30159&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87063&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87071&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 2
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87064&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 2 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87070&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 3
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87066&extension=ts
+
+#EXTINF:60 group-title="" tvg-logo="",(DE) FUSSBALL TV 3 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87069&extension=ts
+
 #EXTINF:0 group-title="" tvg-logo="",Das Erste
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87031&extension=ts
 
@@ -36,8 +100,18 @@ http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86969&extension
 #EXTINF:0 group-title="" tvg-logo="",TF1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86968&extension=ts
 
-#EXTINF:0 group-title="" tvg-logo="",Servus TV AT
+#EXTINF:0 group-title="" tvg-logo="",TF1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86971&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Bein Sports Arabic 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86259&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Servus TV AT 4K
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86970&extension=ts
+
+
+
+
 
 #EXTINF:0 group-title="" tvg-logo="",MCN TV
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87046&extension=ts
@@ -45,8 +119,36 @@ http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87046&extension
 #EXTINF:0 group-title="" tvg-logo="",Sportdigital Fusball
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86686&extension=ts
 
-#EXTINF:0 group-title="" tvg-logo="",Astro Super Sport
+#EXTINF:0 group-title="" tvg-logo="",Sport TV 2
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86508&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Premier Sports 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=87049&extension=ts
+
+
+
+
+
+#EXTINF:0 group-title="" tvg-logo="",RMC Sport 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86265&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 3 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30160&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 4 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=63207&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 5 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=63208&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ART Sport 6 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=63209&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Astro Super Sport 4K
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86257&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Eleven Sports 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86266&extension=ts
 
 #EXTINF:0 group-title="" tvg-logo="",Hub Premier 1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86271&extension=ts
@@ -57,14 +159,59 @@ http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86270&extension
 #EXTINF:0 group-title="" tvg-logo="",Super Sport 1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1146&extension=ts
 
+#EXTINF:0 group-title="" tvg-logo="",Super Sport 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=43729&extension=ts
+
 #EXTINF:0 group-title="" tvg-logo="",Super Sport 2
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1148&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Super Sport 2 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=43728&extension=ts
 
 #EXTINF:0 group-title="" tvg-logo="",Super Sport 3
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1150&extension=ts
 
+#EXTINF:0 group-title="" tvg-logo="",Super Sport 3 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=43727&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport News 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30157&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30153&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport 2 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30154&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport 3 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=30155&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport 3 HD
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1171&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Tring Sport 4 FHD
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1172&extension=ts
+
 #EXTINF:0 group-title="" tvg-logo="",RTSH Sport
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=77129&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(AL) Kujtesa Sport 1
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1876&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(AL) Kujtesa Sport 2
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=1877&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(AL) Kujtesa Sport 3
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=2737&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(DE) DAZN Sport 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86289&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(DE) DAZN Sport 2 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86290&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(EN) DAZN Sport 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86291&extension=ts
 
 #EXTINF:0 group-title="" tvg-logo="",Astro Super Sport 1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86293&extension=ts
@@ -113,6 +260,15 @@ http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86586&extension
 
 #EXTINF:0 group-title="" tvg-logo="",Now HK Sports Plus
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86579&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Now HK Bein Sports 1 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86297&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Now HK Bein Sports 2 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86298&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Now HK Bein Sports 3 4K
+http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=86299&extension=ts
 
 #EXTINF:0 group-title="" tvg-logo="",(CH) Blue Sport 1
 http://jepmerr.xyz:80/play/live.php?mac=00:1A:79:85:DD:E7&stream=80177&extension=ts
