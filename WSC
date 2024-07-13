@@ -1,5 +1,67 @@
 #EXTM3U
 
+#EXTINF:0 group-title="" tvg-logo="",BBC 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1213314&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ITV 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1213315&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Hub Premier 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=569105&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Hub Premier 3
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=569107&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Hub Premier 6
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=569110&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",SETANTA Sport 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1064083&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",SETANTA Sport 2
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1064084&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Premier Sports 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1071686&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",Premier Sports 2
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1071687&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ViaPlay 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=5101&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ViaPlay 1 SD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=5424&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ViaPlay 2
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=5102&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",ViaPlay 2 SD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=5425&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",NBC Sports Bay Area
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=824808&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",NBC Sports Boston
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=824809&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",NBC Sports California
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=824810&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",NBCSN
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=824812&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(RO) DIGI Sport 1
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1129082&extension=ts
+
+#EXTINF:0 group-title="" tvg-logo="",(RO) DIGI Sport 2
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1129040&extension=ts
+
+
+
+
+
+
 #EXTINF:0 group-title="" tvg-logo="",Sport TV 1 SD
 http://005.0004567.xyz:80/play/8P0zIxLSG9NePpsgC457diTgKpxG_EP2obyHn5uc5-Gvx-In4YFKISQ57iqI47zihcgOYH8qZc3c5XqiVELMmqgyAJk_bTIjCNim8X9p8fw?ext=.ts
 
