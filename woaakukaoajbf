@@ -49,7 +49,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7]" tvg-name="CINEMACHI - [Channel 7]" group-title="FILM" tvg-logo="https://i.ibb.co.com/2SrLbnV/cmi.jpg",Cinemachi (V+) 1
+#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-name="CINEMACHI HD - [Channel 401].id" group-title="FILM" tvg-logo="https://i.ibb.co.com/2SrLbnV/cmi.jpg",Cinemachi (V+) 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
