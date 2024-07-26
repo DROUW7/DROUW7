@@ -7,10 +7,23 @@
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.ibb.co.com/w6Y3dFX/CNBCA.jpg",CNBC Asia (V+)
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.ibb.co.com/w6Y3dFX/CNBCA.jpg",CNBC Asia (V+) 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="CNBC Asia.id" tvg-name="CNBC Asia.id" tvg-logo="https://i.ibb.co.com/w6Y3dFX/CNBCA.jpg",CNBC Asia (V+) 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC - [Channel 337].id" tvg-logo="https://i.ibb.co.com/w6Y3dFX/CNBCA.jpg",CNBC Asia (V+) 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
