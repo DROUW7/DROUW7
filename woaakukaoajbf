@@ -13,3 +13,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="ABC Australia - [Channel 350].id" tvg-logo="https://i.ibb.co.com/pvjs8GQ/ABC-AUSTRALIA2.jpg" group-title="BERITA & BISNIS",ABC Australia (Trans)
 https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cinemachi Max.id" tvg-name="Cinemachi Max.id" group-title="FILM" tvg-logo="https://i.ibb.co.com/T2QNcmK/cmax.jpg",Cinemachi Max (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
