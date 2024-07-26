@@ -153,3 +153,8 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227650/32
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-name="Celebrities TV - [Channel 96].id" group-title="HIBURAN" tvg-logo="https://i.ibb.co.com/30qnP2v/Celebrities-TV.png",Celebrities TV (V+)
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
