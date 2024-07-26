@@ -1,5 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/DROUW7/DROUW7/main/epgindo,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="DW English - [Channel 357].id" tvg-name="DW English - [Channel 357].id" tvg-logo="https://i.ibb.co.com/nmvvC6f/DW.jpg",DW English (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/134/dwtv/manifest.mpd
+
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="DW English - [Channel 357].id" tvg-name="DW English - [Channel 357].id" tvg-logo="https://i.ibb.co.com/nmvvC6f/DW.jpg",DW English (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
 #EXTINF:-1 group-title="ANAK" tvg-id="Dreamworks - [Channel 47].id" tvg-name="Dreamworks - [Channel 47].id" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png",Dreamworks (Indi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
