@@ -177,10 +177,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CGTN - [Channel 353].id" tvg-name="CGTN - [Channel 353].id" tvg-logo="https://i.ibb.co.com/jz2T5Sc/CGTN-Documentary-BROWN2.jpg" group-title="BERITA & BISNIS",CGTN (Trans)
+#EXTINF:-1 tvg-id="CGTN - [Channel 353].id" tvg-name="CGTN - [Channel 353].id" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2024/01/31/CGTN.jpg" group-title="BERITA & BISNIS",CGTN (Trans)
 https://cdnjkt4.transvision.co.id:1001/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd
 
-#EXTINF:-1 tvg-id="CGTN - [Channel 353].id" tvg-name="CGTN - [Channel 353].id" tvg-logo="https://i.ibb.co.com/jz2T5Sc/CGTN-Documentary-BROWN2.jpg" group-title="BERITA & BISNIS",CGTN (V+)
+#EXTINF:-1 tvg-id="CGTN - [Channel 353].id" tvg-name="CGTN - [Channel 353].id" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2024/01/31/CGTN.jpg" group-title="BERITA & BISNIS",CGTN (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
