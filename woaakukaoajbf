@@ -7,9 +7,10 @@
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="CBeebies - [Channel 41]" tvg-name="CBeebies - [Channel 41]" tvg-logo="https://i.ibb.co.com/d0Mfddm/Cbeebies.jpg" group-title="ANAK",CBeebies (V+) 2
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.ibb.co.com/w6Y3dFX/CNBCA.jpg",CNBC Asia (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
