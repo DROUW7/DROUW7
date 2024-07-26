@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/DROUW7/DROUW7/main/epgindo,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/dens.tv.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/firstmedia.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/useetv.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/transvision.co.id.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/vidio.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Indonesia/mncvision.id.channels.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies" tvg-logo="https://i.ibb.co.com/d0Mfddm/Cbeebies.jpg" group-title="ANAK",CBeebies BBC (V+)
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://i.ibb.co.com/d0Mfddm/Cbeebies.jpg" group-title="ANAK",CBeebies BBC (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-name="CINEMACHI HD - [Channel 401].id" group-title="FILM" tvg-logo="https://i.ibb.co.com/2SrLbnV/cmi.jpg",Cinemachi HD (V+)
+#EXTINF:-1 tvg-id="Cinemachi.id" tvg-name="Cinemachi.id" group-title="FILM" tvg-logo="https://i.ibb.co.com/2SrLbnV/cmi.jpg",Cinemachi HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI ACTION HD - [Channel 402].id" tvg-name="CINEMACHI ACTION HD - [Channel 402].id" group-title="FILM" tvg-logo="https://i.ibb.co.com/JFNFFbX/cact.jpg",Cinemachi Action HD (V+)
+#EXTINF:-1 tvg-id="Cinemachi Action.id" tvg-name="Cinemachi Action.id" group-title="FILM" tvg-logo="https://i.ibb.co.com/JFNFFbX/cact.jpg",Cinemachi Action HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS HD - [Channel 403].id" group-title="Anak" tvg-logo="https://i.ibb.co.com/bWmhbgd/ckid.jpg",Cinemachi Kids HD (V+)
+#EXTINF:-1 tvg-id="Cinemachi Kids.id" tvg-name="Cinemachi Kids.id" group-title="Anak" tvg-logo="https://i.ibb.co.com/bWmhbgd/ckid.jpg",Cinemachi Kids HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -35,7 +35,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinem
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-name="CINEMACHI XTRA HD - [Channel 405].id" group-title="FILM" tvg-logo="https://i.ibb.co.com/bQm10MY/xtra.jpg",Cinemachi Xtra HD (V+)
+#EXTINF:-1 tvg-id="Cinemachi Xtra.id" tvg-name="Cinemachi Xtra.id" group-title="FILM" tvg-logo="https://i.ibb.co.com/bQm10MY/xtra.jpg",Cinemachi Xtra HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
