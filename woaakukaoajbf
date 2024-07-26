@@ -119,4 +119,11 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/32
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC Earth HD - [Channel 461].id" tvg-logo="https://www.creativeboom.com/upload/articles/8f/8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da_800.png" group-title="EDUKASI",BBC Earth (V+)
 https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
+#EXTINF:-1 group-title="BERITA & BISNIS" tvg-id="BBC World News - [Channel 332].id" tvg-name="BBC World News - [Channel 332].id" tvg-logo="https://i.ibb.co.com/4wbKBpR/bbw.jpg",BBC World News (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
 
