@@ -20,25 +20,10 @@ https://webhdrunns.mizhls.ru/lb/premium373/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium338/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 group-title="Movies " tvg-id="disneychanneleast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel 
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrunns.mizhls.ru/lb/premium312/index.m3u8|Origin=https://claplivehdplay.ru
-
-#EXTINF:-1 group-title="Movies " tvg-id="disneyjunioreast.us" tvg-logo="https://i.imgur.com/7d4qj7l.png",Disney Jr. 
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36  
-https://webhdrunns.mizhls.ru/lb/premium652/index.m3u8|Origin=https://claplivehdplay.ru
-
 #EXTINF:-1 group-title="Movies " tvg-id="disneyxdeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png",Disney XD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium314/index.m3u8|Origin=https://claplivehdplay.ru
-
-#EXTINF:-1 tvg-id="ABCNetwork.us" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc@3x.png" group-title="Entertainment",ABC Network 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru//premiumtv/daddyhd.php 
-https://webhdrunns.mizhls.ru/lb/premium51/index.m3u8|Origin=https://claplivehdplay.ru
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="bbcone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png",BBC One 
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
