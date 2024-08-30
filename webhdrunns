@@ -394,11 +394,6 @@ https://webhdrunns.mizhls.ru/lb/premium146/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium148/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5stars.il" tvg-name="IL&key= Sport 5 Stars FHD" tvg-logo="https://i.postimg.cc/xdM5FS6Y/image.png" group-title="Sports" ,Sport 5 Star Israel 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium147/index.m3u8|Origin=https://claplivehdplay.ru
-
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1en.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports English 1 
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
