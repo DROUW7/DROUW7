@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indiapremium4.xml,https://only4.tv/epg/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://www.bevy.be/bevyfiles/china.xml,https://www.bevy.be/bevyfiles/chinapremium.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/italypremium2.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://www.bevy.be/bevyfiles/belgium.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,http://my.iptv.community/epg_temp_dl/output-epgs/albania.xml,http://epg.it999.ru/epg.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/greecepremium.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/greecepremium3.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://www.bevy.be/bevyfiles/bulgaria.xml,https://www.bevy.be/bevyfiles/bulgariapremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/newzealand.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/swedenpremium.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/canada.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/canadapremium2.xml,https://www.bevy.be/bevyfiles/canadapremium3.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/australiapremium.xml,https://www.bevy.be/bevyfiles/australiapremium2.xml,https://www.bevy.be/bevyfiles/australiapremium3.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/unitedstatespremium5.xml,https://www.bevy.be/bevyfiles/unitedstatespremium6.xml,https://www.bevy.be/bevyfiles/unitedstatespremium7.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/estonia.xml,https://www.bevy.be/bevyfiles/ireland.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/bosnia.xml,https://www.bevy.be/bevyfiles/bosniapremium.xml,https://www.bevy.be/bevyfiles/balkan.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://my.iptv.community/epg_temp_dl/output-epgs/greece.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://only4.tv/epg/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://www.bevy.be/bevyfiles/china.xml,https://www.bevy.be/bevyfiles/chinapremium.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/italypremium2.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://www.bevy.be/bevyfiles/belgium.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,http://my.iptv.community/epg_temp_dl/output-epgs/albania.xml,http://epg.it999.ru/epg.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/greecepremium.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/greecepremium3.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://www.bevy.be/bevyfiles/bulgaria.xml,https://www.bevy.be/bevyfiles/bulgariapremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/newzealand.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/swedenpremium.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/canada.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/canadapremium2.xml,https://www.bevy.be/bevyfiles/canadapremium3.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/australiapremium.xml,https://www.bevy.be/bevyfiles/australiapremium2.xml,https://www.bevy.be/bevyfiles/australiapremium3.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/unitedstatespremium5.xml,https://www.bevy.be/bevyfiles/unitedstatespremium6.xml,https://www.bevy.be/bevyfiles/unitedstatespremium7.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:0 tvg-id="Star Sports Select 1 Hd.in",Star Sports 1 IN
 #EXTGRP:Индия | India
@@ -7,6 +7,46 @@ http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/2508/index.m3u8
 #EXTINF:0 tvg-id="Star Sports Select 2 Hd.in",Star Sports 2 IN
 #EXTGRP:Индия | India
 http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/2507/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport1.gr",Cosmote Sport 1 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31578/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport2.gr",Cosmote Sport 2 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31579/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport3.gr",Cosmote Sport 3 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31581/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport4.gr",Cosmote Sport 4 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31582/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport5.gr",Cosmote Sport 5 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31583/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport6.gr",Cosmote Sport 6 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31584/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport7.gr",Cosmote Sport 7 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31585/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport8.gr",Cosmote Sport 8 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31586/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSport9.gr",Cosmote Sport 9 GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31587/index.m3u8
+
+#EXTINF:0 tvg-id="CosmoteSportHighlight.gr",Cosmote Sport Highlights GR
+#EXTGRP:Спорт
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31588/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="prima-sport-1" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="Sports",Prima Sport 1 
@@ -244,3 +284,144 @@ https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-049/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
 https://dcf-ak-livedazn.akamaized.net:443/dash/dazn-linear-025/stream.mpd?p=web
+
+----------------- ARENA SPORT -------------------------------------------
+
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport Premium 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 2 Premium BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport Premium 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport Premium 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 1 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 2 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 3 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 4 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 5 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 6 BiH.ba" tvg-name=""  group-title="Arena Sport", Arena Sport 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+---------------------- setanta --------------
+#EXTINF:-1 tvg-id="SetantaSportsGeorgia.ge" tvg-logo=""  group-title="SETANTA", Setanta Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-logo=""  group-title="SETANTA", Setanta Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
+-----------GO-----------
+#EXTINF:-1 tvg-id="Go3 Sport 1.ee" tvg-name=""  group-title="GO", Go3-Sport-1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Go3 Sport 2.ee" tvg-name=""  group-title="GO", Go3-Sport-2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Go3 Sport 3.ee" tvg-name=""  group-title="GO", Go3-Sport-3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+-----------TNT-----------
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/Premiere_August_1%2C_2017.png/revision/latest?cb=20210130234510" group-title="Sports",Premiere Clubes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="DAZN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="DAZN 4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN 4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="Матч! Футбол 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640",Матч! Футбол 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="Матч! Футбол 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Match%21_Futbol_2_Stacked.svg/revision/latest/scale-to-width-down/640",Матч! Футбол 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="Матч! Футбол 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Match%21_Futbol_3_Stacked.svg/revision/latest/scale-to-width-down/640",Матч! Футбол 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
