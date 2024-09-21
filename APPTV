@@ -90,31 +90,31 @@ https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8|Origin=https://claplivehdp
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-1" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins1.m3u8
+https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-2" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins2.m3u8
+https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-3" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins3.m3u8
+https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-4" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins4.m3u8
+https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-5" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins5.m3u8
+https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-6" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins6.m3u8
+https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="bein-sport-7" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins7.m3u8
+https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="DAZN F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
