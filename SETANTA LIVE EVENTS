@@ -84,7 +84,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="hhttps://media.tenor.com/33gJyOCSrIYAAAAj/live.gif", Setanta Sports Event 13
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAj/live.gif", Setanta Sports Event 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
