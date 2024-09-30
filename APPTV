@@ -1,4 +1,12 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://www.bevy.be/bevyfiles/lithuania.xml,https://www.bevy.be/bevyfiles/latvia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/estonia.xml,https://www.bevy.be/bevyfiles/ireland.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/bosnia.xml,https://www.bevy.be/bevyfiles/bosniapremium.xml,https://www.bevy.be/bevyfiles/balkan.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://my.iptv.community/epg_temp_dl/output-epgs/greece.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://only4.tv/epg/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://www.bevy.be/bevyfiles/china.xml,https://www.bevy.be/bevyfiles/chinapremium.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/italypremium2.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://www.bevy.be/bevyfiles/belgium.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,http://my.iptv.community/epg_temp_dl/output-epgs/albania.xml,http://epg.it999.ru/epg.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/greecepremium.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/greecepremium3.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://www.bevy.be/bevyfiles/bulgaria.xml,https://www.bevy.be/bevyfiles/bulgariapremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/newzealand.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/swedenpremium.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/canada.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/canadapremium2.xml,https://www.bevy.be/bevyfiles/canadapremium3.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/australiapremium.xml,https://www.bevy.be/bevyfiles/australiapremium2.xml,https://www.bevy.be/bevyfiles/australiapremium3.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/unitedstatespremium5.xml,https://www.bevy.be/bevyfiles/unitedstatespremium6.xml,https://www.bevy.be/bevyfiles/unitedstatespremium7.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/czech.xml,http://epg.it999.ru/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://www.bevy.be/bevyfiles/lithuania.xml,https://www.bevy.be/bevyfiles/latvia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/estonia.xml,https://www.bevy.be/bevyfiles/ireland.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/bosnia.xml,https://www.bevy.be/bevyfiles/bosniapremium.xml,https://www.bevy.be/bevyfiles/balkan.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://my.iptv.community/epg_temp_dl/output-epgs/greece.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://only4.tv/epg/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://www.bevy.be/bevyfiles/china.xml,https://www.bevy.be/bevyfiles/chinapremium.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/italypremium2.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://www.bevy.be/bevyfiles/belgium.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/spain.xml,http://my.iptv.community/epg_temp_dl/output-epgs/albania.xml,http://epg.it999.ru/epg.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/greecepremium.xml,https://www.bevy.be/bevyfiles/greecepremium2.xml,https://www.bevy.be/bevyfiles/greecepremium3.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://www.bevy.be/bevyfiles/bulgaria.xml,https://www.bevy.be/bevyfiles/bulgariapremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/newzealand.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/israelpremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/swedenpremium.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/canada.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/canadapremium2.xml,https://www.bevy.be/bevyfiles/canadapremium3.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/australiapremium.xml,https://www.bevy.be/bevyfiles/australiapremium2.xml,https://www.bevy.be/bevyfiles/australiapremium3.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/unitedstatespremium5.xml,https://www.bevy.be/bevyfiles/unitedstatespremium6.xml,https://www.bevy.be/bevyfiles/unitedstatespremium7.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRzzULkFAL4zL113ZVg7glWKCrbPTkbDLFafEwX-P4yIst3i5mGAY_Zc&s=10" group-title="Sport", Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5v4K8TC5iSmU9v3l-NtB1hkjGFUzOX3qdBg&usqp=CAU" group-title="Sport", Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
 
 #EXTINF:-1 tvg-id="2630" tvg-logo="https://setantasports.com/wp-content/uploads/2023/02/logo.png" group-title="SETANTA", Setanta HD KZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -131,120 +139,6 @@ https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehd
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Sport Asia",Astro Cricket
 https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-016/stream.mpd 
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN 1 HD.de" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 DE
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-017/stream.mpd 
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN 2 HD.de" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",DAZN 2 DE
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41 
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-018/stream.mpd 
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-037/stream.mpd 
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png",DAZN 2 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-038/stream.mpd 
-
-#EXTINF:-1 group-title="Sports" tvg-id="Zona Dazn 1.it" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909285445140_image-header_pIt_1661948686000&quality=70",DAZN ZONA
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-024/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN LALIGA" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="SPORTDIGITAL FUSSBALL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sport-Digital_hd.svg/640px-Sport-Digital_hd.svg.png",Sport Digital
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41 
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="Play Sports HD1.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="Play Sports HD2.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="Play Sports HD3.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-059/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN Eleven Pro League 1 FR.be" tvg-logo="https://mytransfer.be/wp-content/uploads/2020/09/ELEVEN_Brand_Final_RGB_ELEVEN-ProLeague-Positive-small.png",ELEVEN PRO LEAGUE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-049/stream.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="Milan TV.it" tvg-logo="https://4.bp.blogspot.com/-6Z3p-lAeA8A/WUFyA4jO8LI/AAAAAAAAGnE/YHw4x1rT0bgYj_o_mAFs08ZxHep1t0egQCLcBGAs/s1600/milan_tv_it.png",Milan TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net:443/dash/dazn-linear-025/stream.mpd?p=web
 
 -----------GO-----------
 #EXTINF:-1 tvg-id="Go3 Sport 1.ee" tvg-name=""  group-title="GO", Go3-Sport-1
