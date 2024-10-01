@@ -1,0 +1,61 @@
+#EXTM3U  tvg-shift="-4.5" x-tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" catchup-correction="-2.5"
+
+#EXTINF:-1 tvg-chno="1" tvg-name="Moji" tvg-id="Moji" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Moji
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+
+#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 tvg-chno="3" tvg-name="RCTI" tvg-id="RCTI" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",RCTI
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+
+#EXTINF:-1 tvg-chno="4" tvg-name="SCTV" tvg-id="SCTV" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",SCTV
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1 tvg-chno="5" tvg-name="INews" tvg-id="INews" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",INews
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
+
+#EXTINF:-1 tvg-chno="6" tvg-name="MNCTV" tvg-id="MNCTV" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",MNCTV
+#EXTGRP:Indonesian Channel
+#EXTVLCOPT:program=745
+#KODIPROP:key=val
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
