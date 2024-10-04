@@ -1,32 +1,5 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indiapremium3.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml"
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpf82R1VJpcJs4zJLttbR7bNMtANiP6lJ1AQ&s", Sky Sport Calcio
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", US: USA NETWORK
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1101/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", US: NBC
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1081/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", amc
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6510/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", SKY SPORTS PREMIER LEAGUE
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7335/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 1
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6521/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 3
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6522/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 4
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6445/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 5
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6517/index.m3u8
-
 #EXTINF:-1 ,Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
