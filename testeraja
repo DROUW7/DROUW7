@@ -1,0 +1,168 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indiapremium3.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml"
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpf82R1VJpcJs4zJLttbR7bNMtANiP6lJ1AQ&s", Sky Sport Calcio
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", US: USA NETWORK
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1101/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", US: NBC
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1081/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", amc
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6510/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", SKY SPORTS PREMIER LEAGUE
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7335/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6521/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 3
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6522/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 4
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6445/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="", TSN 5
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6517/index.m3u8
+
+#EXTINF:-1 ,Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 ,Korean TV
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="And Pictures.in" group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg",&pictures
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u8
+
+#EXTINF:-1 tvg-id="And Pictures HD.in" group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253",&pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
+
+#EXTINF:-1 tvg-id="Tv5.ph",TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Net Hd.ph",Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1,Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1,MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1,Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="",INCTV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
+#EXTINF:-1 tvg-id="Travel Channel.ph",Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito",Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.ph",Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera.ph",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="Kbs World.ph",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="",TV5 MONDE Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-id="",TV5 MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1 tvg-id="Nhk Japan.ph",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.ph",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="Bbcworld News.ph",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="Lotusmacau Prd.ph",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+
+#EXTINF:-1 tvg-id="",Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="",Action!!!
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Baywatch",Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",TFC GUAM
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein 1" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 2 HD - [Channel 418].id" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 tvg-id="Bein 3" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4 - [Channel 312].id" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 5 - [Channel 313].id" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
