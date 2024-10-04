@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/czech.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/singaporepremium2.xml"
 
-#EXTINF:-1 tvg-chno="1" tvg-name="Moji" tvg-id="Moji" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Moji
+#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar 1
 #EXTGRP:Indonesian Channel
 #EXTVLCOPT:program=745
 #KODIPROP:key=val
@@ -8,9 +8,9 @@
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
-#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar
+#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar 2
 #EXTGRP:Indonesian Channel
 #EXTVLCOPT:program=745
 #KODIPROP:key=val
@@ -18,9 +18,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
-#EXTINF:-1 tvg-chno="3" tvg-name="RCTI" tvg-id="RCTI" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",RCTI
+#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar 3
 #EXTGRP:Indonesian Channel
 #EXTVLCOPT:program=745
 #KODIPROP:key=val
@@ -28,9 +28,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+http://xtv.ooo:8080/359052742/470428329/350972
 
-#EXTINF:-1 tvg-chno="4" tvg-name="SCTV" tvg-id="SCTV" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",SCTV
+#EXTINF:-1 tvg-chno="2" tvg-name="Indosiar" tvg-id="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",Indosiar 4
 #EXTGRP:Indonesian Channel
 #EXTVLCOPT:program=745
 #KODIPROP:key=val
@@ -38,24 +38,4 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1 tvg-chno="5" tvg-name="INews" tvg-id="INews" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",INews
-#EXTGRP:Indonesian Channel
-#EXTVLCOPT:program=745
-#KODIPROP:key=val
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
-
-#EXTINF:-1 tvg-chno="6" tvg-name="MNCTV" tvg-id="MNCTV" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",MNCTV
-#EXTGRP:Indonesian Channel
-#EXTVLCOPT:program=745
-#KODIPROP:key=val
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:mimetype=video/mp2t
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
