@@ -1,4 +1,4 @@
-#EXTM3U  tvg-shift="-4.5" x-tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" catchup-correction="-2.5"
+#EXTM3U  url-tvg="https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/czech.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/singaporepremium2.xml"
 
 #EXTINF:-1 tvg-chno="1" tvg-name="Moji" tvg-id="Moji" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Moji
 #EXTGRP:Indonesian Channel
