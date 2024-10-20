@@ -17,3 +17,21 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport TV6.pt" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/b/c1bd851ab5733e5be2dae7da5be1a987_fgraphic.png" group-title="Sport TV",Sport TV 6 HD
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 1.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 1 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 2.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 2 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn2/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 3.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 3 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 4.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 4 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn4/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 5.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 5 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn5/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 6.pt" group-title="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s",DAZN 6 HD
+https://zjdmi53knyt.a.trbcdn.net/dazn6/index.m3u8
