@@ -1,5 +1,13 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/czech.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/singaporepremium2.xml"
 
+#EXTINF:-1 tvg-id="2630" tvg-logo="https://setantasports.com/wp-content/uploads/2023/02/logo.png" group-title="SETANTA", Setanta HD KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
+
+#EXTINF:-1 tvg-id="7238" tvg-logo="https://setantasports.com/wp-content/uploads/2023/02/logo.png" group-title="SETANTA", Setanta Sports 1 Qazaqstan HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport TV1.pt" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/b/c1bd851ab5733e5be2dae7da5be1a987_fgraphic.png" group-title="Sport TV",SPORT TV 1 HD
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
 
