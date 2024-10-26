@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="https://i.mjh.nz/SkySportNow/epg.xml"
+
+#EXTINF:-1 tvg-id="341" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161511-tqw32kvh47lami06.png" group-title="Sky Sport Now",Sky Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium588/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="358" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161545-kw0ruhxwjmpgiuti.png" group-title="Sky Sport Now",Sky Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium589/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="354" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13233840-xedjcp7hs342vuds.png" group-title="Sky Sport Now",Sky Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium590/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="345" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13233840-xedjcp7hs342vuds.png" group-title="Sky Sport Now",Sky Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="342" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234528-13gnvj7boqwjkr6w.png" group-title="Sky Sport Now",Sky Sport 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium592/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="359" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234703-xmwnwgow2g0wg0gu.png" group-title="Sky Sport Now",Sky Sport 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium593/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="357" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234750-mq2qwphavqfh6rot.png" group-title="Sky Sport Now",Sky Sport 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="355" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234854-ecd91m6jiqzv38cr.png" group-title="Sky Sport Now",Sky Sport Premier League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="356" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/08/13234955-8epqsvslkmwhcmk7.png" group-title="Sky Sport Now",Sky Sport 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-id="353" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19162459-6l4cdhhnoojtrvez.png" group-title="Sky Sport Now",Sky Sport Select 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|Origin=https://claplivehdplay.ru
