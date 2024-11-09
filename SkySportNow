@@ -1,5 +1,25 @@
 #EXTM3U url-tvg="https://i.mjh.nz/SkySportNow/epg.xml"
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L1 - Sky Sports Main Event UHD 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"112fc5efca96a3cd7ee42ac46c733550":"227eaef1366fa61610a467bd87d10b13","112f6c710ad7beca0690bcab317378f5":"4e6c6fc00df4d5ed5e23e6d727eb227b"}
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-120.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L1 - Sky Sports F1 UHD 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"112f86bc5301a93c0565898593906ea4":"13dee1bf74ec95dfca03b74ebaac8113","112f64abb81f9adef4e936440aec43f6":"f18c738cb4fc6094601f348a64d48827"}
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsf1uhd)/manifest_2160-120.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L1 - Sky Sports 1 UHD 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"112f85b582d69f237e65c93d409cbe40":"a3c0b764c1eeadc7c972ae553931c39c","112f5063ed843fa3f3582b251635bdd5":"52053286d5d0855c5e3d06d901f27bd1"}
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(skyuhdsports1)/manifest_2160-120.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L1 - Sky Sports 2 UHD 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"112f5880df63ee3125d3c55f34f43a72":"26847f99d5ba38b9c7b12e5804da4a63","112fbb232354f43ded3d634fa4ccfa0c":"3e714ea1d7993ef4067dccc2162bc697"}
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(skyuhdsports2)/manifest_2160-120.mpd
+
 #EXTINF:-1 tvg-id="341" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2022/07/19161511-tqw32kvh47lami06.png" group-title="Sky Sport Now",Sky Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
