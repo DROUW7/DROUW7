@@ -1,57 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Brentford v. Bournemouth 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",Brentford v. Bournemouth 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022d18b3f67ce780f726a4ca5d92977:a4ff0f9aeb931e78f1f14a2d45a1ed8e
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014709-716107-48f93fdc48b)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",West Ham v. Everton 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",West Ham v. Everton 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00220b6267fb96a6beec3f80668623ca:4689e39ac3c385b5a33417f0c9bd4b92
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014710-716108-48f940d06cc)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Wolves v. Southampton 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",Wolves v. Southampton 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002299eb5fc56e6f38be4492d3fba7c1:29dfbfdbeb139101a952f9fc510175fc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014711-716109-48f941c490d)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Test 1 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",Man United v. Brentford 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022533dc5fb5694d900a74411b1b5df:fb06a436a1498ed458d0c4d24486a630
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014168-715471-48f73bec0cf)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Test 2 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",Southampton v. Leicester City
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022e0a9aeccb5d0e7557b1c7877649e:e3bc6b7edcedf7c281d86c3a4f5dd3d2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014167-715470-48f73af7e8e)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Test 3 
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="",Chelsea v. Aston Villa 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002222e8d59c7a2bc3fd3a0a48b044d2:5125edd81b54883934adf0c150830d55
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5008037-708638-48e064f035e)/master.mpd
 
-#EXTINF:-1 tvg-id="805" group-title="ASTRO GO - VPN" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD (1)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-https://hanxinwp1.manxiao35.workers.dev/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+#EXTINF:-1, DE: SPORTDIGITAL FUSSBALL (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
+https://svc40.main.sl.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd
 
-#EXTINF:-1 tvg-id="805" group-title="ASTRO GO - VPN" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD (2)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-https://hanxinwp1.manxiao35.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+#EXTINF:-1, DE: MagentaTV Info (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3758200a4e20dda5516ccba91e393e11:bab38f0e372b07d570bbc812ba1eeec8
+https://svc40.main.sl.t-online.de/LCID3221228334.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228334/3221228334.mpd
+
+#EXTINF:-1, DE: Jukebox (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4b5c28ed32ba225558e77c50a999bfe:b0cb5bd21e68f9cae5035fbe34fb1cc3
+https://svc40.main.sl.t-online.de/LCID3221228244.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228244/3221228244.mpd
+
+#EXTINF:-1, DE: MagentaSport (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57732fdf21dd79a210a99bef27678198:60c0217702a5c9706fed4f77e14c1066
+https://svc40.main.sl.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
