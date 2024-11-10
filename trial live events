@@ -1,5 +1,15 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="Premier League Channel.nz" group-title="Peacock TV" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_4911277926444418117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US",Premier League TV
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
+
+#EXTINF:-1 tvg-id="USANetworkWest.us" group-title="Peacock TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/64dc70478a27bd649ee9d1d3/594f3527-250d-4241-88e6-1a66403de804/USA.png",USA Network West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 #EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="", Premier League - Brentford v. Bournemouth 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -52,46 +62,30 @@ https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Li
 #KODIPROP:inputstream.adaptive.license_key=00225fd04ffc907d9eda034a656c1a0e:2039ec525c523c20e70f6d18216ec590
 https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014719-716117-48f94965b15)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="VPN 🇺🇸" tvg-logo="", Premier League - Tottenham v. Ipswich [FASTLY]
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="", Premier League - Tottenham v. Ipswich [FASTLY]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64416adc885f33138f6169ebb61b996e:a14f046ba26010e31b097afb8e84fbad
 https://g001-sle-us-cmaf-prd-fy.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12007724-12007724-444189d12e52c)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="VPN 🇺🇸" tvg-logo="", Premier League - Tottenham v. Ipswich [AKAMAI]
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="", Premier League - Tottenham v. Ipswich [AKAMAI]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64416adc885f33138f6169ebb61b996e:a14f046ba26010e31b097afb8e84fbad
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12007724-12007724-444189d12e52c)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="VPN 🇺🇸" tvg-logo="", Premier League - Tottenham v. Ipswich [CLOUDFRONT]
+#EXTINF:-1 tvg-id="" group-title="OFF" tvg-logo="", Premier League - Tottenham v. Ipswich [CLOUDFRONT]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64416adc885f33138f6169ebb61b996e:a14f046ba26010e31b097afb8e84fbad
 https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12007724-12007724-444189d12e52c)/master.mpd
 
-#EXTINF:-1, DE: SPORTDIGITAL FUSSBALL (HD)
+#EXTINF:-1 tvg-id="" group-title="Premier Sports" tvg-logo="", Premier Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
-https://svc40.main.sl.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
 
-#EXTINF:-1, DE: MagentaTV Info (HD)
+#EXTINF:-1 tvg-id="" group-title="Premier Sports" tvg-logo="", Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3758200a4e20dda5516ccba91e393e11:bab38f0e372b07d570bbc812ba1eeec8
-https://svc40.main.sl.t-online.de/LCID3221228334.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228334/3221228334.mpd
-
-#EXTINF:-1, DE: Jukebox (HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4b5c28ed32ba225558e77c50a999bfe:b0cb5bd21e68f9cae5035fbe34fb1cc3
-https://svc40.main.sl.t-online.de/LCID3221228244.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228244/3221228244.mpd
-
-#EXTINF:-1, DE: MagentaSport (HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57732fdf21dd79a210a99bef27678198:60c0217702a5c9706fed4f77e14c1066
-https://svc40.main.sl.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
-
-#KODIPROP:inputstream.adaptive.file_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f75302cdb04a09e43f153095bcacd123":"307bf889d92969ffd3014dddb67999f6"}
-#EXTINF:-1, RO: Orange Sport 2 (HD)
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC
+#KODIPROP:inputstream.adaptive.license_key='0005d61a0ac86aca28176591b21ae2d9':'f87ad1430a7a38fd0ac248fc9a8389b1'
+https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
 
 #EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -150,3 +144,29 @@ https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear035-gb-dash1-prd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000389f24ba791bbd9c92a08aad7dbbc:269d7ad4cce5169191aafe68965f673c
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skymax)/manifest_720.mpd
+
+#EXTINF:-1, DE: SPORTDIGITAL FUSSBALL (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64fdf75a9fc7fa2f0dc197ecdfd07eba:44094f8dd29164989b9daecb9aabf4f2
+https://svc40.main.sl.t-online.de/LCID3221228350.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228350/3221228350.mpd
+
+#EXTINF:-1, DE: MagentaTV Info (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3758200a4e20dda5516ccba91e393e11:bab38f0e372b07d570bbc812ba1eeec8
+https://svc40.main.sl.t-online.de/LCID3221228334.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228334/3221228334.mpd
+
+#EXTINF:-1, DE: Jukebox (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4b5c28ed32ba225558e77c50a999bfe:b0cb5bd21e68f9cae5035fbe34fb1cc3
+https://svc40.main.sl.t-online.de/LCID3221228244.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228244/3221228244.mpd
+
+#EXTINF:-1, DE: MagentaSport (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57732fdf21dd79a210a99bef27678198:60c0217702a5c9706fed4f77e14c1066
+https://svc40.main.sl.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f75302cdb04a09e43f153095bcacd123":"307bf889d92969ffd3014dddb67999f6"}
+#EXTINF:-1, RO: Orange Sport 2 (HD)
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC
