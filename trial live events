@@ -62,6 +62,12 @@ https://svc40.main.sl.t-online.de/LCID3221228244.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_key=57732fdf21dd79a210a99bef27678198:60c0217702a5c9706fed4f77e14c1066
 https://svc40.main.sl.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
 
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f75302cdb04a09e43f153095bcacd123":"307bf889d92969ffd3014dddb67999f6"}
+#EXTINF:-1, RO: Orange Sport 2 (HD)
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC
+
 #EXTINF:-1 tvg-id="" group-title="DAZN" tvg-logo="",DAZN 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
