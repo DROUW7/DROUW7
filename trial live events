@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
@@ -77,12 +77,17 @@ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/c
 #KODIPROP:inputstream.adaptive.license_key=64416adc885f33138f6169ebb61b996e:a14f046ba26010e31b097afb8e84fbad
 https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12007724-12007724-444189d12e52c)/master.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Premier Sports" tvg-logo="", Premier Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ecad6c4413f8bdc54712ce6c072a2cf":"442df559c369bdada8ba3abe97811575"}
+#EXTINF:-1 tvg-id="PTVGlobal.pk" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Global
+https://live.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+
+#EXTINF:-1 tvg-id="Premier Sports 1 HD" group-title="Premier Sports" tvg-logo="", Premier Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Premier Sports" tvg-logo="", Premier Sports 2
+#EXTINF:-1 tvg-id="Premier Sports 2 HD" group-title="Premier Sports" tvg-logo="", Premier Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key='0005d61a0ac86aca28176591b21ae2d9':'f87ad1430a7a38fd0ac248fc9a8389b1'
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
@@ -115,12 +120,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sky Sports",L1 - Sky Sports Main Event UHD 🇬🇧
+#EXTINF:-1 tvg-id="Sky Sports Main Event UHD" tvg-logo="" group-title="Sky Sports",L1 - Sky Sports Main Event UHD 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"112fc5efca96a3cd7ee42ac46c733550":"227eaef1366fa61610a467bd87d10b13","112f6c710ad7beca0690bcab317378f5":"4e6c6fc00df4d5ed5e23e6d727eb227b"}
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-120.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sky Sports",L1 - Sky Sports F1 UHD 🇬🇧
+#EXTINF:-1 tvg-id="Sky Sports F1 UHD" tvg-logo="" group-title="Sky Sports",L1 - Sky Sports F1 UHD 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"112f86bc5301a93c0565898593906ea4":"13dee1bf74ec95dfca03b74ebaac8113","112f64abb81f9adef4e936440aec43f6":"f18c738cb4fc6094601f348a64d48827"}
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsf1uhd)/manifest_2160-120.mpd
