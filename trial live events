@@ -82,6 +82,11 @@ https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/c
 #EXTINF:-1 tvg-id="Ptv Sports.pk" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
 https://live.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"70299b42c6f8902fcfdc9467308d0cc9":"cf3b909e73d18bc41e84106c5e416993","1f3ad29a8730a48ab5b92ff8e90679ff":"f9addb00ac8106ab0e428fb83ad44c3f"}
+#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/RMC_Sport_1.png" group-title="France",RMC Sport 1
+https://zh4-v6-9-dashenc-live.zahs.tv/HD_rmc_sport_2_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBQG42TAOBRGZCTENJRIFCDGLJSGBDDCMZSGUYTGMBYIEZDMMRQEZSHE3J5MV4HA2LSMF2GS33OHIYTOMZSGA2DKOBZHATGS3TJORUWC3DSMF2GKPJSGAYDAJTNMF4HEYLUMU6TQMBQGATG22LOOJQXIZJ5GUYDAJTQOJSWMZLSOJSWIX3MMFXGO5LBM5ST2ZLOEZZWSZZ5GE4V6ZJUGM4GGNZRGQZWMMZQMU2DENRXGZRTKNZXHEZTSNJUG44DMMTEEZZXKYTUNF2GYZLTHVUGSZDEMVXC243ENATHK43FOJPWSZB5ONVXSX3DNA5DUMJQGU4TIMJREZ3D2MA
+
 #EXTINF:-1 tvg-id="Premier Sports 1 HD" group-title="Premier Sports" tvg-logo="", Premier Sports 1 HD 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
