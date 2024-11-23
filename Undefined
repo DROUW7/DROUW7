@@ -1,0 +1,80 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+
+#EXTINF:0 tvg-id="SCTV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",SCTV
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1732343241~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=29574423~data=hdntl~hmac=6c4db6df1feb48de63f628488f89726a45978e9f1c926c7c7922f3666c36de52
+
+#EXTINF:0 tvg-id="Indosiar" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg",Indosiar
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1732343138~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=29574423~data=hdntl~hmac=4f3fad6896b9e4834eb079c0ab8828d7ad5c0b526ab376410044a05c0c15a88d
+
+#EXTINF:0 tvg-id="Moji" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1732342969~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=29574423~data=hdntl~hmac=4ec819b3a684cf66ce3c761b97342e3289a01f7e3abef9abf543b8d96814dca3/index.m3u8
+
+#EXTINF:0 tvg-id="NET TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/875_stream.mpd?hdntl=exp=1732343372~acl=%2fvp9%2f875_stream.mpd!%2fvp9%2f875%2f*!%2fvp9%2f*%2f875_stream.mpd!%2fvp9%2f*%2f875%2f*~id=29574423~data=hdntl~hmac=f88670c6d6131d62a4d25ebbbc8981cd8b6382d58c14f520dfc4fed68fb484d5
+
+#EXTINF:0 tvg-id="Rock Action" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzC3ZMen5JsnlVu3-KzZMSUdZPsaxQ3Gsug_9BR_v3CvAOT1c272oW4Nj&s=10",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a770657952f812f3da5ceee99a049edb:ffe6d764915fea09d9c2d14676270ed5
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/8121_stream.mpd?hdnts=exp=1732341503~acl=/drm/dash/8121*~id=allUsers~hmac=2bcaa071c11907e00169ec517ab13995dd82635376fcae3013f39e9691467e85
+
+#EXTINF:0 tvg-id="Rock Entertainment - [Channel 240].id" group-title="Vidio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyIJAWciS0pY1B-0jNCKMWC-c0u18gtHeoJyiYTYQYaagwgQk2I6ihxw&s=10",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adceb9b38bea1176b0b645de75848ad9:0f56c166e348958f487e78ede2ea2bb6
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/8120_stream.mpd?hdnts=exp=1732341508~acl=/drm/dash/8120*~id=allUsers~hmac=6037b70f9a2b7838293830fc65d8451a6514365029f90232d54d3cd8e416d154
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio",Champions TV 1
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17938_stream.mpd?hdnts=exp=1732339516~acl=/drm/dash/17938*~id=allUsers~hmac=c0775bf02b7e5df581fb7941b214dc2065596752d091d7cb847811d5645fdc1e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8097f89903c0c6afbe3fbb4f82c07e12":"0e9dde48ac7cbe59447e68d6eefe7583"}
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="Vidio",Champions TV 2
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6686_stream.mpd?hdntl=exp=1732340412~acl=%2fdrm%2fdash%2f6686*~id=allUsers~data=hdntl~hmac=3e5e7365f56a43bd8ff8e460e70f2f6c3bb599942ff3f194f93230a909940548
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d1c52f71333f0651f9b7971eba4d6d7":"5394d82a0d04a629f95b83ce6612973b"}
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="Vidio",Champions TV 3
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdntl=exp=1732340506~acl=%2fdrm%2fdash%2f6786*~id=allUsers~data=hdntl~hmac=be0f700a253a38cd3b9cb93de30b0ec784539127134546d4c78bd7dfa02009da
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="Vidio",Champions TV 5
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/9182_stream.mpd?hdntl=exp=1732340543~acl=%2fdrm%2fdash%2f9182*~id=allUsers~data=hdntl~hmac=838ca729029f82e3c78ab83d72d9f0d5fb300f53f0bb0708da2a86b3e006bf07
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="Vidio",Champions TV 6
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/9183_stream.mpd?hdnts=exp=1732340132~acl=/drm/dash/9183*~id=allUsers~hmac=f9bcfb33aa546d7af538873c3c130e824dcd88e37bb206a411f5e5f30bb0d775
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6ade57e9ae9cea4b28633888a84c448":"84e4765e17259dd014b51d2d166ac63e"}
+#EXTINF:-1 tvg-id="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Vidio",Premier League TV
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/9353_stream.mpd?hdntl=exp=1732340576~acl=%2fdrm%2fdash%2f9353*~id=allUsers~data=hdntl~hmac=97ebf376f1ed2e64b63053a278ff962e71fa4589e5aff6bb1429844cd8042a4c
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"92964e74bebce041660fb124b8976680":"b90847044266ac963f96654336370090"}
+#EXTINF:-1 tvg-id="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Vidio",Bein 1
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17884_stream.mpd?hdntl=exp=1732340613~acl=%2fdrm%2fdash%2f17884*~id=allUsers~data=hdntl~hmac=d334c5b40a7c2083e71988919cfce5556e2d7fb2496b594eb3e036d030b34f1a
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
+#EXTINF:-1 tvg-id="Bein 2" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Vidio",Bein 2
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17875_stream.mpd?hdntl=exp=1732341308~acl=%2fdrm%2fdash%2f17875*~id=allUsers~data=hdntl~hmac=311b7f0658d7e8ebee5e947423aec16eb53c8b582e631e01376fdc566fc25de1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5dfecbb10fe0d3638ea692f9c501d69":"a0c27751c01554f8d792304c82303955"}
+#EXTINF:-1 tvg-id="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="Vidio",Bein 3
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdntl=exp=1732341341~acl=%2fdrm%2fdash%2f6317*~id=allUsers~data=hdntl~hmac=4dcdedc0a1be8ddd7aef3374a0f31c051f62f6a7967b8797bec25d2cd48a899d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50053fb452c6b15716f8eb9b0e524278":"c2608ef05318c7d7ea9b3694798cb15f"}
+#EXTINF:-1 tvg-id="SPOTV (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="Vidio",SPOTV
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1732341386~acl=%2fdrm%2fdash%2f17139*~id=allUsers~data=hdntl~hmac=2902f9b95d470701ee7c9373a0892821ea5b037f1eb93f1e58cd004a410082bb
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8d8f85d7592b081f4290a200156543cf":"aee1c7339ec279a0461500a737b3218e"}
+#EXTINF:-1 tvg-id="SPOTV 2 (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="Vidio",SPOTV 2
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17140_stream.mpd?hdntl=exp=1732341418~acl=%2fdrm%2fdash%2f17140*~id=allUsers~data=hdntl~hmac=fa3eb6f3dffb367dce52d6a9a267fd35ffddee67daa0e61f2568d2b1dc14c719
