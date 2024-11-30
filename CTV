@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
