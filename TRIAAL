@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="StarHub TV+",Hub Premier 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://sh-bks400-09.starhubgo.com/bpk-token/2ab@qeg4f4nxyyxyxvniqxuhqm2l2derrprpqmkykica/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
