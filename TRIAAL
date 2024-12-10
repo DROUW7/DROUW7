@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="StarHub TV+",Hub Premier 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://sh-bks400-09.starhubgo.com/bpk-token/2ab@qeg4f4nxyyxyxvniqxuhqm2l2derrprpqmkykica/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://sh-bks400-10.starhubgo.com/bpk-token/2ab@xe3t5qmvup4dsebsi0djq0h5brfj52hexwgvqgda/bpk-tv/AnimaxHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
+https://sh-bks400-10.starhubgo.com/bpk-token/2ab@onewlo23ryozrsnsiqm1dimx2yldr3sdo55qeyda/bpk-tv/AXNHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e51d8869544997b075456335cd3a0d:c3ee4aac1f7218a260945cbb98666ab1
+https://ucdn.starhubgo.com/bpk-tv/BeINSportsHDNEW/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8986c0461124aa9a9f4c96b0aafdca6:cc193e9b4e08dcada5bf63abf2a2c262
+https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD2NEW/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3449942d88df46bc99206ba13557cda5:366437be78738a8406edd151b7db6e0b
+https://ucdn.starhubgo.com/bpk-tv/beINSportsMaxHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
