@@ -2,6 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VIASAT SPORT 1 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c6db28d2f3a024669ecfcefb1d99a39:cba6f642dac4e2489680631e4b7a0af2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star S Select HD 1
 https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd 1
