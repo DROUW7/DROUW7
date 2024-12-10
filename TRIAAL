@@ -2,6 +2,24 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57b61d2c8ab52909c33c3c23d67363f:6e67be6876ccd8e06673d39393f074a5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 2
+https://dtvott-abc.akamaized.net/dash_live_1281/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a59234a987665d688df70c36510c4ab0:6b71f3c70b9a7444dd33465c604bed14
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 3
+https://dtvott-abc.akamaized.net/dash_live_1280/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccd027495d531c8a648e2cb0935fbb7:99ea12ca30ab978cf0e3b55165a0a6c0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports
+https://dtvott-abc-tk.akamaized.net/live_1118/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:45d78db595418f228edcdfd8eee3244a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 2
 https://dtvott-abc-tk.akamaized.net/dash_live_1099/manifest.mpd
