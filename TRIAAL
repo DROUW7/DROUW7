@@ -2,6 +2,30 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6db28d2f3a024669ecfcefb1d99a39:cba6f642dac4e2489680631e4b7a0af2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star S Select HD 1
+https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd 1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0ce9325bfb912a4addf4404cd10791:37aab4a5afa952b9eac0c8ec7dcb4f2d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star S Select HD 2
+https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a521d7d94563c18155c433f85e3c2ed3:29cb9bc0170332b0ffab44bbd2d09910
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Sports 1 HD
+https://bpcdn.dialog.lk/bpk-tv/Ch120/output/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ten Cricket
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
