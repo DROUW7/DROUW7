@@ -1,5 +1,35 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:45d78db595418f228edcdfd8eee3244a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 2
+https://dtvott-abc-tk.akamaized.net/dash_live_1099/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c4ba9ab3ffc39759be426ede10fa080:f64c2a0c7b78ca374e9e87f43d711276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 3
+https://dtvott-abc-tk.akamaized.net/live_1103/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66da31070eac58fcadb911804917ea28:049c391c5ce560cbfd89ec39b8ebe10c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 4
+https://dtvott-abc-tk.akamaized.net/dash_live_1107/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fb095d66807314cabbde0385b2953e4:eb790b9685c1d3f9680cc9f907a502ea
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn
+https://dtvott-abc-tk.akamaized.net/live_1104/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13cc9fd6bd903b9ab1602b12e3080ffd:ad1709ca8208939e969b2aa8f631edbf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn premium
+https://dtvott-abc-tk.akamaized.net/live_1125/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
