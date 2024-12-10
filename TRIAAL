@@ -2,24 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8847dc56894445368b84b0758972f009:09007708a97c02bea20df4e66463593c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO HD
-http://cdn-s-lb2.pluscdn.pl/ch/1455492/93/dash/9922d660/live.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83c9b4c1296e43aeb504b69694ddef09:5d0527c58f1f58dfedcfe39df2e51e00
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO 2 HD
-http://cdn-s-lb2.pluscdn.pl/ch/1455433/85/dash/56f7c328/live.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3be77f34e29640eca783805f5d934509:ecdacc7c959bffaa41168ce0e93c670b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO 3 HD
-http://cdn-s-lb2.pluscdn.pl/ch/1455151/58/dash/8348cfc8/live.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57b61d2c8ab52909c33c3c23d67363f:6e67be6876ccd8e06673d39393f074a5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 2
 https://dtvott-abc.akamaized.net/dash_live_1281/manifest.mpd
