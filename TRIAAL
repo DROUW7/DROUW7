@@ -2,6 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC Earth
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_bbc_earth_live/cdgo_bbc_earth_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b11517de312fcab5cba06be35e482138:806573a74789a69651c162da4dbb5526
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Orange Sport 1
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
