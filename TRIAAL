@@ -2,6 +2,96 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e360d008f4d34190a420c5cd2d104ee5:8c91e9c1f91c616640d083ad58e653f6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 1
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8d4df56c01042c4a9e070b105b44a9c:d698d35d58e3485577d181814d9e6230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 2
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$152/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54be740e68c247639458225e342af0c7:c5a5a6bbd8a1ff0eb9adac95f1224137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 3
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$153/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f432f2e07149cb86db8707d135fb33:83620e9499380d706721dd66ba67020a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 4
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$10/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df9d6c85b0e498689eedc0a22e75689:9769f84b961d67e8e3484c1e384f1fb4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 5
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$112/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40affdcf424547989c36cc7331a3bd1e:2661876d9cdedf703d97c3f79b58c3ca
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 6
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$566/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ee05deb59a435d82d1c9c133bed046:f0956482b01cd5be6377bc0f5867d736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV NBA
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$519/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff3fe6e4b95b40f6b249040bf53ffea4:8bc5e0f51e42232890119fa345ce90c8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport 1 HD
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$54/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cbc4219e54445cbb53d682b65af3146:3786089c2bf8fd5261e026cb00dad0ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport 2 HD
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$527/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c837645fe046cd83ff2a37aaf5f6ae:d564e8cb8fd49f3439c030295bb94cda
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 1
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$521/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6257216791047479380a4462c401849:c173cd3f4a0cd6d08b416ce1869c5772
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 2
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$522/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a73dd0073c949acb250de52181aa240:4688f175d0beae3839b4df8773e9411b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 3
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$523/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fce2d2ec2845495ca5aa5f433322371d:6c0d0b210193535404a0b65f5873cc51
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 4
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$524/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f85596dcc6cc4d9e842bc13d7c07340f:a143c33c5c1f27950f2d60e394aec95b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 5
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$525/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1ca4acb330649eb99fc278357353eeb:da2cb26393d8b4c0bc631ad775d37de9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 6
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$526/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57b61d2c8ab52909c33c3c23d67363f:6e67be6876ccd8e06673d39393f074a5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 2
 https://dtvott-abc.akamaized.net/dash_live_1281/manifest.mpd
