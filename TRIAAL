@@ -76,11 +76,6 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_kanal5hd_dk_live/sm_kanal5hd_dk_li
 https://cd-stream-live.telenorcdn.net/cdgo/sm_canal9_dk_live/sm_canal9_dk_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c9e227c2c89f345f7000a21fb7767920":"c7856076a0b564566d9889bbcefc147d","c9e227c2c89f345f7000a21fb7767910":"d5b55dbf9c1adbf15ad0b0590b33eb89"}
-#EXTINF:-1,MOTORVISION.TV HD
-https://cd-stream-live.telenorcdn.net/cdgo/sm_motorstvhd_live/sm_motorstvhd_live.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11dcd7b6a1a6416cee59ee534b7d7820":"d4876a36d19bbd891566cb03a6d2933f","11dcd7b6a1a6416cee59ee534b7d7810":"f1c33e1180f84ab60d49ca9e1063fd93"}
 #EXTINF:-1,MTV HD
 https://cd-stream-live.telenorcdn.net/cdgo/sm_mtv_live/sm_mtv_live.isml/playlist.mpd
@@ -114,11 +109,6 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_nickelodeonjr_live/sm_nickelodeonj
 #KODIPROP:inputstream.adaptive.license_key={"e9fe727cd95ad7fa44ec4f668a1d4020":"a75473a9b665bdaf74add0d46b1aa39e","e9fe727cd95ad7fa44ec4f668a1d4010":"dba8072bf21e28bcdb9188ba3ff88c7d"}
 #EXTINF:-1,NICKTOONS
 https://cd-stream-live.telenorcdn.net/cdgo/sm_nicktoons_live/sm_nicktoons_live.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d63c87a135f6f8c9b30d80ae780e9220":"5044dfcb437717c95b47669c4e895605","d63c87a135f6f8c9b30d80ae780e9210":"2250760827d9f0a3e5c10551b24fc208"}
-#EXTINF:-1,SCI DISCOVERY SCINENCE HD
-https://cd-stream-live.telenorcdn.net/cdgo/sm_discovery_science_live/sm_discovery_science_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ebadd9c9e6349ce8482d53557eb06820":"1ffe33c5c4ffd6df28f8a29de622f7c5","ebadd9c9e6349ce8482d53557eb06810":"f93d9967caa8f006a86f0ab0875e3c9c"}
