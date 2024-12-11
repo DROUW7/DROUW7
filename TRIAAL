@@ -1,70 +1,54 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96dba94836a425ac0719fb0b8d241887:3c5ac0935ea05bf07a285bae7a76905d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",magentasport
-https://svc40.main.vr.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
+#KODIPROP:inputstream.adaptive.license_key={"806ee7441a858cb173e51f94ce49df20":"7d35474178dcd709c6589043b2a748bf","806ee7441a858cb173e51f94ce49df10":"46245291f789ee5be73fab2a28aae6e7"}
+#EXTINF:-1,BBC NORDIC HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_bbc_brit_nordic_live/sm_bbc_brit_nordic_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC Earth
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_bbc_earth_live/cdgo_bbc_earth_live.isml/playlist.mpd
+#KODIPROP:inputstream.adaptive.license_key={"056d12c69fb549dbb76dee4390858e20":"8270c08143e50e1f696127b2014263d1","056d12c69fb549dbb76dee4390858e10":"2e4a3cd90f45939c36846e3c4a61583f"}
+#EXTINF:-1,CARTON NETWORK HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_cartoonnetwork_live/sm_cartoonnetwork_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b11517de312fcab5cba06be35e482138:806573a74789a69651c162da4dbb5526
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Orange Sport 1
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"8622c6b5208106cd2cea87942fbe1c20":"b86aa5c02efbac6cf32ac8759bf9c9a6","8622c6b5208106cd2cea87942fbe1c10":"581f6ff9c7662173368c8d40ffa7d85b"}
+#EXTINF:-1,DISCOVERY HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_discovery_dk_live/sm_discovery_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f75302cdb04a09e43f153095bcacd123:307bf889d92969ffd3014dddb67999f6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Orange Sport 2
-https://ott.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"15c7b9f0bb4e037c5222633327205420":"d9a694a188dd20b05017038185894c12","15c7b9f0bb4e037c5222633327205410":"f5e376a0bbe802d8b0dbc3db108ee8d2"}
+#EXTINF:-1,DK 4
+https://cd-stream-live.telenorcdn.net/cdgo/sm_dk4_dk_live/sm_dk4_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b87857ba74ce03f9fa2866f1e086d05d:1cd289ac71ce5fb306a5e7653192ce3a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Orange Sport 3
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"d6cd7f77d6aa0f1368ae36fb181b5b20":"3708fd57c6787d64f4ba61ec3a056bb1","d6cd7f77d6aa0f1368ae36fb181b5b10":"20cc33bdd87ed5d3214f1eb9a718feab"}
+#EXTINF:-1,DR 1 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_dr1hd_dk_live/sm_dr1hd_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Orange Sport 4
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"d96c1f3cb7216696995cf6cc5e718f20":"c97dec5567e74aebe3ef145284402e59","d96c1f3cb7216696995cf6cc5e718f10":"681026e1a36d9577639ff190bc7567f0"}
+#EXTINF:-1,DR 2 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_dr2hd_dk_live/sm_dr2hd_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prima Sport 1 HD
-https://ott1.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"96b6323d7ed1e3cab56ef6babb6fd620":"88e069d627f71241a433bf45cad00436","96b6323d7ed1e3cab56ef6babb6fd610":"a6422abd45333dc261a100f3f1f06933"}
+#EXTINF:-1,DR RAMA SJANG
+https://cd-stream-live.telenorcdn.net/cdgo/sm_drramasjang_dk_live/sm_drramasjang_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prima Sport 2 HD
-https://ott1.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"98678092a54e7a8db36ebdc0c1149220":"75c74f45f03419196990642f7918039a","98678092a54e7a8db36ebdc0c1149210":"43d76add19a3d50ba581c7d167c411c6"}
+#EXTINF:-1,EURO SPORT 1 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_eurosport1_hd_dk_live/sm_eurosport1_hd_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prima Sport 3 HD
-https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"32d36c16f42340df7c0dde73fd204920":"6a32b1bb4322710fcb5e2052866d09d0","32d36c16f42340df7c0dde73fd204910":"a83ff6114cf445982c58badf3db1efb2"}
+#EXTINF:-1,EURO SPORT 2 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_eurosport_dk_live/sm_eurosport_dk_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prima Sport 4 HD
-https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbf5ed90d3d2a3b61468cf6fc5145e8:7506cf25862c6e1630285359c2ef883f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PRO Arena HD
-https://ott.cyberhost.ro/sdash/LIVE$Sportro/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+#KODIPROP:inputstream.adaptive.license_key={"d885322ea17c6ed18f982ca2ea73d520":"c04f2ab4c1cfcee910a56f3c900f9424","d885322ea17c6ed18f982ca2ea73d510":"92a5c04d09775bb044b6c59d482254d1"}
+#EXTINF:-1,H2 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_history2_hd_live/sm_history2_hd_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,257 +56,35 @@ https://ott.cyberhost.ro/sdash/LIVE$Sportro/index.mpd/Manifest?start=LIVE&end=EN
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VIASAT SPORT 1 HD
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c6db28d2f3a024669ecfcefb1d99a39:cba6f642dac4e2489680631e4b7a0af2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star S Select HD 1
-https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd 1
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0ce9325bfb912a4addf4404cd10791:37aab4a5afa952b9eac0c8ec7dcb4f2d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star S Select HD 2
-https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a521d7d94563c18155c433f85e3c2ed3:29cb9bc0170332b0ffab44bbd2d09910
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Sports 1 HD
-https://bpcdn.dialog.lk/bpk-tv/Ch120/output/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ten Cricket
-https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 1
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 2
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 3
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 4
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 5
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 6
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeinSports 7
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b18befd3eb8a49169c6a161733d4fb91:89358eb8d68871a2ac61fe217750e646
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5656/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM 3
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a07e03c0ba140358b7c4e47e05e0b29:53b5f74d7d986dacef85122677a73da5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SPORTS
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM 1
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c2c25e40d8e4f70a3c343e97d9d52ed:07faa6904c06f9bbf8860691c9c3629d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTP 1 HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$110/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99d060d8a49a486facff194709176627:f894d61cc95b64a701cb506d50fa6b51
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTP 2 HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$172/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=663fb13c42674803bbe7ebe7f6d55921:5b3dc74a9bcce9d2e1e768b936969538
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",SIC HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$390/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67e9cde786f045268825148f7eb9557e:6d505947ad7c113b1cc901e2175b123c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TVI HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$174/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e69811809a774ad9a9c11f41db6eaf98:beafd9d9907cf7d4efd64a7f6a17e26b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",SIC Noticias HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$413/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5b73bc5495b475b997570bbd6ca2bdf:85214b0c256aa78951c0632a08e184de
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTP 3 HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$563/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e360d008f4d34190a420c5cd2d104ee5:8c91e9c1f91c616640d083ad58e653f6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 1
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8d4df56c01042c4a9e070b105b44a9c:d698d35d58e3485577d181814d9e6230
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 2
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$152/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54be740e68c247639458225e342af0c7:c5a5a6bbd8a1ff0eb9adac95f1224137
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 3
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$153/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f432f2e07149cb86db8707d135fb33:83620e9499380d706721dd66ba67020a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 4
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$10/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0df9d6c85b0e498689eedc0a22e75689:9769f84b961d67e8e3484c1e384f1fb4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 5
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$112/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40affdcf424547989c36cc7331a3bd1e:2661876d9cdedf703d97c3f79b58c3ca
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV 6
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$566/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58ee05deb59a435d82d1c9c133bed046:f0956482b01cd5be6377bc0f5867d736
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport TV NBA
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$519/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff3fe6e4b95b40f6b249040bf53ffea4:8bc5e0f51e42232890119fa345ce90c8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport 1 HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$54/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cbc4219e54445cbb53d682b65af3146:3786089c2bf8fd5261e026cb00dad0ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport 2 HD
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$527/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9c837645fe046cd83ff2a37aaf5f6ae:d564e8cb8fd49f3439c030295bb94cda
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 1
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$521/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6257216791047479380a4462c401849:c173cd3f4a0cd6d08b416ce1869c5772
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 2
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$522/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a73dd0073c949acb250de52181aa240:4688f175d0beae3839b4df8773e9411b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 3
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$523/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fce2d2ec2845495ca5aa5f433322371d:6c0d0b210193535404a0b65f5873cc51
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 4
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$524/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f85596dcc6cc4d9e842bc13d7c07340f:a143c33c5c1f27950f2d60e394aec95b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 5
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$525/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1ca4acb330649eb99fc278357353eeb:da2cb26393d8b4c0bc631ad775d37de9
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven 6
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$526/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=android
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57b61d2c8ab52909c33c3c23d67363f:6e67be6876ccd8e06673d39393f074a5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 2
-https://dtvott-abc.akamaized.net/dash_live_1281/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a59234a987665d688df70c36510c4ab0:6b71f3c70b9a7444dd33465c604bed14
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports 3
-https://dtvott-abc.akamaized.net/dash_live_1280/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ccd027495d531c8a648e2cb0935fbb7:99ea12ca30ab978cf0e3b55165a0a6c0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",fox sports
-https://dtvott-abc-tk.akamaized.net/live_1118/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:45d78db595418f228edcdfd8eee3244a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 2
-https://dtvott-abc-tk.akamaized.net/dash_live_1099/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c4ba9ab3ffc39759be426ede10fa080:f64c2a0c7b78ca374e9e87f43d711276
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 3
-https://dtvott-abc-tk.akamaized.net/live_1103/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66da31070eac58fcadb911804917ea28:049c391c5ce560cbfd89ec39b8ebe10c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn 4
-https://dtvott-abc-tk.akamaized.net/dash_live_1107/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fb095d66807314cabbde0385b2953e4:eb790b9685c1d3f9680cc9f907a502ea
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn
-https://dtvott-abc-tk.akamaized.net/live_1104/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13cc9fd6bd903b9ab1602b12e3080ffd:ad1709ca8208939e969b2aa8f631edbf
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",espn premium
-https://dtvott-abc-tk.akamaized.net/live_1125/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
