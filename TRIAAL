@@ -185,7 +185,85 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_d
 #EXTINF:-1,TV2 SPORT X HD
 https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"17b94ee43530e0376054b586979c4c20":"17d93266a6ca95068933b83cb3b7c0c0","17b94ee43530e0376054b586979c4c10":"ce3658fc5009c7c4fa6acc6a0e5d8f81"}
+#EXTINF:-1,TV2 SYD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_syd_dk_live/sm_tv2_syd_dk_live.isml/playlist.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4307d4f846ea93228f2e6c30bb1cb920":"9a5db83aa23fcc43fa67960c50bdf672","4307d4f846ea93228f2e6c30bb1cb910":"5847181ef8076ee3ff134bb428ae65d1"}
+#EXTINF:-1,TV3 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_dk_live/sm_tv3_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9685fc5e7e019af8cac30f27fb091020":"20f8644cc20c01a1b4975736cf1f5374","9685fc5e7e019af8cac30f27fb091010":"15045796521cac61ff69df7834ea74a5"}
+#EXTINF:-1,TV3 MAX HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_max_live/sm_tv3_max_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"12686ca76ae996311c65fed491deda20":"9cac0dcfaaf5287b1cd4afefdf8ef73d","12686ca76ae996311c65fed491deda10":"9a2f9957c3a26149f894a591870655d2"}
+#EXTINF:-1,TV3 PLUS HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_puls_dk_live/sm_tv3_puls_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c2136705f929579c3d5c9f6c3663320":"36cb613ecbc134c2d09310d97d0d1564","5c2136705f929579c3d5c9f6c3663310":"bca1e9966a120f14c563490b09d5aeec"}
+#EXTINF:-1,TV3 SPORT HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_sport1_dk_live/sm_tv3_sport1_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"07423d6dc3e4cbda8ed2af7a4b22fa20":"31083160749e47589f0bf93d8af9aad6","07423d6dc3e4cbda8ed2af7a4b22fa10":"e400e38002bcfe7ffd76e1992b18f1a8"}
+#EXTINF:-1,TV3+ HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_plus_dk_live/sm_tv3_plus_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3f9a89e9cfe0d56da0769e801a25520":"aabee00ef37b45d7b2799f96adcdd07c","d3f9a89e9cfe0d56da0769e801a25510":"b5cc0fa73a511e19070bf30050457378"}
+#EXTINF:-1,TVP FYN HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_fyn_dk_live/sm_tv2_fyn_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b0f28ccaa732bf2183396f738b383220":"6e48ce50328a564c7db1b367c7647774","b0f28ccaa732bf2183396f738b383210":"e4cf10a0f6a3c607d730dc5d995e7228"}
+#EXTINF:-1,V FILM ACTION HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_action_live/sm_viasat_film_action_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c1724091197170a0d0edad966e03020":"6ce0353fb9709fae437b650642e99f56","9c1724091197170a0d0edad966e03010":"99c65fc84e1150304c033285229db8db"}
+#EXTINF:-1,V FILM FAMILY
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_family_live/sm_viasat_film_family_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84c1aaf2ab242debcd2eb28177cc0220":"0275a3080e1e64670e369a75e194cf74","84c1aaf2ab242debcd2eb28177cc0210":"c298cfce8d443757cc8b3d25f34ce243"}
+#EXTINF:-1,V FILM HITS HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_hits_live/sm_viasat_film_hits_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d6d898152b00e40b820b8297335c1120":"47c6e30820266db347d583e5195c9d59","d6d898152b00e40b820b8297335c1110":"e365d691ba8ea5206f62391a5b0df1bf"}
+#EXTINF:-1,V FILM PREMIERE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_premiere_live/sm_viasat_film_premiere_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a48b90fc1d5fb962f5fbe2dcc186a020":"f2055be4226fc9803352ec6a3687b1b0","a48b90fc1d5fb962f5fbe2dcc186a010":"687b217c3d0333e433d2af8966038c71"}
+#EXTINF:-1,V SERIES HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_series_live/sm_viasat_series_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"65287fbcf1afc2ade90ac0f75d86f720":"2409253e58a6c7cabde7263033534677","65287fbcf1afc2ade90ac0f75d86f710":"4b27495cf6569fc624008f260fe10953"}
+#EXTINF:-1,VIASAT EXPLORE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_explore_live/sm_viasat_explore_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8dace0138f1f4acab9e3cade035b7920":"b5c723d679482a086df927bf486018c7","8dace0138f1f4acab9e3cade035b7910":"2f2015803bca243b870ff2ad3dac3dec"}
+#EXTINF:-1,VIASAT HISTORY HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_history_live/sm_viasat_history_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f2897b7347ede042dd832effd53b9520":"9900e0f9c990b864008012c714c98aba","f2897b7347ede042dd832effd53b9510":"00a9ed85c5180b52f944791bc90507c8"}
+#EXTINF:-1,VIASAT NATURE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_nature_live/sm_viasat_nature_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8060c0f16c2fd51bc92d2821b9200e20":"f523672c42e93bd8156ec78086eb84ee","8060c0f16c2fd51bc92d2821b9200e10":"e66efc92ef8b3efbf34798fc6525292f"}
+#EXTINF:-1,TV2 NORD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_nord_dk_live/sm_tv2_nord_dk_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
