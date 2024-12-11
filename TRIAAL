@@ -76,11 +76,6 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_kanal5hd_dk_live/sm_kanal5hd_dk_li
 https://cd-stream-live.telenorcdn.net/cdgo/sm_canal9_dk_live/sm_canal9_dk_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5d6e7a2ab80c5d69598babe5c5d00a20":"67cc219a5bd9bd88dd047a394a737dfe","5d6e7a2ab80c5d69598babe5c5d00a10":"76094ec244fc6dedb3016a31c2c18017"}
-#EXTINF:-1,LOVE NATURE HD
-https://cd-stream-live.telenorcdn.net/cdgo/sm_love_nature_live/sm_love_nature_live.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c9e227c2c89f345f7000a21fb7767920":"c7856076a0b564566d9889bbcefc147d","c9e227c2c89f345f7000a21fb7767910":"d5b55dbf9c1adbf15ad0b0590b33eb89"}
 #EXTINF:-1,MOTORVISION.TV HD
 https://cd-stream-live.telenorcdn.net/cdgo/sm_motorstvhd_live/sm_motorstvhd_live.isml/playlist.mpd
@@ -99,6 +94,108 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_vh1_live/sm_vh1_live.isml/playlist
 #KODIPROP:inputstream.adaptive.license_key={"9c3fae27278eedf65bbba4a1a4d72720":"b689bda3caa0b6cf8f5c061584938dc1","9c3fae27278eedf65bbba4a1a4d72710":"2421d50038cfae35599f70acb167dd47"}
 #EXTINF:-1,MTV80S
 https://cd-stream-live.telenorcdn.net/cdgo/sm_vh1_classic_live/sm_vh1_classic_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"58b9e505caaf66572823d83cba95ca20":"c8d77e20c809264edf57117d4b695d89","58b9e505caaf66572823d83cba95ca10":"c2e92f5592529cc34dfa6b77eb1e1079"}
+#EXTINF:-1,NAT GEO HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_natgeo_channel_dk_live/sm_natgeo_channel_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8126984ab617aea06df43e4e81f68d20":"250a3b0c526424074719ebae77f642c4","8126984ab617aea06df43e4e81f68d10":"fe4cf9c5380af188859ed1e83542912f"}
+#EXTINF:-1,NICKELODEON
+https://cd-stream-live.telenorcdn.net/cdgo/sm_nickelodeon_se_fi_live/sm_nickelodeon_se_fi_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"522ee267a3266603b2adac270e356e20":"6d74bca9ec45b1e25c09a44ac6c09e44","522ee267a3266603b2adac270e356e10":"ffefa2cbcb5750b0c1c003c7405b86cc"}
+#EXTINF:-1,NICKJR.
+https://cd-stream-live.telenorcdn.net/cdgo/sm_nickelodeonjr_live/sm_nickelodeonjr_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e9fe727cd95ad7fa44ec4f668a1d4020":"a75473a9b665bdaf74add0d46b1aa39e","e9fe727cd95ad7fa44ec4f668a1d4010":"dba8072bf21e28bcdb9188ba3ff88c7d"}
+#EXTINF:-1,NICKTOONS
+https://cd-stream-live.telenorcdn.net/cdgo/sm_nicktoons_live/sm_nicktoons_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d63c87a135f6f8c9b30d80ae780e9220":"5044dfcb437717c95b47669c4e895605","d63c87a135f6f8c9b30d80ae780e9210":"2250760827d9f0a3e5c10551b24fc208"}
+#EXTINF:-1,SCI DISCOVERY SCINENCE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_discovery_science_live/sm_discovery_science_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ebadd9c9e6349ce8482d53557eb06820":"1ffe33c5c4ffd6df28f8a29de622f7c5","ebadd9c9e6349ce8482d53557eb06810":"f93d9967caa8f006a86f0ab0875e3c9c"}
+#EXTINF:-1,SEE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_see_dk_live/sm_see_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420":"8399d4f59726f514b7665bb5ff66a9e1","99a4b11ecd0def97aca1ecef9ee15410":"5593fc645a7432cb88954bae345b9b03"}
+#EXTINF:-1,SPORT LIVE
+https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5af60b3cda57d0f1dd490b2cdc05820":"ebc71403172ad3864b3961610919896e","c5af60b3cda57d0f1dd490b2cdc05810":"eebd69eb9f802606e72d09316df4f318"}
+#EXTINF:-1,TLC HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tlc_dk_live/sm_tlc_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"29addad3f0a079d30ab5d353ce3c9720":"4e02675310890268ee264d1546520bdc","29addad3f0a079d30ab5d353ce3c9710":"29839e7b79f5353b8620e5fd6532adb3"}
+#EXTINF:-1,TV 6 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_sekseren_dk_live/sm_sekseren_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a8b6e4383b0881cff945a65204a52520":"4be9ef6a9032143c5fbb545c0a1e3fca","a8b6e4383b0881cff945a65204a52510":"8e75ad15bf82f003410ce9ed49da7293"}
+#EXTINF:-1,TV OST
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_ost_dk_live/sm_tv2_ost_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9bb2b9d97743eaf4cc2916ef78da3d20":"c9929040240cb3788e5063f9d47738b4","9bb2b9d97743eaf4cc2916ef78da3d10":"d44b48f2280b3ece52e86c0441ea6d9c"}
+#EXTINF:-1,TV2 BORNHOLM
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_bornholm_dk_live/sm_tv2_bornholm_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d45671c004ba5bedf2bbbfca36dd5f20":"8fddfa29e116ae6f08d499f9e3241fc8","d45671c004ba5bedf2bbbfca36dd5f10":"91ee32305e1b48e02d8db9b61f4c6998"}
+#EXTINF:-1,TV2 CHARLIE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2charlie_dk_live/sm_tv2charlie_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d725b775b952ddfd13d1f7e92f021c20":"3c24cc5af0d72d5a43f4691429b1ba74","d725b775b952ddfd13d1f7e92f021c10":"0eb1cbb703689e54794c0870c9d2ac06"}
+#EXTINF:-1,TV2 ECHO HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2zuluhd_dk_live/sm_tv2zuluhd_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ab7651bbafdf660e76564cccdad09d20":"7bb59be546d00b4158e6d7d2f4bf6238","ab7651bbafdf660e76564cccdad09d10":"8b8e8b1f1f292873dd57b44cfcf94d81"}
+#EXTINF:-1,TV2 FRI HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2frihd_dk_live/sm_tv2frihd_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7f24af85838ad782c22ec349ebee0820":"eefd936d24006ec645971a4db9f74f87","7f24af85838ad782c22ec349ebee0810":"25f664418e41651198a2a46cf6436c50"}
+#EXTINF:-1,TV2 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2hd_dk_live/sm_tv2hd_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"96f3c2c6c09466bb707be0f1461c8a20":"19fb4662694dd3617e817c517b8fb4c4","96f3c2c6c09466bb707be0f1461c8a10":"31a27eb6eba2d157f74e35944a346731"}
+#EXTINF:-1,TV2 MIDTVEST
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_midtvest_dk_live/sm_tv2_midtvest_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a1a7a5d754ded5640eb8d38be4c6cf20":"045541bdb2698d093db21d560bbbac5d","a1a7a5d754ded5640eb8d38be4c6cf10":"8aee7071ac92c9eb80d1df6c2c49b0cf"}
+#EXTINF:-1,TV2 NEWS HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2news_dk_live/sm_tv2news_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2ade2cebe1991f60e97b240d7417a720":"ab5dcc9ea31ec4bb57793b4ac1d4c9c2","2ade2cebe1991f60e97b240d7417a710":"07a68486dffac930c024c7e0e7660d21"}
+#EXTINF:-1,TV2 OSTJYLLAND
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_ostjylland_dk_live/sm_tv2_ostjylland_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34dc0e5f6da90237bf6a70fc50786920":"3afd582714c118e21d83ac8be40d17bb","34dc0e5f6da90237bf6a70fc50786910":"d80d384de9f8daa996762c4df98afaf5"}
+#EXTINF:-1,TV2 SPORT HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6529e289d61a7d467c7a6a8d80189b20":"4f82fb1d198a249b50fe7cb093f3705b","6529e289d61a7d467c7a6a8d80189b10":"8df6584244a3a3303ac9b3fb689e2e19"}
+#EXTINF:-1,TV2 SPORT X HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
