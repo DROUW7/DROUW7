@@ -50,6 +50,56 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_eurosport_dk_live/sm_eurosport_dk_
 #EXTINF:-1,H2 HD
 https://cd-stream-live.telenorcdn.net/cdgo/sm_history2_hd_live/sm_history2_hd_live.isml/playlist.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc98b8ae18668914c83665777708a320":"8765166309699582549e6b991bf13c72","bc98b8ae18668914c83665777708a310":"9d09ece94fc5142381b1618807f79884"}
+#EXTINF:-1,HISTORY HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_history_live/sm_history_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4074f903fcd80cfa88cc35e5d765ef20":"1b4c88d4a74774c75cda81929259c5b7","4074f903fcd80cfa88cc35e5d765ef10":"6cd33adb451f730951b1ea0206e39c83"}
+#EXTINF:-1,ID
+https://cd-stream-live.telenorcdn.net/cdgo/sm_discovery_id_dk_live/sm_discovery_id_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c850c2a635d021126ab617afd3258f20":"8a06741ebd3d369389ffba70d49a3755","c850c2a635d021126ab617afd3258f10":"943e71cbeaf079eaa1e6328c90f918cc"}
+#EXTINF:-1,KANAL4 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_kanal4_dk_live/sm_kanal4_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a45f0c075a4b7f6040a0173c997b6820":"230fc0ae71c31e2734fb3c74a3f1ced0","a45f0c075a4b7f6040a0173c997b6810":"95f62ea278dada277577c8a033d2318b"}
+#EXTINF:-1,KANAL5 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_kanal5hd_dk_live/sm_kanal5hd_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2739df19e7bd84711b904818fc82ee20":"87ae033a15f96bee62feb7b2c0afcedd","2739df19e7bd84711b904818fc82ee10":"225c5e72259f5e921edc6cb963e46516"}
+#EXTINF:-1,KANAL9 HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_canal9_dk_live/sm_canal9_dk_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5d6e7a2ab80c5d69598babe5c5d00a20":"67cc219a5bd9bd88dd047a394a737dfe","5d6e7a2ab80c5d69598babe5c5d00a10":"76094ec244fc6dedb3016a31c2c18017"}
+#EXTINF:-1,LOVE NATURE HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_love_nature_live/sm_love_nature_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c9e227c2c89f345f7000a21fb7767920":"c7856076a0b564566d9889bbcefc147d","c9e227c2c89f345f7000a21fb7767910":"d5b55dbf9c1adbf15ad0b0590b33eb89"}
+#EXTINF:-1,MOTORVISION.TV HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_motorstvhd_live/sm_motorstvhd_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11dcd7b6a1a6416cee59ee534b7d7820":"d4876a36d19bbd891566cb03a6d2933f","11dcd7b6a1a6416cee59ee534b7d7810":"f1c33e1180f84ab60d49ca9e1063fd93"}
+#EXTINF:-1,MTV HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_mtv_live/sm_mtv_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"63ee8b0128bae218eaff6195f328c620":"fb7bab22afcdf53187eb6b708107bef7","63ee8b0128bae218eaff6195f328c610":"5259db1a3d0d1b33852bb5ee04af3e31"}
+#EXTINF:-1,MTV00S HD
+https://cd-stream-live.telenorcdn.net/cdgo/sm_vh1_live/sm_vh1_live.isml/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c3fae27278eedf65bbba4a1a4d72720":"b689bda3caa0b6cf8f5c061584938dc1","9c3fae27278eedf65bbba4a1a4d72710":"2421d50038cfae35599f70acb167dd47"}
+#EXTINF:-1,MTV80S
+https://cd-stream-live.telenorcdn.net/cdgo/sm_vh1_classic_live/sm_vh1_classic_live.isml/playlist.mpd
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
