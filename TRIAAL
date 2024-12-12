@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"31a81cf078794193bb125ca3f229f850":"4e3f66117af3b739bf2971df5114d9a5"}
+#EXTINF:-1,4K
+https://tr.live.cdn.cgates.lt/live/dash/62507/index.mpd
 
 
 
