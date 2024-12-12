@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31a81cf078794193bb125ca3f229f850":"4e3f66117af3b739bf2971df5114d9a5"}
-#EXTINF:-1,4K
+#EXTINF:-1 tvg-logo="https://www.cgates.lt/wp-content/uploads/2023/11/logo-museum-tv-4k-spot.png",Museum TV 4K
 https://tr.live.cdn.cgates.lt/live/dash/62507/index.mpd
 
 
