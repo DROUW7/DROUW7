@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,Season 1 : Ep 01 - Boruto Uzumaki!
+https://www.vidio.com/videos/7093180/common_tokenized_playlist.m3u8
+
+#EXTINF:-1,Season : Ep 01 - Kepulangan
+https://www.vidio.com/videos/7173251/common_tokenized_playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
