@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38829b8e0533b28450a5a69":"40980f9d4f7e83edbb3dc2b9f04021b9"}
 #EXTINF:-1 tvg-id="BBC World News.fr" group-title="France",BBC World News
-http://ncdn-live.pfd.sfr.net/sdash/LIVE$BBCWORLDNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$BBCWORLDNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
