@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,Season 1 : Ep 01 - Boruto Uzumaki!
-https://www.vidio.com/videos/7093180/common_tokenized_playlist.m3u8
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38829b8e0533b28450a5a69":"40980f9d4f7e83edbb3dc2b9f04021b9"}
+#EXTINF:-1 tvg-id="BBC World News.fr" group-title="France",BBC World News
+http://ncdn-live.pfd.sfr.net/sdash/LIVE$BBCWORLDNEWS/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 
-#EXTINF:-1,Season : Ep 01 - Kepulangan
-https://www.vidio.com/videos/7173251/common_tokenized_playlist.m3u8
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbce29b4e0533b28450a72df":"ec7b42d680f395e98b70f0f41528d13e"}
+#EXTINF:-1 tvg-id="RMCSPORT1.fr" group-title="France",RMCSPORT1
+https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
