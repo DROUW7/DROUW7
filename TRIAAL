@@ -1,5 +1,75 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"45742c5919d94b7ea59f776d69d8731f":"02cb1cf262e0ef55ff478bee6ebf297a"}
+#EXTINF:-1 group-title="AU",501
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/d02e2d8722a14413b5c8b354343c9ce2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2a369ad1990b4753a60efddb26566fcc":"2afc5b514732bbcd7ae5f0d4e84dc4a0"}
+#EXTINF:-1 group-title="AU",502
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/9e84985084144f4591b094e340379c3b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1e24829044eb4cad97e2ee742603942c":"cd0b01d8df6b31bcf189ed675c393149"}
+#EXTINF:-1 group-title="AU",503
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/cd060464f59947f29b890f8c76020ba4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa769f5b08c24ea58bdc315b725df682":"7f51a3621e2ff0e947a399f2afd21f41"}
+#EXTINF:-1 group-title="AU",504
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/46982cf446e64f7ea28e5cd322d1d727/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e8042d5733fc4a6487c4da8482c9e0e8":"f9a316b5da3ef2d9cbb38f2e12fbf5f1"}
+#EXTINF:-1 group-title="AU",505
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/ed10ba1b249e4e559082d1627809b3e0/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b889134b5d84f2a813b6d286f99de9a":"bdead7c2d27a64dfdf94e42828e80a48"}
+#EXTINF:-1 group-title="AU",506
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/97856d1115cd4e9299e8a44b33be949d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"45742c5919d94b7ea59f776d69d8731f":"02cb1cf262e0ef55ff478bee6ebf297a"}
+#EXTINF:-1 group-title="AU",507
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/d02e2d8722a14413b5c8b354343c9ce2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a170b74d2c6c437e8077a8f798ceac89":"ed54c5faf4cf9e4bfdc3f3a7e7f8d884"}
+#EXTINF:-1 group-title="AU",bein2
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/6408f88861ae4a49999bfa81b2b7c01d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7325ed185b15462888218ae60df17cac":"e5eaa994035d03918a04fcf6b0294e26"}
+#EXTINF:-1 group-title="AU",bein3
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/0bd598c1c6f94c63922737791ebb1cb0/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e93c788837134e198f520903ad35dc94":"1b4457953ff23ece78790df9a1e11527"}
+#EXTINF:-1 group-title="AU",espn
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/5fb283d9104b4584b0f8e60468d83eaa/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc2398344b414820aef0820a98847056":"cb06892fdf105e2489eb5a99adf266a9"}
+#EXTINF:-1 group-title="AU",espn2
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/449ce4ef8e2d4202baab82782ea4be7e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2ec7f3ac94a34dc18d18e824d1b5e5f4":"d0d6f038a1bdfd46681ea7d27c51f96f"}
+#EXTINF:-1 group-title="AU",fox sports news
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/27fdaa649d9a4bada0a513db91fd757a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02e6da5860454349abf49bba3cbd0fd0":"7deeb268fffa72171f554fb2b79e438a"}
+#EXTINF:-1 group-title="AU",racing
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/c0c202cc7e314a22aadd1805f0545d6f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"289555a80d2749dd887f2950ef2010e6":"2c73aa89357e8041140b6d624f9306aa"}
+#EXTINF:-1 group-title="AU",wwe
+https://kayo-live-761f422bb93edb7b.akamaized.net/out/v1/70e96bd7a1cd451dbbb51eefd6ee020c/index.mpd
+
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38829b8e0533b28450a5a69":"40980f9d4f7e83edbb3dc2b9f04021b9"}
