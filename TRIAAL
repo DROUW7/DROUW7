@@ -1,6 +1,26 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bd7d4fa716b8463c914049fbb3789203":"b4f0fcd1b5af1fd6cac3a5eb44c7ba64"}
+#EXTINF:-1,&pictures
+https://delta12tatasky.akamaized.net/out/i/3569786.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90784876590b42efa1732770100ae411":"04947be5d5fcb5152e517b3d88a45620"}
+#EXTINF:-1,7x Music
+https://delta45tatasky.akamaized.net/out/i/1050.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7e5a8fa3ec6b5d38b2a7a482c7f66b8b":"060893c168196279becfc45ad9dc48d4"}
+#EXTINF:-1,&TV
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"83fbf34358f353d78f1abdf85071243f":"1440aeb85f15bc07718e6b2f300eec58"}
+#EXTINF:-1,10 TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 tvg-id="" group-title="Viaplay" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
 https://thedream.biz.id/gevolmagtigdes/prokci.php/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
