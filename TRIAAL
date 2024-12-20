@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" group-title="futbol" ch-number="52" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png",LaLiga TV BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af2a65794e574a7faefdc8937ba007be:923150baa548c0a04b7f22de156c203f
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
