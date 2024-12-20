@@ -8,12 +8,10 @@
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://stover-wp21.cdn.telefonica.com/4580/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_PLAYREADY&start_time=&start_time=2024-05-21T23:21:23Z&end_time=2024-05-22T09:21:23Z
 
-#EXTINF:-1 tvg-id="EUROSPORT 2" group-title="futbol" ch-number="52" tvg-logo="http://imgfz.com/i/2foqwRT.png",EUROSPORT2
+#EXTINF:-1 tvg-id="EUROSPORT 2" group-title="futbol" ch-number="52" tvg-logo="http://imgfz.com/i/2foqwRT.png",EUROSPORT2 X
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={16fe5ae7946b4197b2411c9fff61d228:66446cc9b6b9c6943c6b09fabef57bf1}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
