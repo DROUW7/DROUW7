@@ -1,87 +1,14 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTINF:-1,Abu Dhabi Sports 1 Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e81b660833b49fb7c6f689e62a157a38":"3793708c25a2d578e78153a63201314f"}
-#EXTINF:-1,V Film Action
-http://cl1-sslive.cdn.yousee.tv/VAction/vxfmt=dp/Manifest?device_profile=chrome-pc
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" group-title="NACIONALES", TVN 1
-https://marine2.miplay.cl/tvnchile/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" group-title="NACIONALES", TVN Op 2
-http://live.entel.cl/2283/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" group-title="NACIONALES", TVN Op 3
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="NACIONALES", Mega 1
-https://marine2.miplay.cl/megacl/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="NACIONALES", Mega Op 2
-http://live.entel.cl/2326/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="NACIONALES", Mega Op 3
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAHD/hls_fk/index.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión 1
-http://live.entel.cl/2321/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión Op 2
-https://marine2.miplay.cl/chvchile/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="NACIONALES", Canal 13 
-https://marine2.miplay.cl/c13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="NACIONALES", Canal 13 Op 2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/CANAL13HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="NACIONALES", La Red 1
-http://live.entel.cl/2335/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="NACIONALES", La Red Op 2
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvmas.png" group-title="NACIONALES", Tv Mas 1
-https://marine2.miplay.cl/tvmas/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/24horas.png" group-title="NACIONALES", Canal 24 Horas 1
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/24HORASHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" group-title="NACIONALES", 13C 1
-https://marine2.miplay.cl/canal13cable/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/cnnchile.png" group-title="NACIONALES", Cnn Chile
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/CNNCHILE/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/rec.png" group-title="NACIONALES", RecTV
-https://marine2.miplay.cl/rec/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/rec.png" group-title="NACIONALES", RecTV Op 2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/RECHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/ntv.png" group-title="NACIONALES", ntv Chile
-https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/megaficcion.png" group-title="NACIONALES", Megaficcion
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/MEGAFICCION/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/viax.png" group-title="NACIONALES", Via X
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/VIAX/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/zonalatina.png" group-title="NACIONALES", Zona Latina
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/ZONALATINA/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="DEPORTES",Tnt Sports Premium
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tntsports.png" group-title="DEPORTES",Tnt Sports 2
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSP3HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="DEPORTES",ESPN Premium
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn.png" group-title="DEPORTES",ESPN
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" group-title="DEPORTES",ESPN2
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN2HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" group-title="DEPORTES",ESPN 3
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPN3HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" group-title="DEPORTES",ESPN 4
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/ESPNPLUS/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/espn6.png" group-title="DEPORTES",ESPN 6
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/FOXSPORTS3HD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/clarosports.png" group-title="DEPORTES",Claro Sports
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="DEPORTES",Gol Tv
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/GOLTV/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/disneychannel.png" group-title="INFANTILES",Disney Channel
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/DISNEYHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/disneyjr.png" group-title="INFANTILES",Disney Jr
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/DISNEYJRHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickelodeon.png" group-title="INFANTILES",Nick
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/NICKHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/nickjr.png" group-title="INFANTILES",Nick Jr
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/NICKJRHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/discoverykids.png" group-title="INFANTILES",Discovery Kids
-http://clbpktstvhls-1.clarovideo.com/bpk-tv/DISCOVERYKIDSHD/hls_fk/index.m3u8
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tooncast.png" group-title="INFANTILES",Tooncast
-http://clbpktstvhls-3.clarovideo.com/bpk-tv/TOONCAST/hls_fk/index.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd
 
 
 
