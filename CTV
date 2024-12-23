@@ -2,13 +2,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f749ab71f227999bfb098f73359aac10":"4f15413f7e4767b50c48e19b7f9a2fcc"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro Go Malaysia",Astro Premier League
-http://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4K9bq03Kghw_dDm41pDaC1k=AGuW/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://hanxinwp1.manxiao35.workers.dev/http://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4K9bq03Kghw_dDm41pDaC1k=AGuW/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c1dc92f0789f112503c0db3bde2f1210":"ddfa6e8d549b4d5177a9cade7f9a0b23"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro Go Malaysia",Astro Premier League 2
-http://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bkwNW7ZeRmu1bkh77t3jWKKQ=zsTX/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://hanxinwp1.manxiao35.workers.dev/http://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bkwNW7ZeRmu1bkh77t3jWKKQ=zsTX/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-id="NET TV" group-title="Vidio" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
