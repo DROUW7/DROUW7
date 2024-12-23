@@ -2,8 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8ac8b2f7af05ad829805345a517bc110":"ee1ae1cd086fa9bfc0505e6d5e9e27e9"}
-#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Astro Go Malaysia",Astro Sports UHD
-https://hanxinwp1.manxiao35.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Astro Go Malaysia",Astro Sports UHD 🇲🇾
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f749ab71f227999bfb098f73359aac10":"4f15413f7e4767b50c48e19b7f9a2fcc"}
