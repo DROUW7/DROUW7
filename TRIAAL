@@ -30,7 +30,11 @@
 
 
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports-5.png" group-title="Hub Sports Singapore",Hub Sports 5 HD 🇸🇬
+https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Hub ECity HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
