@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Solo Leveling" group-logo="" tvg-id="" tvg-logo="",E12 - Arise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfb45d92f7f63e748d39f570cbd2f282:0cbeedacc0e2c3eef640c697e0d30cc9
+https://www.crunchyroll.com/playback/v1/manifest/GQJUG3W0X/evs3/8d4951323342415abc71a81c72e2a9e3/assets/p/963100993c3b564d6e045689ca7d2f34_,5489244.mp4,5489245.mp4,5489243.mp4,5489241.mp4,5489242.mp4,.urlset/manifest.mpd?playbackGuid=05-5dd20414-446b-41f7-94e1-6181943fd529&accountid=ad905f7b-b323-59d4-944d-3add41cf12dc
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
