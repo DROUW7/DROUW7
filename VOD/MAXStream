@@ -5,7 +5,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 group-title="Trending Now" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_z7fw20we/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Aku Tak Membenci Hujan Eps 01 - Pertemuan Pertama
+#EXTINF:-1 group-title="Lilin Alena" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b9d64d895ab46de8d483d5e17d241c6:3fb80000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/6262-d1b2/manifest.mpd?enc=OnGRuyYi4xiKVG-F9kWtCg&exp=1737624343&encp=oOzf5-HR28GBwzVsFkDkiw&expp=1737634843
+
+#EXTINF:-1 group-title="Aku Tak Membenci Hujan" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_z7fw20we/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 01 - Pertemuan Pertama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d95d968c80fa4f69a5c43d3dd2647ce2:19310000000000000000000000000000
