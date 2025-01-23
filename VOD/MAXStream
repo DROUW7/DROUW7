@@ -5,6 +5,18 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
+#EXTINF:-1 group-title="Trending Now" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_z7fw20we/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Aku Tak Membenci Hujan Eps 01 - Pertemuan Pertama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d95d968c80fa4f69a5c43d3dd2647ce2:19310000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/a790-6cc2/manifest.mpd?enc=SNTCov7VwfP3dmARtk97mg&exp=1737623119&encp=ghiGh5Ea5i_IzK4QgUQjhQ&expp=1737633619
+
+#EXTINF:-1 group-title="Trending Now" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",APOSE Boss Baru Eps 01 - Boss Baru Harapan Baru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbb37e75e1d342828774e05421e2c4a7:2be60000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/bcf5-3370/manifest.mpd?enc=e_kq6Q0MKKziMFUg_UEVoQ&exp=1737623256&encp=lKCa0xDcoQ5eSsRK4x99-Q&expp=1737633756
+
 #EXTINF:-1 group-title="MAXstream Original Series" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_me09rzg5/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Bandelnya Judith Eps 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
