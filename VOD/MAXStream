@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MAXStream" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -34,3 +34,33 @@ https://vmp-cdn.indihometv.com/vod/vmp1/7ada-e263/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d94e639d89354ff09db546aeccafdf77:2de4e9c782cd00000000000000000000
 https://vmp-cdn.indihometv.com/vod/vmp1/d804-121a/manifest.mpd
+
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_xze7l5tq/carousel_xxxhdpi.jpg" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Serigala Langit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4075d7111a704383a684e2caaebce0d7:200e1808000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/7792-4126/manifest.mpd
+
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_b5g16qky/carousel_xxxhdpi.jpg" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Until Tomorrow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=717bfef7042f4895a7ad745e3418b6f6:67000000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/f38b-d7f5/manifest.mpd
+
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_36cij5cb/carousel_xxxhdpi.jpg" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Akad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e75f749006364b96990c2ef9375219e2:e123d800000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/b877-96e1/manifest.mpd
+
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_k892gnvh/carousel_xxxhdpi.jpg" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Cinta Warung Sebelah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c20d65df9bfd455dbe846cbc2919f19c:e2bc0900000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/36a6-8b14/manifest.mpd
+
+#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Bukannya Aku Tidak Mau Nikah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3673769257664cfca276a2fe09263e44:57bfbf00000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/c9b1-6ad5/manifest.mpd
