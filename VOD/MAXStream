@@ -11,11 +11,41 @@
 #KODIPROP:inputstream.adaptive.license_key=d95d968c80fa4f69a5c43d3dd2647ce2:19310000000000000000000000000000
 https://vmp-cdn.indihometv.com/vod/vmp1/a790-6cc2/manifest.mpd?enc=SNTCov7VwfP3dmARtk97mg&exp=1737623119&encp=ghiGh5Ea5i_IzK4QgUQjhQ&expp=1737633619
 
-#EXTINF:-1 group-title="Trending Now" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",APOSE Boss Baru Eps 01 - Boss Baru Harapan Baru
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 01 - Boss Baru Harapan Baru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbb37e75e1d342828774e05421e2c4a7:2be60000000000000000000000000000
 https://vmp-cdn.indihometv.com/vod/vmp1/bcf5-3370/manifest.mpd?enc=e_kq6Q0MKKziMFUg_UEVoQ&exp=1737623256&encp=lKCa0xDcoQ5eSsRK4x99-Q&expp=1737633756
+
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 02 - Akibat Terlalu Fomo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc8d9d1dc274bc7a97227c1c2cdb925:86c30000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/6ab8-7ff9/manifest.mpd?enc=KHoOzlH_2c1pULX-sUwjsg&exp=1737623629&encp=lTVlQIjfxBaKFROQZXQh2A&expp=1737634129
+
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 03 - Anak Magang Titipan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80b6a3cc79cc452184ee5a16b0d79184:38affd00000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/fd3b-bc28/manifest.mpd?enc=YsztybP4CLe9kAV7Ifl6yQ&exp=1737623723&encp=guBnqGZmEdJ8WSbf0n8Sag&expp=1737634223
+
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 04 - Penjilat Boss Baru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87d46e13c9d84c09b23afc6e31eb4adf:48420000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/945b-1fbb/manifest.mpd?enc=joFiHbrfWdicwNJFhm1p3Q&exp=1737623807&encp=frkrAyBQNlU_RBI6f3oG7w&expp=1737634307
+
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 05 - Nunung Lagi Nunung Lagi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3efc75990ab41b4adddafc66112747d:6f20fb00000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/f666-5b27/manifest.mpd?enc=eL_qsFGSxCsaspbMHzt7mQ&exp=1737623900&encp=Xt2wsRzd4TjIzShL8PU4iw&expp=1737634400
+
+#EXTINF:-1 group-title="APOSE Boss Baru" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jo1fpjdh/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eps 06 - Jangan Ya Dek Ya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccaebcabb50b4b5881d48bf6d998f287:a1cc9200000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/5ce7-4032/manifest.mpd?enc=F9bCFnGT9dcoNWcUrvmeGQ&exp=1737624059&encp=30WWlxIbjuj003XdYjkEsQ&expp=1737634559
 
 #EXTINF:-1 group-title="MAXstream Original Series" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_me09rzg5/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Bandelnya Judith Eps 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
