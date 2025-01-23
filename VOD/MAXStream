@@ -1,11 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MAXStream" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
 #EXTINF:-1 group-title="MAXStream" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_lwn2yief/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Perjanjian Gaib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a31a6be5f93429188d2b4ebb227d6e8:d1000000000000000000000000000000
 https://vmp-cdn.indihometv.com/vod/vmp1/2038-08fa/manifest.mpd
 
 #EXTINF:-1 group-title="MAXStream" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_lv15zems/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Jin Qorin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cea0cbeee8fb4409ba62b5e0e6b76826:91754700000000000000000000000000
 https://vmp-cdn.indihometv.com/vod/vmp1/5017-d771/manifest.mpd
+
+#EXTINF:-1 group-title="MAXStream" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_ubvo9ppg/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Anak Titipan Setan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9bf8e63cf804a01a1aeb4c6bf51db58:f3cf8400000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/da87-d809/manifest.mpd
+
+#EXTINF:-1 group-title="MAXStream" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_bt8plaxh/carousel_xxxhdpi.jpg" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Eyang Putri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a463a30e844fedbd85e66a56c917aa:b3020000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/7ada-e263/manifest.mpd
+
+#EXTINF:-1 group-title="MAXStream" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_oezxjuzc/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Hidayah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d94e639d89354ff09db546aeccafdf77:2de4e9c782cd00000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/d804-121a/manifest.mpd
