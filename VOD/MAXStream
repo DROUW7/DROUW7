@@ -1,9 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Tarsan Kota
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3mw131yr/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Samson Betawi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8be94ff052ff409186ae51777723b710:f2850000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/7f5d-0477/manifest.mpd?enc=uWBqGWuSS_DgTuDwMSL1NA&exp=1737621835&encp=6BfSXmMGay3cplcuk8ADKg&expp=1737632335
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_8dz6h0qs/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Chips
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ac15c2949b4d118714734b8f4105c2:88a58800000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/541c-d309/manifest.mpd?enc=DmV3Bxh51ArDmlIy7ZAe7Q&exp=1737621704&encp=2qbZ3wej9wmKkwJ8HjYTZw&expp=1737632204
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_jczk1qdx/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",GE ER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86c26579ed7c41c28f7fb76a4fe7499f:fd727100000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/b24c-691b/manifest.mpd?enc=Ol5_9hMcIIf5WDZlD7kduA&exp=1737621639&encp=LUjcPQOshPgNZC7Cn2i6xA&expp=1737632139
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_efupsp16/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Setan Kredit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c135553e750488680ad46ba9d6a5ec7:ffef2c00000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/25bf-c85e/manifest.mpd?enc=sESf3mVOn-GC6mTM55SvCg&exp=1737621364&encp=haB0P1-jDulIM3MalCCZbg&expp=1737631864
+
+#EXTINF:-1 group-title="Biar Jadul Tetap Mantul" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_espk0jci/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",IQ Jongkok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17278faf0f1e4e6381bcd4df72f1d3c1:5f000000000000000000000000000000
+https://vmp-cdn.indihometv.com/vod/vmp1/4c3c-13a9/manifest.mpd?enc=QX4eqIC_YLtw8lJP_JMNPw&exp=1737621542&encp=l_Olxhx0MfcYgTac8X3Wbg&expp=1737632042
 
 #EXTINF:-1 group-title="MAXstream Original Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_lwn2yief/carousel_xxxhdpi.png" group-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png",Perjanjian Gaib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
