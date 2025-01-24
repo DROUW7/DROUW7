@@ -9,7 +9,7 @@
         "event_name": "BRI LIGA 1 2024/25",
         "match_name": "Arema FC vs Persib",
         "match_id": "17623",
-        "startTime": "03:30:00 PM 24-01-2025",
+        "startTime": "2025-01-24T15:30:00",  // Menggunakan format ISO 8601 untuk tanggal
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)"
     }
 ]
