@@ -10,7 +10,7 @@
         "match_name": "Malut United FC vs Persik Kediri",
         "match_id": "205",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
-        "license_key": "{"keys":[{"kty":"oct","kid":"aotlyDA2Mp5xhbnNjL3uKQ","k":"DrK-tWM_jjXK-rRa89Id4A"}],"type":"temporary"}"
+        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aotlyDA2Mp5xhbnNjL3uKQ\",\"k\":\"DrK-tWM_jjXK-rRa89Id4A\"}],\"type\":\"temporary\"}"
     },
     {
         "event_category": "Sepak Bola",
@@ -23,6 +23,6 @@
         "match_name": "PS. Barito Putera vs Persebaya Surabaya",
         "match_id": "17624",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
-        "license_key": "{"keys":[{"kty":"oct","kid":"Qa-lzh8Fh1S2DnXXsY1vyA","k":"DsWKEJaM4hbUfLixSicEFw"}],"type":"temporary"}"
+        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Qa-lzh8Fh1S2DnXXsY1vyA\",\"k\":\"DsWKEJaM4hbUfLixSicEFw\"}],\"type\":\"temporary\"}"
     }
 ]
