@@ -22,7 +22,7 @@
         "event_name": "BRI LIGA 1 2024/25",
         "match_name": "PS. Barito Putera vs Persebaya Surabaya",
         "match_id": "17624",
-        "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)"
+        "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
         "license_key": "{"keys":[{"kty":"oct","kid":"Qa-lzh8Fh1S2DnXXsY1vyA","k":"DsWKEJaM4hbUfLixSicEFw"}],"type":"temporary"}"
     }
 ]
