@@ -1,14 +1,14 @@
 [
     {
-        "event_category": "Football",
-        "title": "Persita vs Madura United FC (BRI LIGA 1 2024/25)",
-        "src": "https://thumbor.prod.vidiocdn.com/RKNPZHyPkNvVuEvUTq222hNhV6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023314/9d8d15.jpg",
-        "team_1": "Persita",
-        "team_2": "Madura United FC",
+        "event_category": "Sepak Bola",
+        "title": "Malut United FC vs Persik Kediri (BRI LIGA 1 2024/25)",
+        "src": "https://thumbor.prod.vidiocdn.com/2gp1QXQLSCQ6LVn8d47Kr8dD-Do=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023542/ac4481.jpg",
+        "team_1": "Malut United FC",
+        "team_2": "Persik Kediri",
         "status": "LIVE",
         "event_name": "BRI LIGA 1 2024/25",
-        "match_name": "Persita vs Madura United FC",
-        "match_id": "17622",
+        "match_name": "Malut United FC vs Persik Kediri",
+        "match_id": "205",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)"
     }
 ]
