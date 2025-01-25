@@ -9,6 +9,20 @@
         "event_name": "BRI LIGA 1 2024/25",
         "match_name": "Malut United FC vs Persik Kediri",
         "match_id": "205",
+        "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
+        "license_key": "{"keys":[{"kty":"oct","kid":"aotlyDA2Mp5xhbnNjL3uKQ","k":"DrK-tWM_jjXK-rRa89Id4A"}],"type":"temporary"}"
+    },
+    {
+        "event_category": "Sepak Bola",
+        "title": "PS. Barito Putera vs Persebaya Surabaya (BRI LIGA 1 2024/25)",
+        "src": "https://thumbor.prod.vidiocdn.com/yEFaiahUviaWxeUnTtUkftEcN0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023541/0b1960.jpg",
+        "team_1": "PS. Barito Putera",
+        "team_2": "Persebaya Surabaya",
+        "status": "LIVE",
+        "event_name": "BRI LIGA 1 2024/25",
+        "match_name": "PS. Barito Putera vs Persebaya Surabaya",
+        "match_id": "17624",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)"
+        "license_key": "{"keys":[{"kty":"oct","kid":"Qa-lzh8Fh1S2DnXXsY1vyA","k":"DsWKEJaM4hbUfLixSicEFw"}],"type":"temporary"}"
     }
 ]
