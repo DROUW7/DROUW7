@@ -4,5 +4,12 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aotlyDA2Mp5xhbnNjL3uKQ","k":"DrK-tWM_jjXK-rRa89Id4A"}],"type":"temporary"}
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+#EXTINF:-1 group-title="BRI LIGA 1 2024/25" tvg-id="PS. Barito Putera vs Persebaya Surabaya" tvg-logo="https://thumbor.prod.vidiocdn.com/yEFaiahUviaWxeUnTtUkftEcN0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023541/0b1960.jpg",PS. Barito Putera vs Persebaya Surabaya - BRI LIGA 1 2024/25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Qa-lzh8Fh1S2DnXXsY1vyA","k":"DsWKEJaM4hbUfLixSicEFw"}],"type":"temporary"}
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17624
