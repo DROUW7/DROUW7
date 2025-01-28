@@ -13,7 +13,7 @@
             "match_name": "Bali United FC vs Borneo FC Samarinda",
             "match_id": "17850",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FQLkbl5PnX07lONVHSM2gw\",\"k\":\"7egZgvAAqWo5PnvRAd5rzw\"}],\"type\":\"temporary\"}",
+            "license_key": "{\"1502e46e5e4f9d7d3b94e3551d233683\":\"ede81982f000a96a393e7bd101de6bcf\"}",
             "startTime": "04:25:00 PM 28-01-2025",
             "endTime": "06:30:00 PM 28-01-2025"
         },
@@ -28,7 +28,7 @@
             "match_name": "Bali United FC vs Borneo FC Samarinda",
             "match_id": "17623",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5mThjHiazwGLjiFTM2eB0Q\",\"k\":\"CQwIHBPXgRqOFHeXxUqbQw\"}],\"type\":\"temporary\"}",
+            "license_key": "{\"e664e18c789acf018b8e2153336781d1\":\"090c081c13d7811a8e147797c54a9b43\"}",
             "startTime": "04:25:00 PM 28-01-2025",
             "endTime": "06:30:00 PM 28-01-2025"
         }
