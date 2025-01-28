@@ -1,28 +1,28 @@
 [
     {
         "event_category": "Sepak Bola",
-        "title": "Malut United FC vs Persik Kediri (BRI LIGA 1 2024/25)",
-        "src": "https://thumbor.prod.vidiocdn.com/2gp1QXQLSCQ6LVn8d47Kr8dD-Do=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023542/ac4481.jpg",
-        "team_1": "Malut United FC",
-        "team_2": "Persik Kediri",
-        "status": "END",
+        "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
+        "src": "https://thumbor.prod.vidiocdn.com/eeP1ld3nGEXw-lLRoazFPMXMB8I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031939/0e64b2.jpg",
+        "team_1": "Bali United FC",
+        "team_2": "Borneo FC Samarinda",
+        "status": "UPCOMING",
         "event_name": "BRI LIGA 1 2024/25",
-        "match_name": "Malut United FC vs Persik Kediri",
-        "match_id": "205",
+        "match_name": "Bali United FC vs Borneo FC Samarinda",
+        "match_id": "17850",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
-        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aotlyDA2Mp5xhbnNjL3uKQ\",\"k\":\"DrK-tWM_jjXK-rRa89Id4A\"}],\"type\":\"temporary\"}"
+        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FQLkbl5PnX07lONVHSM2gw\",\"k\":\"7egZgvAAqWo5PnvRAd5rzw\"}],\"type\":\"temporary\"}"
     },
     {
         "event_category": "Sepak Bola",
-        "title": "PS. Barito Putera vs Persebaya Surabaya (BRI LIGA 1 2024/25)",
-        "src": "https://thumbor.prod.vidiocdn.com/yEFaiahUviaWxeUnTtUkftEcN0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4023541/0b1960.jpg",
-        "team_1": "PS. Barito Putera",
-        "team_2": "Persebaya Surabaya",
-        "status": "LIVE",
+        "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
+        "src": "https://thumbor.prod.vidiocdn.com/YNAP9yBnFt33APsOO07zELfSXPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031940/c69d79.jpg",
+        "team_1": "Bali United FC",
+        "team_2": "Borneo FC Samarinda",
+        "status": "UPCOMING",
         "event_name": "BRI LIGA 1 2024/25",
-        "match_name": "PS. Barito Putera vs Persebaya Surabaya",
-        "match_id": "17624",
+        "match_name": "Bali United FC vs Borneo FC Samarinda",
+        "match_id": "17623",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
-        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Qa-lzh8Fh1S2DnXXsY1vyA\",\"k\":\"DsWKEJaM4hbUfLixSicEFw\"}],\"type\":\"temporary\"}"
+        "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5mThjHiazwGLjiFTM2eB0Q\",\"k\":\"CQwIHBPXgRqOFHeXxUqbQw\"}],\"type\":\"temporary\"}"
     }
 ]
