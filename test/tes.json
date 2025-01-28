@@ -1,19 +1,36 @@
 {
-    "name": "Fancode Live Matches Data in Json",
-    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:04:00 PM 28-01-2025",
+    "name": "BRI LIGA 1 2024/25 Matches Data in Json",
+    "last update time": "12:22:04 PM 28-01-2025",
     "matches": [
         {
-            "status": "ERROR"
+            "event_category": "Sepak Bola",
+            "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
+            "src": "https://thumbor.prod.vidiocdn.com/eeP1ld3nGEXw-lLRoazFPMXMB8I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031939/0e64b2.jpg",
+            "team_1": "Bali United FC",
+            "team_2": "Borneo FC Samarinda",
+            "status": "UPCOMING",
+            "event_name": "BRI LIGA 1 2024/25",
+            "match_name": "Bali United FC vs Borneo FC Samarinda",
+            "match_id": "17850",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FQLkbl5PnX07lONVHSM2gw\",\"k\":\"7egZgvAAqWo5PnvRAd5rzw\"}],\"type\":\"temporary\"}",
+            "startTime": "06:30:00 PM 28-01-2025",
+            "endTime": "08:30:00 PM 28-01-2025"
         },
         {
-            "status": "ERROR"
-        },
-        {
-            "status": "ERROR"
-        },
-        {
-            "status": "ERROR"
+            "event_category": "Sepak Bola",
+            "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
+            "src": "https://thumbor.prod.vidiocdn.com/YNAP9yBnFt33APsOO07zELfSXPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031940/c69d79.jpg",
+            "team_1": "Bali United FC",
+            "team_2": "Borneo FC Samarinda",
+            "status": "UPCOMING",
+            "event_name": "BRI LIGA 1 2024/25",
+            "match_name": "Bali United FC vs Borneo FC Samarinda",
+            "match_id": "17623",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5mThjHiazwGLjiFTM2eB0Q\",\"k\":\"CQwIHBPXgRqOFHeXxUqbQw\"}],\"type\":\"temporary\"}",
+            "startTime": "02:15:00 PM 28-01-2025",
+            "endTime": "04:30:00 PM 28-01-2025"
         }
     ]
 }
