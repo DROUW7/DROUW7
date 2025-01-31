@@ -13,9 +13,7 @@
             "match_name": "Indonesia vs India",
             "match_id": "18288",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "license_key": "{\"00e3ac2cffafddbc2678f420d577d8d6\":\"791d624d8fb44672d712093288e5ba8f\"}",
-            "startTime": "04:25:00 PM 30-01-2025",
-            "endTime": "06:30:00 PM 30-01-2025"
+            "license_key": "{\"00e3ac2cffafddbc2678f420d577d8d6\":\"791d624d8fb44672d712093288e5ba8f\"}"
         },
         {
             "event_category": "Sepak Bola",
@@ -36,12 +34,14 @@
             "src": "https://thumbor.prod.vidiocdn.com/YNAP9yBnFt33APsOO07zELfSXPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031940/c69d79.jpg",
             "team_1": "Bali United FC",
             "team_2": "Borneo FC Samarinda",
-            "status": "END",
+            "status": "LIVE",
             "event_name": "BRI LIGA 1 2024/25",
             "match_name": "Bali United FC vs Borneo FC Samarinda",
             "match_id": "17623",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "license_key": "{\"e664e18c789acf018b8e2153336781d1\":\"090c081c13d7811a8e147797c54a9b43\"}"
+            "startTime": "06:25:00 PM 30-01-2025",
+            "endTime": "08:30:00 PM 30-01-2025"
         }
     ]
 }
