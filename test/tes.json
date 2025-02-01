@@ -17,6 +17,21 @@
         },
         {
             "event_category": "Sepak Bola",
+            "title": "Madura United FC vs Persis (BRI LIGA 1 2024/25)",
+            "src": "https://thumbor.prod.vidiocdn.com/LtjnjSh5InS_5KRII_QbWx0ZWn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4041819/865988.jpg",
+            "team_1": "Madura United FC",
+            "team_2": "Persis",
+            "status": "UPCOMING",
+            "event_name": "BRI LIGA 1 2024/25",
+            "match_name": "Madura United FC vs Persis",
+            "match_id": "205",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+            "license_key": "{\"6a8b65c83036329e7185b9cd8cbdee29\":\"0eb2beb5633f8e35cafab45af3d21de0\"}",
+            "startTime": "02:25:00 PM 01-02-2025",
+            "endTime": "04:30:00 PM 01-02-2025"
+        },
+        {
+            "event_category": "Sepak Bola",
             "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
             "src": "https://thumbor.prod.vidiocdn.com/eeP1ld3nGEXw-lLRoazFPMXMB8I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031939/0e64b2.jpg",
             "team_1": "Bali United FC",
@@ -30,18 +45,18 @@
         },
         {
             "event_category": "Sepak Bola",
-            "title": "Bali United FC vs Borneo FC Samarinda (BRI LIGA 1 2024/25)",
-            "src": "https://thumbor.prod.vidiocdn.com/YNAP9yBnFt33APsOO07zELfSXPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4031940/c69d79.jpg",
-            "team_1": "Bali United FC",
-            "team_2": "Borneo FC Samarinda",
-            "status": "LIVE",
+            "title": "Persib vs PSM Makassar (BRI LIGA 1 2024/25)",
+            "src": "https://thumbor.prod.vidiocdn.com/EN6NtKGDE7ZKx0DefidSQsKUydw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4042078/3d1eb5.jpg",
+            "team_1": "Persib",
+            "team_2": "PSM Makassar",
+            "status": "UPCOMING",
             "event_name": "BRI LIGA 1 2024/25",
-            "match_name": "Bali United FC vs Borneo FC Samarinda",
+            "match_name": "Persib vs PSM Makassar",
             "match_id": "17623",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "license_key": "{\"e664e18c789acf018b8e2153336781d1\":\"090c081c13d7811a8e147797c54a9b43\"}"
-            "startTime": "06:25:00 PM 31-01-2025",
-            "endTime": "08:30:00 PM 31-01-2025"
+            "license_key": "{\"e664e18c789acf018b8e2153336781d1\":\"090c081c13d7811a8e147797c54a9b43\"}",
+            "startTime": "04:25:00 PM 01-02-2025",
+            "endTime": "06:30:00 PM 01-02-2025"
         }
     ]
 }
