@@ -1,5 +1,20 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c62a216a5fe423f959cb1ca02f62d83":"54f2fdc83c1da33cd9269bf21e08218c"}
+#EXTINF:-1 tvg-id="tigosports1py" group-title="VARIADOS",TIGO SPORTS 1 PY
+https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"49b2c0e7037042b2aff9f064e0bb3311":"83849e30adf85440550292693147fbf7"}
+#EXTINF:-1 tvg-id="tigosports2py" group-title="VARIADOS",TIGO SPORTS 2 PY
+https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2245f48a5998442f835099d30f2e0305":"f48f6ce816fe86d8c10587e9a7e927a3"}
+#EXTINF:-1 tvg-id="tigosports3py" group-title="VARIADOS",TIGO SPORTS 3 PY
+https://sam-py-edge04.tigo.com.py/ccur-session/01_3508408953/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
