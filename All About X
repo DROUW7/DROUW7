@@ -1,5 +1,32 @@
 #EXTM3U
 
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0dbe5014ea91433ba25f65b50c2d6821":"c18e2d413594a52c9912d848e83c0b16","55025014ea91433ba25f65b50c2d6821":"b5184ca07c69fb96aa4eb98ee8d200b0","4e13945d3991433ba25f65b50c2d6821":"d6b0d97edcb708cb678183c665755dbd"}
+#EXTINF:-1 tvg-logo="https://sol.solocoo.tv/soliphone/mmchan/channelicons/./National%20TV_m.png" group-title="Orange Romania",National TV
+https://tv-he.orange.ro/sdash/LIVE$nationaltv/2.mpd/Manifest?start=LIVE&end=END&device=DASH_CPIX_LOW&token=1.MTc0MDc5NDg3Ng.aYwS19JIQYRDZDd0fjzZfrq5PWBopgb_ZTKkvDlXFxg
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"198be7c2ef4549caad11b47030965ca7":"43a89585a95d78c7b1269b5300097705","61cfe7c2ef4549caad11b47030965ca7":"e167685b6a7a078fbfc85574e89533e6","5ae02b0b3e4549caad11b47030965ca7":"c2ba2719bd7b101db7031fc8f3936ec4"}
+#EXTINF:-1 tvg-logo="https://sol.solocoo.tv/soliphone/mmchan/channelicons/./Aleph%20Business%20HD_m.png" group-title="Orange Romania",Aleph Business HD
+https://tv-he.orange.ro/sdash/LIVE$ott_1164/2.mpd/Manifest?start=LIVE&end=END&device=DASH_CPIX_LOW&token=1.MTc0MDc5NDAzMA.vYfx79doR9mGRoyWNXVLOw9fR3AQBVB6K3hvFzpcdm8
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e62c82f4df9946d8888d65cf5c5ff40d":"1d8798e56bcf4c5796ed5e362b6c7fd3","2e7082f4df9946d8888d65cf5c5ff40d":"7dcd4fb12e5697db321f5bd7da339135","2781c63d2e9946d8888d65cf5c5ff40d":"213824c817a23d34d0e788e1eb561fb5"}
+#EXTINF:-1 tvg-logo="https://sol.solocoo.tv/soliphone/mmchan/channelicons/./Euronews%20RO%20HD_m.png" group-title="Orange Romania",Euronews RO HD
+https://tv-he.orange.ro/sdash/LIVE$ott_1167/2.mpd/Manifest?start=LIVE&end=END&device=DASH_CPIX_LOW&token=1.MTc0MDc5MzU4OQ.2GDHO6C2TFkA9p-430GOmk_ir8H5gFG-y4cULx132JA
+
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e1afaa4c510543dda514c67e2eadbf68":"e053c46baef96524a633d284009fc7a3","29f3aa4c510543dda514c67e2eadbf68":"f0625538cd2405813602c9e261d39c25","2204ee95a00543dda514c67e2eadbf68":"4350442303c2d8c4a6bd71bd8b0a8ecf"}
+#EXTINF:-1 tvg-logo="https://sol.solocoo.tv/soliphone/mmchan/channelicons/./Kanal%20D2_m.png" group-title="Orange Romania",Kanal D2
+https://tv-he.orange.ro/sdash/LIVE$ott_1135/2.mpd/Manifest?start=LIVE&end=END&device=DASH_CPIX_LOW&token=1.MTc0MDc5MDg5OA.mE9IuSGrNqFuv8STZT7rladA2jBYemQLVSrbL7wv9N4
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/90/21/00/90210039b182b9a0d7521919bb5a37d5.jpg" group-title="All About X",Lilian Stone Pays for Car Repairs with X
 https://fck-cl29.tnaflix.com/dev29/0/028/489/0028489181/Lilian_Stone-480p.mp4?rs=118k&rb=3311k&secure=f4k6lKNZE3-sKiqWaLiwow==,1740708027
 
