@@ -404,28 +404,28 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports-5.png" group-title="Hub Sports Singapore",Hub Sports 5 HD 🇸🇬
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/205-hub-sports-5.png" group-title="Hub Sports Singapore",Hub Sports 5 HD 🇸🇬
 https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Hub ECity HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/825-hub-e-city.png" group-title="StarHub TV+",Hub ECity HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/400-education/443-fashiontv-hd.png" group-title="StarHub TV+",Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
 https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/532-Animax.png" group-title="StarHub TV+",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
 https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/511-axn-hd.png" group-title="StarHub TV+",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
