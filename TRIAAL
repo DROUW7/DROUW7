@@ -431,13 +431,13 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
 https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/215-bein-sports-4.png" group-title="StarHub TV+",Bein Sports 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="StarHub TV+",Bein Sports 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/216-bein-sports-5.png" group-title="StarHub TV+",Bein Sports 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
