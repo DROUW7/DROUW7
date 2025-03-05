@@ -1,0 +1,20 @@
+#EXTM3U billed-msg="Watch UEFA Champions League Highlights and More Great Football Video!"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0100747c199047ea327fe15e4c6ac3fa":"0776fc3a3741b92236c7d5be546e8554","0101cbd764e5e0bdafb0ee32099676e0":"9d26627735b3337468c553f0942b703d","01028433e06f724abe8bd06d0cd74f80":"f230d476ad000df9023c330077cbdbe3","0105b03cdb546390da78f67e458e7e9e":"00000000000000000000000000000000"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
+#EXTINF:-1 tvg-id="05/03/2025" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/6b644522-0c4b-39dc-9605-5567fa34208a.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights PSV x Arsenal (UEFA Champions League 2024/2025)
+https://gcp.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=402.468733&r.keymod=2&r.main=0&r.manifest=3437604c-a703-5934-9f95-8a9e200cb636%2F0_669fce.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"010081dafac751281380b0fb82bdca53":"288ad3ef04887d247339994762740f0a","01019a1b12862c66a7b3cbffd62aaa45":"0493e357d3d974ee384ee83212d9eaab","010222a394f34b032bb2b269d0109719":"1b44781e9cd412d37454fd7694cdca6d","0105a7f40f8d420dfdce6ce93bf0c795":"00000000000000000000000000000000"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
+#EXTINF:-1 tvg-id="05/03/2025" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/83c333af-61f0-3734-a452-5c6b091eea7b.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights Real Madrid x Atlético de Madrid (UEFA Champions League 2024/2025)
+https://akm.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=277.844233&r.keymod=2&r.main=0&r.manifest=0e5f60ba-b0eb-5ddb-b230-61251db5562f%2F0_613730.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01009856b11008782defa1ef3f4a07d8":"d1843099f12784e35394cef39265cb00","0101338bd9f1fab5006242859bdeb891":"229297a88c409bcd6832e9a00534ad72","0102798d14356a0b8891fab6c412abb0":"d846bc4fa3efa1400c96b2c0a4228def","010546192521d7fc56acf096fcec18fe":"00000000000000000000000000000000"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
+#EXTINF:-1 tvg-id="05/03/2025" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/c174c57c-a0c5-34e0-978f-b3e35b183387.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights Borussia Dortmund x Lille (UEFA Champions League 2024/2025)
+https://fly.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=197.630767&r.keymod=2&r.main=0&r.manifest=338bff12-380e-510d-849b-349ae1dd4af9%2F0_468d67.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
+
