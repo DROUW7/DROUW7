@@ -18,3 +18,8 @@ https://akm.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=p
 #EXTINF:-1 tvg-id="05/03/2025" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/c174c57c-a0c5-34e0-978f-b3e35b183387.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights Borussia Dortmund x Lille (UEFA Champions League 2024/2025)
 https://fly.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=197.630767&r.keymod=2&r.main=0&r.manifest=338bff12-380e-510d-849b-349ae1dd4af9%2F0_468d67.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0100e399e2bdc3ed609afed8814fe0f3":"2f24577a6bac9845a90cab6595086580","0101b1a6ddd97cb69bea88df6d4260fd":"6102ba0892d3048446b334b9d0a5b34e","0102dd90a6089edec27b40f6fb8d5aa9":"78097a8d2e7f8934851f96ea732b6b19","0105667dcbaf7276a669765cf21a9fbe":"00000000000000000000000000000000"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
+#EXTINF:-1 tvg-id="05/03/2025" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/60ae3a5a-b0f0-33f3-9e41-a2904b02cf7d.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights Club Brugge x Aston Vila (UEFA Champions League 2024/2025)
+https://fly.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=316.616300&r.keymod=2&r.main=0&r.manifest=26edf1c5-1e4c-53fd-acae-372eb4662a0a%2F0_b4566b.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
