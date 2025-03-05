@@ -1,0 +1,8 @@
+#EXTM3U billed-msg="Watch UEFA Champions League Highlights and More Great Football Video!"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0100747c199047ea327fe15e4c6ac3fa":"0776fc3a3741b92236c7d5be546e8554","0101cbd764e5e0bdafb0ee32099676e0":"9d26627735b3337468c553f0942b703d","01028433e06f724abe8bd06d0cd74f80":"f230d476ad000df9023c330077cbdbe3","0105b03cdb546390da78f67e458e7e9e":"00000000000000000000000000000000"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/04/6b644522-0c4b-39dc-9605-5567fa34208a.jpeg?w=450&f=webp" group-title="TNT Sports Max",Highlights PSV vs Arsenal (UEFA Champions League)
+https://gcp.latam.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=pt%7Cprogram&f.videoCodec=avc&r.duration=402.468733&r.keymod=2&r.main=0&r.manifest=3437604c-a703-5934-9f95-8a9e200cb636%2F0_669fce.mpd&r.origin=cfc%7Cprd-wbd-latam-vod&x-wbd-tenant=beam&x-wbd-user-home-market=latam
+
