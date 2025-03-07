@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Claro Sports en vivo FHD
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1c62a216a5fe423f959cb1ca02f62d83":"54f2fdc83c1da33cd9269bf21e08218c"}
 #EXTINF:-1 tvg-id="tigosports1py" group-title="VARIADOS",TIGO SPORTS 1 PY
