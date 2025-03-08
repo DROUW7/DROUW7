@@ -445,3 +445,1714 @@ https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="13eme_RUE_HD" tvg-logo="" group-title="oqee",13eme RUE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8571f419146282a2b2294026166d1a9f":"fadd50bef930980b8e8ce33b79da1494","9ddeadf6ab0a0f1e19902ffed81e258c":"ea2efa5051cbcaa2f39026aa75b19bd1","aff43ba652d339af9a783240ec459800":"885e3903d7ca5e54ac6fc024b95ce83f","039680e357346345f38b08b30f09dcf2":"944ceaa825dbe89b9e8e1911955176a6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1655/2/live.mpd
+
+#EXTINF:-1 tvg-id="20_Minutes_TV" tvg-logo="" group-title="oqee",20 Minutes TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b70dbfe58e6421f8663a86fc416ca649":"1729bc1ef82beaea46b058d41bb65883","a3f8f34eb0a9d23f339aa50567a055e3":"f772e9054f541a75d1c1f583e8f9dced","21f9fd6e0589bb3517ee31f9c09b3d74":"354c4fee488817704f4e2553d116924d","e3b32a66b3834f03c815663a48ff98e2":"d79dda44d501a4bbb6ae7caf7d2ba239"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/689/1/live.mpd
+
+#EXTINF:-1 tvg-id="6ter_HD" tvg-logo="" group-title="oqee",6ter HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"80fdd0a115636c1d8b4df5da00cf3178":"8b58ba8590b208aa4efa9640af06271b","89020d056e2ed94c775c37d1535d642c":"268a060d194d0947804f4657841a89ae","c54542c721daba36f6ee3076b8943219":"fab781cd01681fe42b5af35b8dd4af5a","3d314fc2ae54f44b21ebfc6dbc6d59e7":"c155071dae0a172f1612d2ff82077112"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/995/1/live.mpd
+
+#EXTINF:-1 tvg-id="7ALimoges" tvg-logo="" group-title="oqee",7ALimoges
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a53edb54902277bd4f2bb3be4ae1625c":"2c051f27b5147a836fb30fdbaf9cebb1","2138f1238a4e59115216184a0e082446":"21360a2bd41847bdc3f5e6a9a6d26840","0ef81465098980c18b8b996b885a4258":"cd9526b37c53325d3bf6be5e6d302fd9","a5815b7a964111d14eab004a30340cb0":"007d351187096c7ccd6fcf45b2c40eec"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1552/1/live.mpd
+
+#EXTINF:-1 tvg-id="8_Mont-Blanc" tvg-logo="" group-title="oqee",8 Mont-Blanc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9bf22ecbfc04c822dfe83626b723cf83":"6bd8dd7ea84e8502c5317c17bd42f8f0","9ec435bda5578b71768707fc9da6b01e":"9ea57f8d6a6c12ee0d02196720bd62c0","8d333e4cc5a73f142e3b6684856887d8":"a0bd7ed5750c9d8936f669e63b6220b6","238a6e6247be93e2a32bd885136e4ded":"6870b35e97fbae235d1b2a03b1d1e086"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/319/1/live.mpd
+
+#EXTINF:-1 tvg-id="A_la_une_Canal+" tvg-logo="" group-title="oqee",A la une Canal+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"86a126a676212e59a1eb1f3603ff830c":"351b887aa8dace19ad0b9d735e222fbd","0196708ba8aff380de62cd72c6aeb595":"9665e0de3f3984dafb05250d5e887aa2","90db74be0793bcfa7b7a7ad47df224f6":"e83b8fab8889f985d0ef8c4fa3d419cb","95a3e51c3676c5d4eb3dbdc67517dbb7":"4af90a7113b84e98a0a9f1e54c9321aa"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1098/1/live.mpd
+
+#EXTINF:-1 tvg-id="AB_1_HD" tvg-logo="" group-title="oqee",AB 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c87ef541a2e21ff8c86b02976fbd6de":"4c2c0a0f83254b21db757f7ece18144c","d31fd380aecf37196a983d97b8698cb4":"9ad630cc93cd69d4c74f31f6fdd89410","469f73a7430b19974e01e780a1df062b":"0dc4397608625d572aecfab706447336","af209d1e029f07e6be6865ef4354e593":"37fe91e494b09c1b62de29500b7e619c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/211/1/live.mpd
+
+#EXTINF:-1 tvg-id="Abu_Dhabi_TV" tvg-logo="" group-title="oqee",Abu Dhabi TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3f972e94c664b62c4066b8da3580d8d":"2f4327a05f3c022b23f7c4203d995ae4","6e53049d6654ad780c32c6afaf8f3cc1":"202e8525ae56f522f0f76ccd5e46aef5","b59b3e8202dcfcdaaabc2372777afadf":"ca7be714966a616c93265bdc5fa38868","713c0293895ff269fc7a32aa813019ae":"d4a1caf846dab537af1bd55a9070de47"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/749/1/live.mpd
+
+#EXTINF:-1 tvg-id="Action" tvg-logo="" group-title="oqee",Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4cf8a86164a9b02c3b40c74e8666c88d":"23c6ed6ba13d9b3acbb4d5aed03d0775","918810b1be9ad729b9594edb51bd6787":"21a9997fe74b62a6d57251eec7195551","5caaffea04fecc06068df13d6270f3d8":"8549444411968f90b85118a7afe34171","9884f8b800908c56d48de0794537c003":"936318bef87fef32eccef3cc0e8634a1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/242/1/live.mpd
+
+#EXTINF:-1 tvg-id="Al_Arabiya" tvg-logo="" group-title="oqee",Al Arabiya
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"80ac91ae20d41240d826cd2a79983ec4":"ef00ab5281e12541afefcd1ddef7dada","fc80aa7c3f0ba73564fb990de213ab83":"999ba6dc1f571dd6bd3eb05fc6cf3372","91a8a5d240deb370aa1c0a9f2408e42f":"0bd5be877ae028309b1af1879bf2d0e5","d727f5c82cd8f6d56a401691d4f6114c":"89f489b13b71bc6d00affdf6e11185a5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1092/1/live.mpd
+
+#EXTINF:-1 tvg-id="Alaraby" tvg-logo="" group-title="oqee",Alaraby
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"51f42d98ceb69cb40984a01089133936":"578f7ea4173d4b2cc4342cb68238f38b","e8c4423e53324225f0179969bc6ab4cb":"493e140b2ed673a03e85de23374ec459","44dd4467216eba95844b1e39dd6695ee":"d1663d24dbd6955535ce7d432e3ed9d9","cf21d4e5ca062a59e68c4074ed0ff02e":"1dd15cb62cef739307af5697ff397cb0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1385/1/live.mpd
+
+#EXTINF:-1 tvg-id="Alpe_d'Huez_TV" tvg-logo="" group-title="oqee",Alpe d'Huez TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9088dcedefa5661d68a22600c1338bfc":"7ed87adb363e624ab925bebe7d89a276","d7a417a3ad3f40c2096b9169668f53b3":"54658e8eb9087d285a1b0ea8337c9ecb","1d0a861541fa4b19b13cae095845845f":"c58600b4b19e45a032a0f7e13cdf9d06","330cf8393486857960f4f2652bbc4c23":"c6329158257c90db8a594fe7a9b87005"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1653/1/live.mpd
+
+#EXTINF:-1 tvg-id="Angers_TV" tvg-logo="" group-title="oqee",Angers TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6db2e01e5178e246aba1f7b75fdf65b8":"4cadb776c8a8965320447b6b9944216d","bbcdef0ee70733a3d8e6ce44e1f552de":"83cd9b0d8b4a96f89e464193b22ae080","f32cd2e524aee5c7996ed09c0ac0b77e":"e0226a30e6a69c8e9ef8dc52d7deea97","f11b0e40e34f175a1069ec59276e86dd":"1447c2f8129ca238aa5713b7c33e629b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1174/1/live.mpd
+
+#EXTINF:-1 tvg-id="Arriyadia" tvg-logo="" group-title="oqee",Arriyadia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"26b90d43ad8130b987a9facf03f7cd96":"980edb6e0da02316a41ce7eecf31e535","60edbfd17f073ad7efb37f4f162c7d70":"240fabf58aa88ab56d397b86b5108c35","f437555be52c17a2e6c4a2406cf5dfab":"8a5992cb8ab31d1bc1fa3f1c5cd08d6c","78cb7c631f9d070827e45c8e1b68632e":"3a11e18990897213469adf7a0fab3130"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/908/1/live.mpd
+
+#EXTINF:-1 tvg-id="Arte_HD" tvg-logo="" group-title="oqee",Arte HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"29ef36a83e576a0eb03c40a812def4a8":"516c4ade5ab87ea81986a9c85379bba6","49ea858bd068957ac05539bffcb9b83a":"ef5d9bf22e50c09b0b4becc5676ddd88","b43424670ec0b034de1bd5c4dc0655a7":"bcadb6e99b5ce35f2e7a57ddcf38fc1a","e5b626f47548acde711475d54f6bca18":"d67697cfcdb7f29cf466b3f52774fec7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/204/1/live.mpd
+
+#EXTINF:-1 tvg-id="AS_TV" tvg-logo="" group-title="oqee",AS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"78d3eb35898c6f0adfdb0df7aeb92e75":"9f997c31c82aaeae8741e319b68fa1ef","6b55a973db9e07477a967cff500df7d3":"f5991d910f28a28b7dc78f2e7c54c3f5","8d677531e43b95e9cd79bd6e3284dda3":"7bd355a944832b814f5fce4b468099cc","ee452725475e97c46979a900dbceef32":"c1d8190b36999af708862e22dcac1b83"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1383/1/live.mpd
+
+#EXTINF:-1 tvg-id="Asharq_News" tvg-logo="" group-title="oqee",Asharq News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fe3477975aa74aef29444aecbab8b4c1":"773414f9a09578e00c47d21916df0ba6","6aec48f83b79b404d1916ad569546141":"aef586412388c4d7c4de0724d39ed727","aabb2b99fe6ec9977956c33fd0c3d5ea":"fb0a24d37060a2091e629ec94d044f2a","4ed2c1e199a58444ba037997ad6c6e78":"b5c109f3e5d22588f9527a8d56b56f1e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1488/1/live.mpd
+
+#EXTINF:-1 tvg-id="Automoto_HD" tvg-logo="" group-title="oqee",Automoto HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"73da196b4c6fd32c891280dde6b4009f":"e6aae2effec497ccdb26c731e029b3f1","7f32d2850156f1b703f327b4ec8e1a26":"78719d79f3ce6d2b77ec119b8f45dc04","ea795bc367c37ef92512da512d654b7c":"12460c7f00b4b7051cfa791378543435","d40aa931c0cf556b9005f2a3c92a8da0":"4bb3d8bfd0ed4251ef630f48542eb4f5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/222/1/live.mpd
+
+#EXTINF:-1 tvg-id="Azur_TV" tvg-logo="" group-title="oqee",Azur TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b9b843b9cdc3aa058786fda4a1428563":"c6d8ab41b5d8ea12ba61bd8865d26003","72cd03ec6fdd4c3da89b195b0ab5a42a":"e255ff2b4040966df67f1fc1f5de07d2","adcec63156ac84b22529165940348c49":"9adefcaee2f5280b1020001e180c196c","738510faaedcc6d168ed4f3c638cad03":"832181de52ad38034b49fccf3aac6656"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1130/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_1_HD" tvg-logo="" group-title="oqee",beIN SPORTS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392":"f0b8f84dbd93407af6ab0b41fc774249","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","b6362975ca29d0685b7cac721b6faa26":"da04d180e9028af27482b6a37c81e020"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_2_HD" tvg-logo="" group-title="oqee",beIN SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a":"e556276599c55bdee169f39eab8e56bc","71fcdcfd58c608662db317fcf4411c19":"eaf76e97b969a7d124a720a109acda61","6c976caa628fde89aacedbd47059967e":"0d1e54565950c1e2f58d45c561a47187","7a62a516c5d980553f497c6bfc469b19":"a0eeb97b4d14d6bb7a5c39755dd7c41c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_3_HD" tvg-logo="" group-title="oqee",beIN SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4":"1a88899547f7fd4a5c22ee8150d89208","b4023d3a71316ed3cd06af7e43988d31":"91a96d592dd6e946b0f0074d15ac1168","441100b7de65d7c582a9c71140e46f79":"ef37dadc14bdade17224ef4bc9f87ce6","43faba2da98eeeeb42481dca873d3460":"f8b58939398e5a5574c18408d304d44e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_10" tvg-logo="" group-title="oqee",beIN SPORTS MAX 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ca1d0a53a606f8ffeb028f6b2477baa3":"388a61759de362dfcadef721b936d69a","15dabcf1eabc8717842feb65f7152107":"7380f61795caebec26b0713bce2a4e3d","f9c2a25bbabc8d3804df46418069ef07":"27ca457a2bb9751a5c1eb158474346a0","c41b8b295c08307ddc1e3a22ea912772":"d925fe683ed91e5837aaa4e5147ad885"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_4" tvg-logo="" group-title="oqee",beIN SPORTS MAX 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","2979e661ef50e56026975f5709548b97":"8bb43f5394f362104d25c96426ec5bf8","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","927a104e0407af9133e307e1f84d9b1e":"700d027f34b3fedb75defa9c558faabe"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_5" tvg-logo="" group-title="oqee",beIN SPORTS MAX 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b0478fd26424e88fa1e6478ee35d7f08":"f5044242d8d224cae4087fd8ef654023","2275129f285677145e34eb8be249ae4a":"75055c6051d650c529627b1e626f530a","2eb72cb8d525719cdda3e1f5cc43b342":"e0797e22865754872052015dda2905f7","0ad2dbd3aefe207034f24050ebc98cd1":"0b121fe769d0b1b45a3a6bb8c40e3405"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_6" tvg-logo="" group-title="oqee",beIN SPORTS MAX 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c98631345149436c3778caeab57d97c5":"6125590eb9a0cb8c9a17dd2680000292","9f899ca412e180776f885c0c214b02a0":"3f357dd3dfaf92623903ca91b88b05f4","03ee66e926f6a34a1815f117bc12799c":"1dc895a43e207f02bd2fce62de5fbd3a","257180b06ff9cbcdbaabc1ae37650f9e":"a00768d01bc82c2dd7e211c59addc9a6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_7" tvg-logo="" group-title="oqee",beIN SPORTS MAX 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3fabbf841767a645ad2d85c1e099e94d":"bde635aa3028aab38d680672f88a0c7c","c4c64f1414958cde07fe40cd85f2238c":"ce2887b843b7590a5ee083a4d8f667c2","6de1fab48d825b39a63746d89e90a848":"2435a1110e892b7da94e79a7bd49b49c","337348892caabbb14763548ccb1a6ac7":"7445c17d6da33a64ea8238a433f9cbe3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_8" tvg-logo="" group-title="oqee",beIN SPORTS MAX 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f2c98006a33bbc83f7c03ef3530403b":"546b1d34b1be111c513d38fecaea99e4","eb4949796839b08918bc4ebc25aceba6":"9b53a7fc07fa9051aacf8bc693b187b0","d0525914e6c3e6be6fe85dcdb8a3be2f":"da1c96b903c0c252f1b1d82f2517c07e","4b09dd7a5aff601212f3d498309e467c":"7ed57d36a85bba88b737693ab368330e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX_9" tvg-logo="" group-title="oqee",beIN SPORTS MAX 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4526ccd7d499b0b24011ce5adce18656":"3d2ed80cf1f5a9a4b9a7621b9e6c4e2a","e2006d8a33025cd7943a5f02001781ec":"35c7b2ec27f2b37492707a8b4cd37154","1a31894f0c41a0fe0c508784d0d1569b":"121164311f7b308a37e5504b717ae3d5","a8d5f0e00214e3777d75b89b05daf64d":"f0371e88f6c2bf7844d69d9b9e0a52af"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+#EXTINF:-1 tvg-id="BET_HD" tvg-logo="" group-title="oqee",BET HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f7859210203e52831a64bba1d138bba4":"7f3c0b9582645da8306a1b0bb3883cb2","2e7775f8dde0dc5750d9ad4ad8652cf4":"3b755131055c6eb2c8cbb02f3250a659","4b7d140e75d7813b62804683c138522e":"de508f3f873aa1bafe8cd0e4bfb4e750","9a463a87f87750fa0c624e32086b20c7":"b72ed869be0afd94492153e4b6ab0ff3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1135/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Alsace" tvg-logo="" group-title="oqee",BFM Alsace
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"81a7b565cd2b9293276906736b0d5bdd":"2449a6c2018c332aed7f0e8244cc4d26","06b853942b88057759d3de5c0f09d58e":"412aeeeea38f033a3af150f886173305","3a8cf34dccc9f4bde2750e9bdf084178":"e7abe03661c2acf4b369971c103a7b5d","2382f82fd383407e0087bbf58d9b633e":"a0e5275dfba7f454daeb156175f28e57"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/753/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Business_HD" tvg-logo="" group-title="oqee",BFM Business HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0eea2490437b237c6f65ae66becea868":"ad7017d1e977c8f26cb33f7e103f2e66","312a6ffeefee046bbae3888de1fa8b37":"4d964c1149c16554485537cd268fd2fe","0ad3fc134473e77b2738c5e77fc405c7":"7259269a0ae5694dec550035ab4b88a8","f3133beb54cfa9b65899748580599320":"412bc96df0aadcfa0d0b1bffb88c44e7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/897/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_D!CI_Haute_Provence" tvg-logo="" group-title="oqee",BFM D!CI Haute Provence
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2b082038e83df21a285bdd8a11c31773":"ee120e52282d98fb5bb90bbeb3a153b4","cc5091407575ceef065b0c83d7960f19":"3db3f9e3122ac8201b418d2b1cac08a7","23035c05148b1cc606d393b5ef79e322":"e063345bb47fec716754498ac90bad52","ddb4231eae5c0442616e60965a39865e":"3cb2e0be013879fd93fe81455a1976e8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1066/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_DICI_Alpes_Sud" tvg-logo="" group-title="oqee",BFM DICI Alpes Sud
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d2467b7e27634bce3238f1a371e237b2":"4f6caae62303e63595f832002e532156","aa28f4ac3ce3d94f54cfea30cfbc21bf":"3be54c2c4a694b0d485758fff496d20c","7948a115e8ea1a7365d24b78a39ed68b":"25f5e1127f711469c91ffd4464d8ed9f","b816c3455807dcd65245ed8e4daa451f":"b4200aef72c19115d0db40c66a24e278"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1361/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Grand_Lille" tvg-logo="" group-title="oqee",BFM Grand Lille
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3539be75d90e5a2d6b528fc12e1a5784":"0617945a7c4744cd43d8725dba81973e","b35a860905b18c3b5fbff26eb592db8e":"02a73cf89dada24d54e9f7d5d81f3394","700c73d64e8f204e6de7d69ae1ae4f69":"67548c443b2ca53130fc0be41fa1f871","53e6579ff3bbc2a8244bbba9b530262c":"68b4945a72f0b1096006c7d2a49171e6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/826/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Grand_Littoral" tvg-logo="" group-title="oqee",BFM Grand Littoral
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"49f26d10b9260fc43fdfb39f9c655551":"cc5b6d7bcb110d04a9e4f0e32dd08f15","9f5dee11abb8ab63d3f1dc1553a98103":"3d7ccbd1422e2d11768461d99823100f","a7189e0e38bf9a6b0e1c9ed18601d52f":"80a43b60e36c6d6b14f4415ab6c9b3c9","2f31825b96a703e02fd81d88c4995ea5":"f1b50c7b9c6be95ece58aad07a727cbe"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1302/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Lyon" tvg-logo="" group-title="oqee",BFM Lyon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e78f5c884c6713fbf2728cb1e112c5ae":"77a54cf9f12f98661bc0bc2885237008","f2a52afa3c02f0433fe3065faf183b9b":"0d8dd3df087815ac2926b683b96cce54","7aa67412d19732302c472f9f7d54a87f":"9602d922428571d6120cc6cc9ffc18f2","bc7dcbf30a09c231fb4b4ecf7e94e90b":"72d4694fd8d828ea57b7e86ced53cf3f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/267/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Marseille_Provence" tvg-logo="" group-title="oqee",BFM Marseille Provence
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50d9749df68e8dae38eb24e4bd11db00":"dc18f67ee3cb2410540eeeea864b0200","4376e940f47aad9e07f8558a6c6ecc62":"c444bf104d7d881b9226fce5fac83a51","52f6f71fba27bdbb9a0bc35e88155751":"c4d32d0be26725c761af4991daba99ab","52354a7c1f0cff9581e27630f493da44":"94c450300eed679b1e5ac3706c979236"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1499/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Nice_C_te_d'Azur" tvg-logo="" group-title="oqee",BFM Nice C te d'Azur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c56d0f89c5160a466f35aed80921492e":"dfdef63b0bd9cd03951908221d223fc7","009905ee157feabfddca99b0715d14d0":"8560a413b7dea8510aa7465d6f98c5da","4df3790e2256bc7a2dae85a16b9b2d6e":"57e7f16d16eccaaf0a31f7b73de445ac","5ca64926db3d3302f3524cdd8c44e89f":"35aeeb30d08b4f9eefa7038e74f23e75"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1501/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Normandie" tvg-logo="" group-title="oqee",BFM Normandie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"41e35b0c04823962d4d275e1638dc8e8":"d8b742c5221e27941e1f984c6eed1ce7","986f24b55965e7f13c64bf7136edbb95":"e4067ecc5c18478429dd78a46a32fd46","8c24ce6360aade9d2e49a7eeb0c0073f":"59ff3864d047b515fc5f50d3e492a9ff","c4253bd27bd389ba557cfb7b21f6e199":"cced4688c73ddafe405f63cc22169a8e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1574/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Paris" tvg-logo="" group-title="oqee",BFM Paris
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"39e83a54e914481c292d4225743e3df4":"3fd340486ccb285d23d275b5adb10e1f","224ff6a82717f991f0efec521f02bc62":"13400d403ee19332b0899359a1f94737","5bac83d27020fbee37489848454bc017":"50d5603239e775b11b655f257271f6e0","6da1da583f1b13cbce8ff6a0bfd98a17":"018f20c91d9083fefdd5e2fb0f0667a6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1375/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_Toulon_Var" tvg-logo="" group-title="oqee",BFM Toulon Var
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3cec72d766f98969d719c78eaf650ff4":"c3f8d033cd7f8e4b88d00dc9875a74fd","111bc693eba1fbbb9cf9ebc0f74d0e12":"e7afd3902d8b6217f71d47bf58111fdb","7df83805a07beb255af4f8ccad394907":"56a2d56f3e9e54e47d28825279eb5a00","1e1dc9b1df0cf4c2f1a883f50763a12a":"a1426fc6b5846e7349d621425b367e24"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1500/1/live.mpd
+
+#EXTINF:-1 tvg-id="BFM_TV_HD" tvg-logo="" group-title="oqee",BFM TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f4f0ed12e2f2d42e3f8ac3b8ee87c43f":"a8824c723add263630ad3aad1232fe7c","132cb23ad9a9d38fb63d454bd253f75f":"52d9f96d64258fd2daff97f1f53a18a6","677c848f48aeb31584f11d72a325a738":"fdaf8eb2d5f211471e2513481e5fd030","0e0a0f5291bbb3a19a7bb5685ac9a9d1":"0e37a4b5aa648eb4d628dd136586dd15"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/400/1/live.mpd
+
+#EXTINF:-1 tvg-id="Bip_TV" tvg-logo="" group-title="oqee",Bip TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"63389802ebf707ee74cbe46cbd712863":"303965d9767bb9cee82aa1545e220af5","dd59573c0a296379cfa5a8a46e24425f":"b11d55411962c3e5d17ca2caddeee083","81fbe8e9da85e6aa77914227ccf4e399":"732ecd76c8fcb5b74e6333dd92420ca7","9fae2a4d5a5a4ac43e4de408e8271002":"d7389d0a052781ad0435518a731b252e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1533/1/live.mpd
+
+#EXTINF:-1 tvg-id="Blackpills" tvg-logo="" group-title="oqee",Blackpills
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d0790cc0ac4a1329aa3bc385d8dbb09":"c4bfcba735d2849d6872dcc3e3e6ca62","8e0a63ed9fd6e6eebdcfef2479edc45c":"268ce29cdefe9c985a1da7a980c2b774","5d3a04bc0c3ef3f6e546ddf8dc3d68b3":"3b98ed93af6209de92c95a8fd1ac5d0a","3bdf5e569956e47d44ad66937ec0673a":"a9813a66df98c452db4067741864c787"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1498/1/live.mpd
+
+#EXTINF:-1 tvg-id="Boomerang_HD" tvg-logo="" group-title="oqee",Boomerang HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c9c9fbaa5a0b7af6e8fb936da09e960":"8ed3013f22cbe3f1771c96be30b3d5f8","0a3ea1939ba4e9a9e74cfbf0ef4fe13f":"213646604ec530a59175e5dc53fbc85f","85ec1d96baaa09e87d20e39b26114b36":"968c7fe9906e5b8badfbb9a0f295883f","30108bb7f33aecead06900bd9842440b":"dbd49232f33c13c4d89213173c41849d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/324/1/live.mpd
+
+#EXTINF:-1 tvg-id="BSmart_TV" tvg-logo="" group-title="oqee",BSmart TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c90ae671d7cf9e6f21678307eb75b0f5":"583952179aa7cfe13995eacd5d4b2de8","1505ef4043fd200aa71fc42a873bf1ff":"4fd3e07bd35ee0d9814943ae15f3ac13","939f39752a49ad4e68cf5c27185833a1":"faf0e4561dafab22f00c651f15279a26","87d5384afa3f652a4d6fc6c3f43a2e91":"429ef04f89b999a39484bf951ade8cf3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1427/1/live.mpd
+
+#EXTINF:-1 tvg-id="C8_HD" tvg-logo="" group-title="oqee",C8 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bcb0491d49360476e8907249b36aff4f":"74ee99c7bacb1ffde50901eb74380589","7cb3f467dc613a8561b96916e3349a36":"08f31095a86e3947a23cf5565f9502e7","6074a92966add1df32ca0346674bfd1a":"2e26e16d372be4501362fdd27fcbf7c2","10fb653fb83cd3be07d6a357ec248f78":"a76874c3925aa57cb92e451a6a47cb18"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/372/2/live.mpd
+
+#EXTINF:-1 tvg-id="Canal_31" tvg-logo="" group-title="oqee",Canal 31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ee7abb80cc950eb794ee3e43fd3e902f":"67cfd8867f03e6a762a2b1b82357f54d","6bb2759569c914ec94350370a5dced4e":"5280573974675a3f8840c34f44c674dc","d0901f1fd21ead369be2ebdcc0e7d83d":"6bce300ac57e0cc52a12de2308a99907","8a58a15c3544f4e979280ff9445c0c38":"a37688839b8fd3b54748f565c30a46ef"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/756/1/live.mpd
+
+#EXTINF:-1 tvg-id="Canal_J" tvg-logo="" group-title="oqee",Canal J
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7f53d532be5aa0ce1d63255b6ce4e74e":"85c00b1167c18929843024f1b6bb7b73","80422f6e1b1d7810e437afaef8f68820":"2410c2360ba273857c5cab7d65158389","8af90eb51090ac0e49275fd747dd6542":"d5344fad98ef329b7fd412cf9237f239","282fe8530673667e890795a99661d224":"912a9380cc05e8f8f11c892f3e3cd196"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1213/1/live.mpd
+
+#EXTINF:-1 tvg-id="Canal32" tvg-logo="" group-title="oqee",Canal32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d8708e7ffe9ab9272f6ee485332f5ce4":"656f23e4f34f212f7184d79768458a6f","85ca9cc173c8815ee3b10f725f3e1421":"0770e16db55fb2dc3edd8e386393b94a","b29d67a46d6c607c6947dfaae6a07fd3":"44cab3d4988ed8ca56836260a5d38548","d341b2d90df9ad1b568fbc855e619a0a":"fd86f8e31d704b4654ffbf53e21739d6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1000/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cannes_L_rins_TV" tvg-logo="" group-title="oqee",Cannes L rins TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ad49734d521ecfd8f19b54abc6272ed":"54c74cfb6c203eb220280dbfa7719fe8","0a7340ce4646c63c24ec30e7be2bbd0a":"bac03cf953f7906638aeb542de31f522","b0d78a8f870b38d255fc5a3280a87ac0":"9f048db5438282768c4c7a5fb6ec2962","5525e7e882926e636fff0e66336bbbc7":"dde2a9f507770d1e51f7b19bcf494cba"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1639/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cartoon_Network" tvg-logo="" group-title="oqee",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d5310dae359dc2bce1ffcac912f12fb":"fce0175998aaaccbb4386e696dd361e8","7b9efaa7a8b42f8a57d9f2bbe9dfcf5e":"a9fe916e6bc99858c47021e9331c9007","dde7d17af64ea9332071c5a657f5b1a3":"0d5b7fd6439bcb7281da2bda95f67087","c1f39c1d7bb901fc60c67c10cbf809d0":"4cd7fb7d1ec71f44597d301c7eaf5387"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1211/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="" group-title="oqee",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"afdd23d1c3263c2040200d5d31008222":"df02ce45322c4d1a6bc251d1a945329e","edbd2cd07c19b5d85693f66351a09306":"273e2e502bd3b0c6bc70ba2eeee5c177","575acc5e9bbdf3fed9295f5f3913bb07":"c24f9c0dd6483b8f6e1c3c919c22a5fd","6e7baef535e3e2cfb98fdb27eb678bed":"7af16d2dd7408aa2d3399b1d43e85455"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/857/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cherie_25_HD" tvg-logo="" group-title="oqee",Cherie 25 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1a5cb3f103c63cc6f56a08814cec2d55":"d92967e8283812a8825d2a429a4090ff","f0e53cf415dd8f30eb8651949b54011d":"3657d77a69b7458bf3db5e4e249ab6af","91edc907d227346703fbaee4b4c14e54":"8ea3bf1838d8e0bf0c54c82703ede1f0","90aa029947263bba70ad246618c65fba":"d3c85e52c589d90e4813f6ceb3bb3287"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/998/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Classic" tvg-logo="" group-title="oqee",Cin + Classic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cf79115e19ab2f031ec96aa679549497":"ec2411c4175b63fac06e6070138cbd67","21cb0f46de5485540b5847be57fe4ad7":"98555c6fd2a3919fdbf80f093bd10650","e6008aa9f4e46f86f31cd0e3fbcff83e":"7043d7b0020f91da7e20f832f3e0ce73","fa127b717c546e760a1d9a57dc6e8b9e":"14e7195e57380c0b645f9190d7d35178"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/998/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Club" tvg-logo="" group-title="oqee",Cin + Club
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"07e900891fb0de81f898922ba4d625f5":"f176d6d0e83309c0e21906016de19026","e63338e2d2a6478daff62342d475bc50":"bd3f2785c61d7fa42d51c5e692397994","6665322f289780ecbef6b92ac496d24c":"4cdec57e649f84ccaf6c3fd1d2af47ee","d6445bc8cd14980427950d0500ac6b66":"75a29bd51597bc264f39f2728e8cffff"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/669/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Emotion" tvg-logo="" group-title="oqee",Cin + Emotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dbaa4b4649e6ee444e39d94b46efbdbc":"df03b3943317085fa5b76d0ce0df34e1","ca3b8037666ceb8d4b139d991264cff8":"4710d7c2ada231f2e5da8fe3c1c8795b","48232fc3998df5b250ce39e23c8b65be":"2e39548b185700b31b9341b30075c467","a84440e59bbf33e7b8451b1ef3752463":"e5edcb1def0574d08656cc99301c6cf7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1054/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Famiz" tvg-logo="" group-title="oqee",Cin + Famiz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c7a7775785dd2468bd1ecd3df4d04c05":"379b59fc92a6c86a8093a091a59c1d4c","d2675781111464feef0f05838f28dbee":"95bd45186dc9bcd16662b15a8ad3a4e6","44c65ceb005030eb9acea234951c1219":"c121982f79ab6178da2552a20f0f188a","de4e3b54829abdb663ef1f76b6744788":"818ef3ed99c2e5f49593ffad404b2cf5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/696/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Frisson" tvg-logo="" group-title="oqee",Cin + Frisson
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"955f2b235ea3e020ce45c6dcff2bb8ac":"78ba6a8c3377594af15a83a0a143ebbb","33975e07f3b0b8cd6a8635637a4977f3":"4ae8c1d04179161aaa7d0441029aa320","54048563958d9b5fb86fc8d1951f9cfc":"f0c675c40072d5c68198e27a333f55fe","69ffdc4622ba9368e18ab540bffc8508":"697b47d2ccfda8b781601a8e302f2ae3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1053/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cin_+_Premier" tvg-logo="" group-title="oqee",Cin + Premier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"af07d6b6c99d25322debff9457c89e98":"94d84432f8e9a38a33c4ad75ade5acda","f11f8c4c283c7f3bede627224a557821":"02f82a68fc59d524633b191cd15d97c4","d82c91c9cd9e84e7b689ac8ca276a3a7":"c72d11fc9bc2ac69783d13d4b50151fe","c1771c1e3d5311152f7bde052df3cd11":"3be007fa1ac7783b4de3c8d0668baeef"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1051/1/live.mpd
+
+#EXTINF:-1 tvg-id="Clubbing_TV" tvg-logo="" group-title="oqee",Clubbing TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"817abf6f63f717e670c000135944a342":"738701dc3d747e943024b5ea341b5799","bf8f711ebb31aea520f07beab274d90c":"428df84b1f3d8df47e88a93d8369fbcd","3da2119418e35ac7eda72fce77b736ca":"ce592cfad2a926b93921122a08d8a02e","bf77a7d7b0e7cc780c0120ca250ff574":"b77c2defc1c0b215f11324d86c020b56"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/767/1/live.mpd
+
+#EXTINF:-1 tvg-id="CNEWS_HD" tvg-logo="" group-title="oqee",CNEWS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8276e4eb624134dbf6d80a0b51b7725b":"52b2cf061894f65d03547688ef5468ba","73e3428ef3cb770d91f681fbf25159a5":"7afc420c0adfaf08308060d92fda342f","2acc7f0f52a5193d277048dd172d27bd":"3f8b92178aaf05dfdbfe80ba10bce7bd","d264fa13e22ec16c5313f97eeb4ae394":"62d720a29bd2924a0fb957ff3e98cb80"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/679/2/live.mpd
+
+#EXTINF:-1 tvg-id="Comedie+" tvg-logo="" group-title="oqee",Comedie+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1bec11559f63286229ce3b863a778a43":"f84b1389466e05eef71dda67a18eb3f1","19526afb74c9e0bb0466b357c14d565f":"6206502fe53e79bc128412b5465b04ad","96304100f659bf817d92f9111a7962ca":"f3b16cee1a5f52727424216e5396fb0c","0c88004b1c3eb2655d9a78256bb46c09":"8915b15112d5939010185e46a4ef5ece"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1179/1/live.mpd
+
+#EXTINF:-1 tvg-id="Comedy_Central" tvg-logo="" group-title="oqee",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f03d9c4e88c3c6f1366113e0d195293":"399f157708596fa6a88fb264530eb496","f4f916fd96b0d196635c063738314a9f":"5e923de08c6b98f905c1120c6804180a","31eba09cafa82a5fd991188f07caeb01":"0dd93ee55100683e80765a27d350f081","087fb6409d26d9c8ff804eaaca22cc18":"7d85170e3c8fc0bc12c7bb1497a5a28f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1318/1/live.mpd
+
+#EXTINF:-1 tvg-id="Crime_District" tvg-logo="" group-title="oqee",Crime District
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9b411196d78297b423f6f7687643f6b6":"720f76b6868c4d8974e0219cca140af1","cfbd71c66e5ac8c4a0c16b66525e839f":"f68eab2d9f5756720c2223a24c97bc24","18954e083784c5a08c375712a151b032":"f6e818357096ac91ac6cb75e294233cb","c4a1aed66fdd0a333c5735811b39646d":"396fd26d65d5388f691c1e6d3060bf07"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1314/1/live.mpd
+
+#EXTINF:-1 tvg-id="CSTAR_HD" tvg-logo="" group-title="oqee",CSTAR HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"20d6b78e8e424f6e04cee73af0d3344f":"2f566e5001784c7e5c733fa430874f54","cae527fb91183f9a1db94ca8b1f1d200":"cd450d45768e98ee41eadcc81458e791","a9d98f0a1c5e5a32dcfaf9c14ca21567":"251cdc0156f56dba5039010dc6edee7b","e49d99a6c7be42d43dc54bb74da36f20":"2f0706efde028e7faba5da9b97731c56"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/678/2/live.mpd
+
+#EXTINF:-1 tvg-id="CStar_Hits" tvg-logo="" group-title="oqee",CStar Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a6d614d2794af1309c121edc6af3a8f":"a552e8d15887ba2e305a617548d35f67","aa2d2c22018e20734e86649e5909082c":"fa2e87164ba4aa6674274f7e99f9952c","5d63c9f11535cb9f59bcbe12038bf6e3":"a78c243474c0756b1cb7298f9d1fcbe8","8c07ec827cb9a93e2fad3e4cca4165b2":"edd9c7d969672c1a31df56113606562e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1310/1/live.mpd
+
+#EXTINF:-1 tvg-id="Discovery_Channel" tvg-logo="" group-title="oqee",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3e10a9522a3794e273db4884e0871fd6":"36da737e44e9563da0a398ec50f3ff7c","633d3cff1108f8122aa5df29d962e820":"bcd2d38546a0e56e617bd6bd8c7416f4","5cff9a40d8871eac2d76044a62a58d8c":"7b0d3b508fc3c6c5b94f58498ef347e0","3fde0f5b1e90dc0f69b1d6f4d5afa96d":"988e1da502312c9be0ceb0cd419d0966"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1620/1/live.mpd
+
+#EXTINF:-1 tvg-id="Discovery_Investigation" tvg-logo="" group-title="oqee",Discovery Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"42e032ba84151fcdaddac5d44b5ff60e":"abca8fc12d31033f4a51a2fa50a0bf5a","96f3c40368b32b453ec04cb1b68188e0":"a1c258dcc2a3e80b931b6992af5b5403","6c26ba24a7eb7a87315191434ddfba18":"a4ada94b270d14df545e3a52b84bbef1","56729c8d1616cd59d98ca5640c861694":"35e19de910d7709994128995fce140b4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1619/1/live.mpd
+
+#EXTINF:-1 tvg-id="Discovery_Science" tvg-logo="" group-title="oqee",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"282abc4a1022de98d301f3a330e1a87a":"9f9220b0dbc4f645e74a7ac2860e3950","6ab8987e1577e1e4660bcc571758e232":"47de6bcc6db1ebd380fccbf26b4b8bee","928e5831b07e7639fb352e0931fa6e32":"7f0dff9cb498a75de378ecbec9157d1f","62d2914c2bcefb761b50cbdebee7e782":"efed1d90403d7fb09f9aec964676db7d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1615/1/live.mpd
+
+#EXTINF:-1 tvg-id="Disney_Channel_+1" tvg-logo="" group-title="oqee",Disney Channel +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c5cf76eb8aea17105dce3e19bae0255":"539c45175c5e880f5653bb5a894ede10","6ac686f2f77fafe84bf9d98dc350f1bb":"79359e3ac190443db8a98951eebb0ece","2c1545238cab95400999a25a2d2723f2":"a6fd075c321240a02216568c4da69895","154911261783dddc9bdd97387f70191e":"f0d8c35b1ac422654aacf2bcaf72a261"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/939/1/live.mpd
+
+#EXTINF:-1 tvg-id="Disney_Channel_HD" tvg-logo="" group-title="oqee",Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8583283adec07568b8d70fc371626b39":"f97a1a5fb9e23ee812d44728777f88d6","a460ff91d789d2cbe9d38625655ed56c":"135209f0d40abe0e3fa6a62d5dc56117","b538c626d413ab2115280452f8b5f47c":"707cac01dcface90325506666497528d","ca1d7dc90ed2cd1671d0bbe00d94c051":"35c3c13a27ee687ece11a702d9ec2be4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/938/1/live.mpd
+
+#EXTINF:-1 tvg-id="Disney_Junior" tvg-logo="" group-title="oqee",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"895e71a5233c0419d88cc56dd05bd4f8":"2a5f62e9f8627381f27a2fb9ff1c50f5","d2170119372a7929cd4fdd38eb9bc2df":"4636f00c9a4d0b0e6c8e49c15e19cb86","8b7bf8696ccbee8a37d7921c80a63a2d":"ef65fd867afed07af3b2b054823e3384","f1bec10f6ad543ac7d94f9863df02ee0":"a7ab88b4c1d33a54385f17af8679742a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1210/1/live.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks_HD" tvg-logo="" group-title="oqee",Dreamworks HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d2594c910e1d25f40ee4e0e8d5a64570":"d27474ef8934f140db50ac3f27c3a222","6e20dd78b1e049ee33b24fd157f5603e":"7e76d264ca0643a0ce67c8184e91417c","eb7fc8d1a338880b0f01780d31a5f234":"3bf2774f73537cda186dff84c7261144","e729134a764383a1ac27b9f849f9c2e7":"d5d04046fe255f028e50aa5770ceac31"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1654/2/live.mpd
+
+#EXTINF:-1 tvg-id="E!_HD" tvg-logo="" group-title="oqee",E! HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4e4c2e0591164e9a517cf586e8b76c08":"caa77addeee807404925fc388be12cf4","2f15469734962af67564427612ec6e08":"89b6f653bc5ab83ab2924c5f003ef94a","d9d5f1c9755e3e399a72dece36d329d3":"f15ce2d93d627f8d3572381a5d132f83","761d77cfbdc8e64ea0c117ceadca7691":"0e16e656d7dc8f3cd6a2633b3963c9c3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1657/2/live.mpd
+
+#EXTINF:-1 tvg-id="Equidia" tvg-logo="" group-title="oqee",Equidia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5edf65e2165405f224720c778dec9acf":"e9bcb8e2409fe7060e889dc38718912b","5d2f329d8c89089d24aea9f3d7f6b011":"868093a772d61a246308a283f2011aac","c7b101f2343516922d717de6034087f2":"b5d09e9065e1cd3d9fead61f514be553","e9bebd4342afdae3432b660ffcf49cde":"14c8f6eda79807d1b0ffe1f23fc909eb"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/212/1/live.mpd
+
+#EXTINF:-1 tvg-id="ETV_Guadeloupe" tvg-logo="" group-title="oqee",ETV Guadeloupe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8bf73438efa024308354738ff4315025":"aeced10512b82946504db6323a63cb01","a14ca0de5afb994a58ce68e74f418753":"57bd8b17b88470f5e244df9bc5e4a7c3","aa53a0939f5df98531296b4f35f2be78":"bca2cae5f7eff6d9a32ee5fafa332b33","405331915d64aeec38e32472c627ba9e":"7c5032786bea5765dfb9e3e4dc23d48e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1638/1/live.mpd
+
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="" group-title="oqee",Eurochannel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"51c0f2940bbe8c8659a598adc9fb631d":"dc53b0ff70a22f3ac7699b6e294a26a5","be3149e1ebf5e4103330c1274fa76f14":"1000d3282aed4dfb5e126dfc27ade18b","e0d217c7a5b3a37fa45541d09fd16314":"62b914c5b7abd79d62540197c72a15ec","320f89ef74235466fb43b3d0a807be99":"27f9bd6d6d5550299a6584709c5928dd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/959/1/live.mpd
+
+#EXTINF:-1 tvg-id="Euronews_Int" tvg-logo="" group-title="oqee",Euronews Int
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c7bb50a1edfcf84c6226ba4499e6c950":"527c948c4164dd6923018b452aa7ab08","c5f1db51c4fd7443f6ccd0f18b740ffd":"f826728bdedc59112c72d5739ae4b5bd","d4eb283a93402f4a2ef42b4f2614d895":"c967331a42b9a3eab8102a03b4566f7f","671ab790a51b5a0539d81c0d2270915d":"dba2049182a53605e2f0e35a28b42905"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/949/1/live.mpd
+
+#EXTINF:-1 tvg-id="Eurosport_1" tvg-logo="" group-title="oqee",Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d2e161ac027a80a3364e76d5be43d675":"f84843cd86ad33c6b5dc51fa03d77dd7","4ef8021a7660f4ae37efe5ee442b4143":"240526df7001d358603dd654fb00ea61","e47955fdd38ff50114e75c0ac993489c":"eb6798c94f446af457d60bb56e301981","189c779528468067cce6206311e03221":"be81f13b74d6afde189f78ce003181c3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1199/1/live.mpd
+
+#EXTINF:-1 tvg-id="Eurosport_2" tvg-logo="" group-title="oqee",Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a25a2e6b3e0ba8d91097d63841b335d6":"fcdc3981e9d6195190aae8ac011c9083","b64c570bd5aabd5702e8a91a77175aad":"86d104e7e33f9dc3aaa31090ba363155","1ad33a8672638d0937615b9542af50b6":"07dfd9b01fdc4f0547e3a77c32947f1a","8fc78cf6737a3cacd2f6e1de541e421a":"b85dd3176916ae77bc4bb5c26d4138ea"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1200/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_2_HD" tvg-logo="" group-title="oqee",France 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa5312c35b294f49bb8db265ea3fb034":"c21d7f9b9ba201ae7d7b258703d2f818","2d708bbdd333bc60ec4a3f717c4c8a9e":"2256c050b2b2b9cfd5303df90ecaa1be","5dda94ea655b2d5c6bb79f5d0f0e0c85":"38e798a71345cfbd0847e2f232b1f361","4184f9cb2939be76c4f25115104b7636":"8c2875958a9359fa978f48076451b5aa"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/201/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Alpes" tvg-logo="" group-title="oqee",France 3 Alpes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ed5199b202e273dd84ce411368d5de47":"6d08ec77ad7923459a23d8e73fd4b84c","004e99be0b39aeceb2df52fe83099c7d":"1ea64d56cc1ccdd393f4238f9cd48507","3d956bf14516470c381e1ae02665fb0b":"e01b1968260f13a12616730e35cd9f00","15ee3aa9ba1c97299bd1e7a828fe44bc":"b4c5688e98258edf295597d6152fa1c4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/283/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Alsace" tvg-logo="" group-title="oqee",France 3 Alsace
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e6eb49fbd49e656876e9468cdc0b0ed5":"afeb7710b289acb833709aca0eca1108","ac64a522c4662089a11c8b614115ad79":"2fbeb7f76aecad273f086d224cc4b17f","8ee55646534b59fdada1977885e52910":"29ce3b8d190ea0b6e00c5ae691fe5336","381f06f30b5842d7046687e6b339c603":"9fa3284f338387b7ed3b25509eb2d6cc"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/280/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Aquitaine" tvg-logo="" group-title="oqee",France 3 Aquitaine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae236223a7e38a0d670aa434e6eccca3":"56d08153967f544320e9a7831e450cdc","39093e6973df19752e09f26451c6fe4f":"baeb920531d41e244de7471bca5726c6","ffd9bc4d78c9017f7c6c3c3699a7ae4b":"3885251fe4861133e4a6aa48e5eaec5c","609d9ba93e0eb68501cf2b499041f392":"f6f3957149c64107866c3982c5f597a9"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/284/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Auvergne" tvg-logo="" group-title="oqee",France 3 Auvergne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f274d9cc1e996d06961da68fbf2b9181":"b46ee9f99908e1bbebccc56a47688fd7","c0f83b86aded3bbab5eb07d762ec5d88":"c96935d05d681027a023e56d20f4047b","d1d09db4b9419f464d54e69530125e35":"142c0e0d17b8de5b2e231df11e444831","ebb37221b70dd7c799fe660e7221b720":"d331eba5382763a66a5e44c4e797c7ad"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/285/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Basse-Normandie" tvg-logo="" group-title="oqee",France 3 Basse-Normandie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1542bd3d0a05669d23b0d229cfa3b71":"4d4bd7d5b47c462fae77308eb23d436e","6b05c9f7ce6d262b0e0a8fdf9a4fcb3c":"1c36347c5f9cf70462ee3c28db425a08","4c721441594a386afb6b36149f3245b9":"0b01d02ddab72d72b963b26e3387a36f","998fd0798a33439c4daf2de18dbe167e":"4e69c168c6d12c9765a53c40e4a3f6e2"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/298/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Bourgogne" tvg-logo="" group-title="oqee",France 3 Bourgogne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f0e613f9099b6a7b8cc02a5995714553":"165bcb3f6e18dabb663fb8e3b63f70b2","451a18f0312128b775464b0b3df1c99b":"7e9e876055405bea7ca04e8b65c0ecef","3d1858d3309bd48da60b519917e83b6d":"ae88cde8df6692e4a6a857d0b4a1a0f0","9a00750791b12ee878960492903b8f02":"2a3bf377c81f6e6244eb8a429be3acf5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/279/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Bretagne" tvg-logo="" group-title="oqee",France 3 Bretagne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cd9a17816ac9b8fe28dac0c007c99ce6":"e8037ce50c048421769c9bc59af8682d","30bb8672e270497a8fa25f0daa0fec08":"057fe2ec4fdd03b64104526ef98af28f","100d61b01460fd3518cf1264362cba27":"3b6f24b8cdb86861271a66c0d7b6bbb2","37795cb0ced07376ce3bc2928c9c993b":"4b3dbf21b57e747fc35aa9d702b56e97"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/286/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Centre" tvg-logo="" group-title="oqee",France 3 Centre
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f52802eb488ab948df0fbf3692e33fce":"6c57a89b5b76b1d30ea1e8f954e88d3e","f4397af6b7015f1d450eee8b29bdd880":"312300a0ab55e5ea2f1b3f55688cb4d8","78a428c253c007ab0ef20bc94f161f5b":"47dd766eaa464f4d61e65a189e4466e0","4c08a69229571b455cf0dee3c4b03728":"9555532d5c3a237a8c1be3a5f19c2bf4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/287/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Champagne-Ardenne" tvg-logo="" group-title="oqee",France 3 Champagne-Ardenne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6b1ed702ea99d47f63affd479543650b":"bcea2279e23dbfec22b8bb4212a658ce","16db2836ef651c71ff7901e60869bb9b":"d72249f4d3c2e7509e2c5b42820d02c4","f22d4da16ee659702c28d151c32cfa2f":"f939f35f0f569f4c4cbc1b98cfb9419a","5843b812de3a0d1a0b394fa56d758ade":"f0c110ec2931c5fb8f6ebad6f5927b72"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/288/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Corse_Via_Stella" tvg-logo="" group-title="oqee",France 3 Corse Via Stella
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9559238f658231f317e4de16114b316d":"db5f47839001301b4a2d23141e523840","3ae28df1e0d791546047378c711ac9b5":"2aec272324ef0f94d6382b6cd87aa25e","c96a579c7dc259f3b499bd3e33e9961b":"2df454eeaed5d629f1afeaeac1280527","4d8014de35312f116b3c0ce86c4a7233":"049455c99331aaf035734bf1220f9987"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/289/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_C_te-d'Azur" tvg-logo="" group-title="oqee",France 3 C te-d'Azur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8854e6ee71fc781223c3eb88c706acd2":"4764a8a8d9bb97e87a710118d24b22e5","6e4c5eebbef5846c3a70002112f42cdf":"19e9f619ba93c632e823eb4a963030c7","8aa9e9eb8f1b05b1ce7de0e4e2c2f64b":"754e88be582279505955e62166c3b7f0","8fd9511883590271782e322f38e4d328":"47efc570a7b773626d6fb55b5b0d30b3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/290/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_HD" tvg-logo="" group-title="oqee",France 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1628f822df020b4c5b103364c9e4a670":"a3ab362053a9e136c9bc765bc8751061","f8ea146b6065da1d4876741d466ece83":"3c3067bb103a2e5d44007240e917f4fa","c1f5ef7f1c320e04c86b580cd41d42da":"0ac68a4f100f8fa7a250be7ca1abf474","2aa85e2c813a00eae3dc2fac23effb1b":"07d7e169a82f945389941112e630f1d8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/202/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Franche-Comt" tvg-logo="" group-title="oqee",France 3 Franche-Comt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d71e4f869d455f84aab58c6808d4784":"17e937fc07d538893fb386e5087f7c7a","67159a97728e93a625bc2822f77bf602":"60a18f4e634d498c60236f09baafde8a","4977415bab9be6e51125cdae8dc5e9da":"7162f716bd48c5960aa88fa19ba93e92","2f6a6c7bd5b4aa650fa9b3021d7b4538":"b1c3e90a0a8db6f118daa5754e12ddd4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/291/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Haute-Normandie" tvg-logo="" group-title="oqee",France 3 Haute-Normandie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7a88bcdefe631ab935f7015ffc5a88f5":"1875e8a22514350ed1ab0c8ed75893be","d892e3d90b9c4b94eaff66fd10b25b6e":"e6e7df2ca1785d77230f27be89cb37cc","bd608d1cf3f05ffa7121e9bb8de95d41":"2b1423260f464d1571132c6e94f8e847","7d75075cd66f009756c86e407ca6f497":"0a9daf747ec4576fa3517722039f5b84"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/297/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Languedoc-Roussillon" tvg-logo="" group-title="oqee",France 3 Languedoc-Roussillon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"96a9a6101711fcfd5128915f99429c39":"600d53fd1555d7a2e889b138645e0523","273633024607bf9fb398341e11601eb1":"8b944854fca6f6e0c4a372dcb5c2eff6","b850aade4c8210fc537d0b094532ca5b":"2e7fa5939f001bb93ae6d40c2bd26a96","57a707b5464a4fef108d186d6dedeec2":"20a8ab248e87e2e7a36ec740df0432d8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/292/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Limousin" tvg-logo="" group-title="oqee",France 3 Limousin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"557efe7795bc98d24111a8ec89d213e5":"3828b5c42cd6b24f43faa61da4f9ea0b","fd7d552d631164ced52965cb21e72129":"e6d30689cecbe0218133a84d8870c97a","b2613d48c5ed9ef57563edf7da54ad77":"4fe9d27f9baacde90bf2bb6afaade887","807731a22b0836fef4ba82a0fb1907d9":"493b026cc29914006d04c0141c8cc914"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/293/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Lorraine" tvg-logo="" group-title="oqee",France 3 Lorraine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5acf07fd59c472e947513c8882336ea":"a2e56b8170fc907a64939b8bd39b65bf","5260b26f6a663ba96b4705b5b64243c3":"6f075445f3144cd3075bfd1453cf812f","5d724e83cf96f4e9ec4ba4e956451014":"fa01debdfd006bc7d0a196053fd3e078","b3e6d04d8157bf0f83fbc041ca99c5ca":"fb88165592c70d76cfe364ed07c241b5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/294/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Midi_Pyr_n_es" tvg-logo="" group-title="oqee",France 3 Midi Pyr n es
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"30def7d2c94537d835a0591b48a60195":"dd1b56417163cf5751aa35272938a90e","c40ddb676b2ab34f1241f5def141558d":"cd60f19267b907dc6dc6fd68ed032571","5b4dc75e8bb9476db7d4ca0aa46b5b39":"31fa3eed8d86524b9277f9404e444673","cc4340468a5ed1ffbdaafcc2e69e653a":"15d47508b5520f8fb93e071c678f76c2"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/295/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Nord_Pas-de-Calais" tvg-logo="" group-title="oqee",France 3 Nord Pas-de-Calais
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"24c883ce732b3510ab0605db8fbed8db":"7b7279a70c0ab56571cfd605118fc128","2fa9d86c4cce8e69e0b67000d4e0c409":"39afdebbbcf848c80f22ba346af7f422","5cc27ad3007454b827539bf433fa74ec":"49240229c4a5d1b70064a3813680a78d","08f1918c04799b14727c07e531bb0141":"eb91232a1af4e2d0923045087c8774c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/296/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Paris_Ile-de-France" tvg-logo="" group-title="oqee",France 3 Paris Ile-de-France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3cfefd4a490bc11ccad8d2620c91b6c":"0fa0dd7f602d44abed7c9b7f25249459","c57e7f486de73e7ba25fa8f3e9e7861b":"9cd84cdc514e8a1c92e61be3f99d0bcd","7e0ca92a21ad381027da6fa0c0054004":"a64343dfcc014361f06d90dfc244ad7e","c89c516ef32c6804dc3f2980dda5f3e6":"e1260135b205633dc33527e011ac357e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/257/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Pays_de_Loire" tvg-logo="" group-title="oqee",France 3 Pays de Loire
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"26027ef9011168d717ccd70e1db6426f":"f451bdfa0f555c54f59c1a46886e639c","ad2fe7e79f32ef04075af324f9820890":"75e15370b847cf9a733e03aa5aab860b","a777ec7d45a3067238727b132d53b2fb":"1240d60449c572297acc22860f1af08c","8f0253faf54cbb161fda9f44b8e00724":"f51fca6ecb15e3927f4560510513130a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/299/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Picardie" tvg-logo="" group-title="oqee",France 3 Picardie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1aa98873a7239ee9eafcf56a1e52d923":"46465a96cdf319ebf3339e436debefe4","dd0f10d0d54bf79fb6dbdcc85e9e695b":"2915f40458742dd22695817208eaa8c0","5c529572d9f7432965a32ed63f29a673":"a1a961b8e315556a9a53335b81be67aa","c1a18c791d13b0b734835024479bd55f":"2c4d36ff1f0924dbcc239a75abc20cdd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/300/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Poitou-Charentes" tvg-logo="" group-title="oqee",France 3 Poitou-Charentes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ca376dd626cf2f57e687a3454d0f3d3":"6104481852f5c5a8921dee232e137741","61b3cde504fccf694ded05e1d8929220":"7529ec9627427a0120a1fabc8d7ef7c7","ccc212c797b3f154b3f2f4103239a981":"982a84dd7f408c60b0577961ad1ad129","d50f82e8d33aa1d891035f1e3a23def5":"7e0c61352215b5bc5748d9bcefcc48c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/301/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Provence-Alpes" tvg-logo="" group-title="oqee",France 3 Provence-Alpes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b1c14619558e905f1f4a17e667adca6d":"e792a2ae8ac098d040d55a37463cceec","972ec838d61061ad080bc53b50c70d26":"7f9b640b6fb06b21fdcd982b53d90144","29abb0f1efbb8fb08f0b910021a63e54":"9e638c061346a132f7a54fd0be9e41e4","b879081c678503d3f5a8bb63fe4cdcbd":"7d881c29459ca1e5a5791d7a62d9647a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/302/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_Rh_ne-Alpes" tvg-logo="" group-title="oqee",France 3 Rh ne-Alpes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"53e27a4d3221982e71ab3ad5366460b9":"1d32b64996b1406866cec3279a41b9e0","700942c7d85a5f7a492adf8584fcc6f7":"0261ebced8e255dee74c418a57cd3e8c","c03f4fe2055f7d678f6ff1ee255aef2f":"7dbb8b646ab0d31eeb43b8f2f35a8e53","37ebefd40fbaad33543544a8ca8ed7bc":"351c82d56e55870a3cafbbc12c45b22c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/303/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_4_HD" tvg-logo="" group-title="oqee",France 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a9bd6f04bd5c6ad6a9e5483fe8fe1987":"4ae5216ac00f30c9f85d29a7d7573e85","eef83e091c243ad9d6ac89c33d8094f3":"6f563004c14375b83e45672c0954791b","b29b9d80566e350573c702cd95457762":"6f38f9af7d40a1c3d380446a02c45c59","a776adc0ba6209c748b6820e2da2d751":"d5bf847504074aa58684459b656edfcf"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/376/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_5_HD" tvg-logo="" group-title="oqee",France 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fe1a3481d59c325cf871af58111d7310":"d75a24969b57bf353e673d583083d422","9b26b5259ed83f69953e94bf337983ca":"54debacc78b4062f478169f165730839","e1aee8b29fe8123a6dc97bae24ac247d":"31142243fc1a18e7c5baa0e9245c0c57","1d3ef3d57bb0db1f2ed9e64783a5fb33":"e4ab589b32a069cf545af1b6509839ce"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/203/1/live.mpd
+
+#EXTINF:-1 tvg-id="franceinfo_HD" tvg-logo="" group-title="oqee",franceinfo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6e80da4e2361765f51276360331d5d22":"f7c38becd99d6617fabfe631664f4532","b65800cb3fb3ccaf6d939578279198a0":"ffa003350becbcdc5331cb02f09dd0c2","ce4cec4333082aeaa6ba5c446e5670e1":"5835052b1d5fc4a39aaa4f202d307cf2","6db44ce1a6eeac77553c49bf31cf0a02":"02e73ed4735282869a21fef49e3e12aa"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1173/2/live.mpd
+
+#EXTINF:-1 tvg-id="Fuel_TV" tvg-logo="" group-title="oqee",Fuel TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"68ea01a1c0d3560891d4a66f60b342a4":"afc4f44bd5febbc64be7f6226973f4a5","46ea86adba6b6261d046d1b1a508643e":"eb5f1e6ce349f275345ef55394d0d755","ecb091f6cc2f498e3e8297536e336027":"d8ab427fb9905e3169ee9aacf91c175b","6406986f6c9f6447fcfa36524191b93f":"f3252eab176f1eedc5959e34c583d11b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1504/1/live.mpd
+
+#EXTINF:-1 tvg-id="Game_One" tvg-logo="" group-title="oqee",Game One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dd7385eb6524ff92ac1e4988a2a49290":"34d40f0b23a6fe8a8ad7303e690e9554","a8b6aed7225b6a2a3498e7bc28e2b57c":"ec40e55f9d06d2e088ce7ed2e82fd424","0cd998546e0438309ac5b2b59493f1e3":"4b2081d63904b714355ce4c5dd7f986a","22b58f31a400128ed7bee8b3bb25125c":"6d2ded7845df082c6ebbf665b32d057e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/220/1/live.mpd
+
+#EXTINF:-1 tvg-id="Game_One_+1" tvg-logo="" group-title="oqee",Game One +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2b2de9d2a84a2410d08021bc3778f8a8":"5cc9451b1ced4d3c641a2bfad0a01356","96edcfffd5bf1bc18a931ad6a696d58c":"a790673aa843326252c2634e76148543","459c55d11817a697b686777983d0311a":"4d95c964fbba47d55101a4a5a4dd803c","a7529a2a9a44c3c01f5fe01626788f65":"8c2cf4d0de62f9de1e072b29b151cd19"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/979/1/live.mpd
+
+#EXTINF:-1 tvg-id="GONG" tvg-logo="" group-title="oqee",GONG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e79961567ce1cbaa2767d8d75d5e0520":"799079e8dc2698e33fa4279afc6c0ddb","84b3258d8e7c5ac7f4274c7b84ccd3ba":"e9779eabfd970ff6c82a0fb30bccda3a","e6f17071c806c2dc9890ed3bc3173838":"305a1bae191b3aa404f02433420f7f29","20da120c0c2235d414d8bb79460be1ef":"8ebe2a5d9b6e53b481bbb95c1fc943fe"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1045/1/live.mpd
+
+#EXTINF:-1 tvg-id="Gulli_HD" tvg-logo="" group-title="oqee",Gulli HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"04aa4c8cd36450b1fec312960ce3a779":"1507a7ca7dfd7b3670f6efa17f05b8ae","70a1be8f17707c1a6c60bf0144afc587":"f99ea78b3f3ea5b442dea830ac7b8788","8cdfe7d5d4983234338664e76cde9967":"ee399ede5762ae2eca6b16cbe69683b1","158a4e475dbb3a4ac8d6192e7ced0825":"41ee43521cdde800a9099cd33938f986"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/677/1/live.mpd
+
+#EXTINF:-1 tvg-id="Histoire_TV" tvg-logo="" group-title="oqee",Histoire TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e4ca48563ec55a364b5c79e216b934d9":"ddc44b41ece80a3e44eb687b499fe1cc","c318f3e57c7ed32c750e7f4a5ca36b70":"8c218df43c3980a82609fbf973199c01","23bb8335290349de136df209f57892f1":"9120b148d9b682e388045e8279b31967","0925a6c794ec3207e966928588a31adb":"8d062fe1273107987487cde08d5e9124"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/235/1/live.mpd
+
+#EXTINF:-1 tvg-id="Horse_TV" tvg-logo="" group-title="oqee",Horse TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"692ee6b399325b5de822a6d2888f9bd8":"3d1f8efc8e3ffeba8ca60dbbb12e7e57","4fe819c5273124d380ee6a92f5842305":"1f3796f05f975b23a25577fa3f2e7df9","85c5368cbc48616390865ffe2552999d":"1aba38cd9d8990892fb2af91e0c3bec5","087110901b5727ceb414a0b735bc65d7":"61d1db2957516ba3d9d01d63cb74950d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1503/1/live.mpd
+
+#EXTINF:-1 tvg-id="Imearth" tvg-logo="" group-title="oqee",Imearth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9d05e350cb0662635ec72f218a80d08c":"a12ad11512cc23ff80616088a6d61cd0","ed8bc95cc75c091f7af2bfe3a0506735":"66544105d50ea92312df8eded341b198","9c21287eefb6d60f333d0db75bd280b9":"de9b24df07a620a89791a790ce232e0b","9286cc1fa06bc270fc454c4b9b0314c6":"87dde4236dc1f7b07da5c4d566b869c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1538/1/live.mpd
+
+#EXTINF:-1 tvg-id="InfoSport+" tvg-logo="" group-title="oqee",InfoSport+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d38cd09d2fb7374ce04893648b73d061":"797409841d9835db90af18752d7e9eb8","c3d6295fc302bf2f0cf9e572efcd4961":"935f600b2cda65b784f52891916a8356","82b592011987fc6fb31b74ed6461c4fa":"ae2d0a9e4191a0b88264e05110abb2cc","33e0075016690e3ccca064bee83ad8b0":"f862f5e6fd7b66ce488361a778c8d477"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1215/1/live.mpd
+
+#EXTINF:-1 tvg-id="Journal_du_Golf" tvg-logo="" group-title="oqee",Journal du Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f92f3e652200f918ad38a01cea117617":"ece68d7fbcfe3eea425db7239cb42577","659d1e06d7942fb5fdcb84f659c2c1b2":"375b28787d02255c03a4e05e56007cf7","538e3f9e76feb15a9c80f7daa19f18ed":"a7fbc81130fe69dd6d716acdd8ea3e1a","c2e33ea034a22a5b9b0994c82abeb3b4":"ce6d0fd7f6a141a4c4447a3950d96f8a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1569/1/live.mpd
+
+#EXTINF:-1 tvg-id="Kanal_24" tvg-logo="" group-title="oqee",Kanal 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"87614fad981332f1dd0cf755e0f5fed5":"29762b16b6f2303d5ab635bc000e2c85","531cdb9f956436c84230349c4af2e62d":"600b76068bef47056edcd2a68ffdd5a9","a99d2299befaa8a037be73496f918494":"806c22c5c7040bec2b7d9c406ea74c3c","cafb018b94067a0edb5818cd31c11eac":"1dd36d72f885d36cf2f782ef02e5f1d3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/435/1/live.mpd
+
+#EXTINF:-1 tvg-id="Kanal_D_Drama" tvg-logo="" group-title="oqee",Kanal D Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc623dd720453454f9d46a48b1113f83":"ce4e55c002996482d3611130eaf9e721","ee1a060627c734b906dbc20e95d8c0a3":"8b7f6ddf67758c7dd3380e61e482b67e","a8e0d25a70ea70d723ae24e0d7076dd9":"a60d625b40e3d74f373eb1b991c4cccb","91f178779e9b5645413f01642c8feddc":"3be6cf9ab87198a61c7a9284072f1a5a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1429/2/live.mpd
+
+#EXTINF:-1 tvg-id="Kanaldude" tvg-logo="" group-title="oqee",Kanaldude
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c63cfb5f02bf8e1111fd010355a85769":"c4a3fe7e3213362925a75a6b6e863caf","e648d8cbae4274e7edd40b40c21c8262":"23f1bc808729813b83cda9fed9347426","c4a7ce24eb04d55734b5476205b71def":"e7dd94c94fdc6fd4b7f5f05d976d9719","c2e09d06463e42ef34f1c85e48d6a383":"38882f163b773f759d3a4919344043db"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1618/1/live.mpd
+
+#EXTINF:-1 tvg-id="Kuwait_TV" tvg-logo="" group-title="oqee",Kuwait TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10a46ac37996d9e440169e06fd699218":"4051bfd7b036e2f44720f5296e7b383e","12b8b4b2ab89efa5a272fc4c20cd6d08":"753ad63f8ee0981490214304e31012f1","815a49bdd26cef3e6152d1e99ec8f771":"6971933636653cab4e44a1233b84d051","022305b11b390b3e32dd42be9d6e0660":"bddde60f6953835dcba91fed88c902a4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/717/1/live.mpd
+
+#EXTINF:-1 tvg-id="l'equipe_HD" tvg-logo="" group-title="oqee",l'equipe HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b964d1802740095667b2a10c2ab4ce65":"0b3eacc0239eb8d36f50612f630defed","5e00f72e03595e9e254dca1ace49a11f":"81e75585dcb9a8e6dfc3e70c5c4f6c5e","8a059b34cf2ba4410a3e6b03872db1b6":"1fa998a05c9b8bb097621136b4ddbe79","c87ff22243c99815813e65d4622a6464":"4002358425c130001dd27160d3ac2ab1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/994/1/live.mpd
+
+#EXTINF:-1 tvg-id="L'Esprit_Sorcier_TV" tvg-logo="" group-title="oqee",L'Esprit Sorcier TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f2e602f82860a5b98028abdeffbc5a95":"34ee498e968807c7eab0e703a5c807eb","60f34c97bcd8d21210db89be166832f3":"45a360975673e8a9d4a8ba04d354f908","60bbea7c50c1793c3a42cd56ab8face0":"84c26271857baeb5818f643ca6360b8a","fb9ca313e33326e033354ab79057ceef":"4d116066f4178a8e328b9bf63aae2f19"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1568/1/live.mpd
+
+#EXTINF:-1 tvg-id="La_cha_ne_32" tvg-logo="" group-title="oqee",La cha ne 32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e9b1fd0e8cf2a5a1cd1b5547d279b68":"e86b96c3fa5cbe06e02fe34ffc55897d","5d10380e68effffa5031d411c65b6a84":"a6db504cbcac89b37d8e8d4ff1ec130a","4def93480fafc3fd892f0f3187dd7cc1":"d184d9e17291344ecfaee9f8bd99d7c1","09b983e32ccb028f5b6bba61e288c8f6":"bc418b9be3f54ff0ef44d85d9e3316f3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1521/1/live.mpd
+
+#EXTINF:-1 tvg-id="La_Cha_ne_Parlementaire_HD" tvg-logo="" group-title="oqee",La Cha ne Parlementaire HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4df2c4888eabee404eca6bff4130cf9d":"7f324ddd079a745055460cb6ccfb38a6","213b5e381190f1945959e23f0023dcb8":"f6f0493c3f2f56343b1f675180210330","6684ecf317b0397582902a22322b0bc9":"f88f7a076001629d3e2eeebd05a01df4","f07f44b38839d9dd4929e076c4b11bf4":"8de5a4f0e792d7e0b4f087332b52ad30"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/226/2/live.mpd
+
+#EXTINF:-1 tvg-id="LCI_HD" tvg-logo="" group-title="oqee",LCI HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c63141927a7ec4de9d328605f694476":"9216da81aeeae5b3fea679b841ffe527","6b9fd76e0f7bd3a222cf2fd07b09679c":"a34849c2026ec5bc1618f12ade87791b","040a7f47ff8824f61d7fb44e88979d60":"0b99e1267aab92d6bd4005624c3423fa","fc2c058823172b17b1037491304514e2":"c0498940c062c07b82e263924f73205b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1145/1/live.mpd
+
+#EXTINF:-1 tvg-id="Le_M_dia_TV" tvg-logo="" group-title="oqee",Le M dia TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"839763e66c5af1f2f7e964a072dd76bc":"e89e168220491bfe132be5646e8e5968","027ed50675d97ed4852383ef83fcb7fd":"383dfc67f60c6d69a429bd6b929c339e","009488523135a1b2bd8a5dd0f88e843e":"325712a55788d748186e2a696fe79069","62d1607c9ae4ef30588af6f21f9424ce":"7362c61f8a116130e292483460d0c86b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1649/1/live.mpd
+
+#EXTINF:-1 tvg-id="LMTv_Sarthe" tvg-logo="" group-title="oqee",LMTv Sarthe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c88e2c54d975d0e93af7c225f6d97efe":"cf3d12d1c1b2cec2865ad4f541f2af9c","8e11eb82f873f1fa676c556b5c143e87":"6b8f7db5c449031cf4d48995f29bd3e2","1c1c6545560ef7ffb79817df0f7ccbe4":"e510ebd8be12c84ecc61cf149c3d3a29","463778d4557e8164e6d1c2260d7174e4":"01d34cfcabcc1be13e6b0c9c8958ed95"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1617/1/live.mpd
+
+#EXTINF:-1 tvg-id="Lucky_Jack" tvg-logo="" group-title="oqee",Lucky Jack
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"975862b5c716c9a8c9e4981ad89f0ed6":"ec76a516a7bcb8351174447c0f3adeef","a394458c524a4050b45a1cf3ae1729d7":"42dee89e3fbbcbe06757b4b7506fd99a","41470a5ace0cdbd7913509cbe19551cd":"b7c7ac2745a839e89f54230443c184ae","9ebdbde1fd856abaf23eb08c024d27c8":"97c5a712f633a545ef0768c0b8b22d78"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/891/1/live.mpd
+
+#EXTINF:-1 tvg-id="Luxe.TV" tvg-logo="" group-title="oqee",Luxe.TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"246717ec21aae113af99144426e24c66":"61bfd9358e223bc74876c85aeba60cbd","2118c7ab9093ae829698c36f0bb76318":"0aa2682d5724dc7fad716ba99a438387","3ca51228bc544b145e1edc0db4ea1c46":"2ad582cf80c3ecc42cae739d2a82945a","24a769f92833309a683c47d701e88458":"86076885f3710c83cbf1852a3af00d8d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/460/1/live.mpd
+
+#EXTINF:-1 tvg-id="M6_HD" tvg-logo="" group-title="oqee",M6 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2b48c4f4cde2b67e699eaad106f8db5c":"61ae55e2f371bd20057763ecdc9c3816","a5c54beb04e14b9245435089d7dffda6":"540cf2fd5568d40e45fb1815ad407e39","6f660cd5fe5263a2aadacc2836cdf087":"6ad386b4c75baf4606851c70deec457e","540c8dd968f1d118f7fb278ae9466a0f":"8b3838fd2a204b963b0ef632f4bd1f45"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/613/2/live.mpd
+
+#EXTINF:-1 tvg-id="M6_Music" tvg-logo="" group-title="oqee",M6 Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4322c4cc83f6e41fb2005f9be49d25c8":"a302c92ec281785b79040f91f1ac7d09","ed59040d6c5ab456d0b6d13160d7f019":"ffe66288c5a461d8be3e86d68e200a06","47119e91282ef98d9cc4a1a2cb7debeb":"94521d8e25d2826729c4a4079347fccd","8329bc0974ddf745f7bd61048e65fd52":"d9d7e6026e14c1ea700a1729aadd8a4d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/430/1/live.mpd
+
+#EXTINF:-1 tvg-id="Madras_FM_TV" tvg-logo="" group-title="oqee",Madras FM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"683f17513df530ad6bc58eb4608fe4e9":"dd1ef71b25c31b9d37a4210bb9956cf4","0f2ae59ec4b3b2836b987e5b03f8e8f5":"52e29f9c4cb85990e808fa5a6ca388d0","c4c667a2bfe8ce912448f89b16dc3082":"d0b4e4cc75d5dcbb4d783a6159ac1bbb","977136b377c2523da3a45c13fafdb287":"c628a7613bd11d94e157f88f297e7fd3"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1637/1/live.mpd
+
+#EXTINF:-1 tvg-id="Maison_&_Travaux" tvg-logo="" group-title="oqee",Maison & Travaux
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4550393a1e7bfe9e265c6f2928ba1147":"6810d5f2cf0ea22c811ccbec8e13ba4d","2cfcb239de383141561d2d351859fac0":"aec3e609c7faf7de1268749e58186a18","a0cbe44ba572bf254f44e846e61a27c0":"045b3c75752685cb8e6456d62b046964","7a00e99699c2a22262a9d0e6e066fc05":"a108f39e9e3a5431661f405304974a04"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1541/1/live.mpd
+
+#EXTINF:-1 tvg-id="Mandarin_TV" tvg-logo="" group-title="oqee",Mandarin TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7a3d60d30600793fb6907a25bd2d549f":"0fa1370d1e24e1b318272cc13e1efdd3","c0ef84f994013ce11515b59b92befc8d":"6ca757a669419f9dbe578803a6f255ef","64e2d26e85e3ab87f67aecfb7b186fdd":"c89c0c01bf508b964b43459025e3834b","68c651f1ffa58fccb331f266140c9ae7":"d4085fc74cf0b294a8a0b7c9bb309f6f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1131/1/live.mpd
+
+#EXTINF:-1 tvg-id="Mangas" tvg-logo="" group-title="oqee",Mangas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c8081878bba71d4553cc79c0581942a":"30084f6bc36c2ee9dbe44844a1bc32ff","da2ae2cf522045a7306e717da4f4c8b2":"6466c2638ad191ca9794aed8e4774305","c0cd7c2de32c5dbde1cbc4bbabd1fd7e":"dc2cf851316f689d9e5352d23f8a29d1","56cb41db86e19b9f5ec2f02553454b4b":"a460fda64b5f0e30539a12bdce2edf3b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/253/1/live.mpd
+
+#EXTINF:-1 tvg-id="Maurienne_TV" tvg-logo="" group-title="oqee",Maurienne TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"823db6f51e0c090c04d8a715520ff578":"c4d3a3e11ee88a260dc0c25b2e3ed042","5a50f3d118873f64017a57886258a03a":"abbe7efc7e3ff51dacf1052053828a95","67e0a3daf7764251f7411559e6fa81f9":"5ecc4693cecf89d3f79abfeff078d03d","6e4d4329e5e97f804766f35c3c88b84f":"72525be621483c5b1d17d2f11338197c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1463/1/live.mpd
+
+#EXTINF:-1 tvg-id="MCM" tvg-logo="" group-title="oqee",MCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"919202191e854434d4f22d0a714bb22f":"9be3657aa2ad2e647fdeebc404c67696","ab6be48123eda290fe38587168e51e7b":"2eda67867b7c06008095afcea2b69047","4a71d54e98d205f83127b0ed5c303f48":"3db651ac6ec33db2aba30cf94123c9fb","09182e10d1701c85274ae2c7b728d296":"c9351cc275dd6e8d1183987884b33788"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/621/1/live.mpd
+
+#EXTINF:-1 tvg-id="MGG_TV" tvg-logo="" group-title="oqee",MGG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ced9fd4c9671676e7395c79c08724f2":"58c08c6b3a9249181f4d6b2df3ee88d5","4e03a4911b4133b1356c27f082118b75":"2a55a7f716a39b89eb358b70cfb66d92","5c6bda979220943e0de610bb32c45c14":"d956a35a6227f2760ea396b792726443","692dc275c9228cf3a9f454a233e6629b":"7cb51ad2b223b55b3fce1d7f09984b41"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1309/1/live.mpd
+
+#EXTINF:-1 tvg-id="Mosaik_Cristal" tvg-logo="" group-title="oqee",Mosaik Cristal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bf152cc1eff4401119ac42ab6a1d471d":"82357fc067fb62f145b97f71cc048db3","b0a909eb557b0400c385cdf4066852bf":"1ddb390e274cb4b1a20447fdfd8ad3c2","6a111864868617b836bf441e1c12f000":"f0552d280e6d9a5379c76394312a0cae","1a5a04e547e946b99bb50011da0ca483":"1d1cfbb4998be6ca9cd08db7ab3682f1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1646/1/live.mpd
+
+#EXTINF:-1 tvg-id="Motorvision" tvg-logo="" group-title="oqee",Motorvision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"20ccc22172a7d6f4e27786735544ef8c":"b8a22e08b6d8dcdf6e7025602131702d","5b67b2e5e16fb52c9f27442766acda47":"7d5ddd6b4f5215fab606345cd51eb416","0d20cac544c0fcc01573c44909cf8ea4":"78f4969d0d15529c5d2af95559de37af","0c6884d38985c1f573f484e05293aad5":"e621f1d44f1383175d73032005100297"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1127/1/live.mpd
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="" group-title="oqee",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"59ab0b939325c964e718a99ade861217":"403556fff1f453c7e1c3c8a961c044d5","250c14bd7c9f662728a7dc0dbe8ceb45":"3af3c5c8bc5ef74aedefb8894214116a","9613df52f031d5d563a7d02e8aac8db8":"fd310d980bbe5ca25d62aaea178222d8","dd2cd18a1d09edc4e6f87628c2c6f616":"a2a24437c845b15aa164ba061516c72f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1206/1/live.mpd
+
+#EXTINF:-1 tvg-id="MTV_Hits" tvg-logo="" group-title="oqee",MTV Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"47222346b3dfd10613fc60a29cb41f79":"7a2024e6bbb582179263c613359e17b1","24719c5b7af4b12604ff3130e5208c20":"b1dc4675b72225db65a63e30138e70db","c694e3c83fd2756bc1e8e104b55633ae":"21b636a80d6be34b43800b5a9c9bbd68","624a5b59f4d325b316052079f616beb6":"9e38abb7d2c5f0cc730a574390073459"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1202/1/live.mpd
+
+#EXTINF:-1 tvg-id="Museum_TV" tvg-logo="" group-title="oqee",Museum TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"029d2b4b523af0cb665d7bedd463f82a":"d2b599e920203be9df18bc56d187cb77","a0fa74d83469459f6d592aa3e8c40e86":"3a954eb20729c105c9ae5a2d27718415","667b63cb8ade0cac9b81ae6cbe526c0b":"857a6485c90c095d02c64ae991a4152d","12ccdf5d3513ad8013b3f513384c36a1":"8d0a8bc1d88d29df3344937ad180e4f6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/906/1/live.mpd
+
+#EXTINF:-1 tvg-id="MyTV_Cara_bes" tvg-logo="" group-title="oqee",MyTV Cara bes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e5a307e6c807d2766f19e7efcc891a04":"746ff3e56f5e928b558355991867cf99","fc5cafe929c02765a30b6b64216dfcd3":"4598e266ce6c7bfeba6b8c65365d2f15","9f67e72e4e014965b5ce6925757cc8f8":"b388f8765aba95af8af38ba3ef9fb7aa","1a75ab0dbf86b8ee224aca4c07708614":"8051088994438fdfea8f804157f61387"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1612/1/live.mpd
+
+#EXTINF:-1 tvg-id="NA_TV" tvg-logo="" group-title="oqee",NA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5aff857f68c43191401abd1b4042be77":"fca64c3f054f07305fbdbd6defb788c9","82007656c754b76fdee44538ec5d9ec0":"ed8504ba44cc6af5e876f5e52bd75088","a387685e65cf057e8a57d237159a9660":"827a59cf02514a88ea5fe72ef0448c49","40237eb7a1f8d6b7ba2372b0ab1e8d0f":"eb60f5426e6f3ebe05fabcdfb2f39f30"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1567/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nat_Geo_Wild" tvg-logo="" group-title="oqee",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"579b41c31ad3dffeff8a83a60b1eda80":"54e5663c5996e22a2873dcd090c7adf8","5b6495634efb8e43c084dec0cb559372":"412418c914d037f2906e4e5d4c1bd717","db449575d2961069d42d5427f37b35af":"36d00f0c5a169bd7cc734707201987c7","a1e1acc97e0cd4009ba24c8bdc56597b":"48ac165be4ae446d50331d707d1b7e92"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1062/1/live.mpd
+
+#EXTINF:-1 tvg-id="National_Geographic" tvg-logo="" group-title="oqee",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9bc6aa0a08e049c88f3822d202a441b3":"dc3662dc8ed4d4b22c0ddad281f3e2ca","62498e10a3f0e09ddbece330f98c983c":"c2cf8d062111e9e3cea591d3b25ec1c9","3860d900c8894265e0ab6f9f83a7c6b7":"dc8c0113a0b429fda87e9cb45522fa4b","3b54500850d5a40491fa1a4e8550cb51":"b46ada4a246fe5bdfac7d54f0bcda197"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1061/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nautical_Channel" tvg-logo="" group-title="oqee",Nautical Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d4eedfee4b0e22c3a5d0371e5e23f1f":"27e7e541ac6db1a51cfbd0a1c617e6dc","d7d3540c77bba236f52c858a09378900":"107e40f7e39a1a78e2341a86d7764551","32f7bef76219009c416d7ec311bec228":"39883052e078eba032616e897b8a8736","af9c70fbd752e966912fb0b8e71f5d64":"46f1fbd726ba5a18313722945ed710c7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/255/1/live.mpd
+
+#EXTINF:-1 tvg-id="NHK_World-Japan" tvg-logo="" group-title="oqee",NHK World-Japan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"262eeb728bf4dc7e9e9d8c21c150f84d":"e6e53077ab528e4d9ca141799845c239","bb70c135b1ca4525245d64655aed679c":"820aeb725a986f38a8b81f6f9599979f","8fb7df6adb63335bd0095bda36a3b74f":"2333eceaaad861befdc306f63fd2758b","ddd6004cc9d3a6ecf930c098b1bc0955":"3706342663be677486ae1b1856cb0aea"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/812/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="oqee",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7fecc8fc29329f944dfe459b5732e2a7":"0926f39e9dd323952a4ddc3544430197","27882e405ebe416da859ca0fb45a864c":"157b87dadf68e13ad33567da3cf5598b","15133c38bfdb484274d3c61915af9f03":"d10ef6908eae5154aa91f512e85613c8","0ccfec2c2a21fd04e4ed15511534c197":"4e78316901000c62cab0a46b4b871aa6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1182/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon_+1" tvg-logo="" group-title="oqee",Nickelodeon +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1515c358de8fbe8b89e79e2d857a2bf4":"4698757f4f5e84701623233b2ffcf4ea","7bb6447ba850919609d6079d2b2135bb":"b17aacf5b38de9a57459f4ab8c252e79","a724adcc351b71927a4e27f1170c0af0":"0053ee6b1e0f40bc42a8a578b89fb0dc","80410a8078a894830c54309ab73e36be":"135712a55fbe9aa7667101cf29c04408"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1223/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon_Junior" tvg-logo="" group-title="oqee",Nickelodeon Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02c1015875b377ff431f821e6242c704":"d453aa166d5407eb0f24adb31e84fd9f","84f6fedae5873e96df7d52aa61e8c730":"b1948dcea2fbafe1cf2d280d03e65199","41ec04e06cc50d8b4c575a65fdb4f327":"7cf3f9acbcdd2c9e85f3e6074949ce66","02c220a10f089587314d0316c6c33b71":"0a61c84576e54acedb2497305a2702cb"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1180/1/live.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon_Teen" tvg-logo="" group-title="oqee",Nickelodeon Teen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"30136310fe668ffd18598ba7aec7b102":"b2616306ebd6af60f86a1a4ce9a6c509","03f6831a630976feb30aa885d881936f":"dd44f4fded85969c0777826e99881632","b85cefa80395ce883dd12b5882826128":"fa9a37d82a0dbfddd84994721f0267f7","b58ed0ea97e00bc9bf3ce98b6c459fb0":"fd9b2a058d3a8be7f05f400419abd68e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1214/1/live.mpd
+
+#EXTINF:-1 tvg-id="NoA" tvg-logo="" group-title="oqee",NoA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8219f9097a693b7411941bb3271d4498":"b557902e448f1904a8da5c8a6185fb1f","e6e8babe7461cf24d0efb24c8efa8b2f":"d856fe3c7348aecfaf158c55e300c4c1","a4492037d8a55c11d8a545bfb7b350ae":"376edc870ea2081ee1e975472f8c9d91","00ffa49930226fd9e412f6f103ee1cd2":"c3fe3b97f607c7a7c5ac0df6de4546d7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1315/1/live.mpd
+
+#EXTINF:-1 tvg-id="NRJ_12_HD" tvg-logo="" group-title="oqee",NRJ 12 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edd8206ec0c8ced2f334ca9fd84898c5":"1dae54c4b716cfb1865012fca6677485","5006dbb06655bc874bf9ce6dd6fed037":"b487bb808c9a0c8092284922f5d6529b","b9a70cf01687cb2e844065ab3d0b8343":"90ba1c1e5773b91917b5d28f4af4aabc","c7d1a9dd36b40afee2152b4c718013ff":"4b74c5dc6781a8c5df7f419d6127b0da"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/375/2/live.mpd
+
+#EXTINF:-1 tvg-id="NRJ_Hits" tvg-logo="" group-title="oqee",NRJ Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d5f640fcc5f22ab23ad975154554a47":"d0e99e97e2c285d15cf21fa00622d04b","9efb0582195af3eec9909f585cce6310":"e78e66326f41369ad4848831272e31fc","538c6366e5a6b7c18c6be042c3672a30":"fd8aaf61e3a926f3bcc5792cfebef6c1","45b1f04a2b1a2f56f75bc58491379961":"cbeb3b18957e6cbd44b9ab24cbc1f5a4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/620/1/live.mpd
+
+#EXTINF:-1 tvg-id="OCS_G_ants" tvg-logo="" group-title="oqee",OCS G ants
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"51ca788f345ded2a5fcb92649d1ea8ef":"9644768b353aa9a084a4861f140412b1","e7401424c7d59722c67a8268d2fbced9":"5d6e1b5d6f0b726dd9b8319c346b8252","8942a59aabefcbda612dacbd09cd3b9a":"aaf1ec5a2528a35790eec90a81d62f50","476b736c1f127255a20511d367dc6371":"78d11206f7d5c129be9b5c1c9b8404c2"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1081/1/live.mpd
+
+#EXTINF:-1 tvg-id="OCS_Max" tvg-logo="" group-title="oqee",OCS Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"de1331557aadea6880fbc00179fb2cfa":"2ae89e361e175d5baad93e8309e52310","c9ace66797e8cc49968f052b5b0178fc":"68e617987fc3b295afdf40d4900c8624","95c4be5d8f903df05cc70a962637d4b7":"74e44965ac54034d63983de6d03a12b1","03bc5697cd06499492235d8a92464574":"f8b3591d76f425b26e6fb5f6d5dc9254"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1078/1/live.mpd
+
+#EXTINF:-1 tvg-id="OCS_Pulp" tvg-logo="" group-title="oqee",OCS Pulp
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ed02f505762e3e74a5354d4dcb4ba1a":"7abe96fbb45603e1c30620720c2d3bd3","3a05825a81ec235ba5309d7f5fc64475":"e82f6b0ce971a524f3fcc93fdace3d9a","0bde72277259e75658928671e458c425":"c70b5bfec0cb07a7eed7f9c5abcab73e","c6583100edf53b4987e9565f7764fb50":"6f1092098dd675f5eef61cfb04d18b61"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1587/1/live.mpd
+
+#EXTINF:-1 tvg-id="Olympia_TV" tvg-logo="" group-title="oqee",Olympia TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1ae21e139688fbf78d5239852c2e773a":"7ca5ec28e78fe5040371e82a69d2244c","27daedfe0e9d82583f661c08a8eecee6":"19c4328bb3d9b831636602634e7a8091","0ccbd357875e344babfa742b56c99a13":"17f7959599f649c4be5673b901bb7e4b","57087bfafe6616ac2c087066f38ca9d3":"976c6248499cf5dcc038cd30dffe0521"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1388/1/live.mpd
+
+#EXTINF:-1 tvg-id="Paramount_Channel" tvg-logo="" group-title="oqee",Paramount Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e58cc0d4dd2395c434199724a4e65e62":"be62b624ab901bfcb787fdebbe1f182c","f73c361c4b18ece6a101136a56eaa1bd":"765a9dca0c7e3cb6c06616bb6f333614","94749a711e83d6feb63efedbb31704dc":"a333e414738559e351ee3b60c0b74c28","e68f17c1ec0a73fd6aecdd1d0adfda09":"9d3077e741f6d151baa1b3632ff9d02d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1050/1/live.mpd
+
+#EXTINF:-1 tvg-id="Paramount_D_cal" tvg-logo="" group-title="oqee",Paramount D cal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8c7b63ecadeaf092317ba3d90b08d4c7":"50e684f4e5df6377400490e0ae065ea4","2a4ef2bb9e83015227b3a10eaa8b0894":"e79b64da3a65635cf09b3ffdb2015f35","8c6bb41d6e42b416f8c0b3b61684db7d":"2ee220952093e527e953bba7d8bbfebd","d0844c736a581aaccaa2e7f28fe52a27":"eeed936401510223c8fd9c682f618569"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1167/1/live.mpd
+
+#EXTINF:-1 tvg-id="Paris_Premi_re_HD" tvg-logo="" group-title="oqee",Paris Premi re HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa7e452bb141e488482e830d203d87a2":"62f886d9a503d30189aef225d2dd9f79","1683c6be164cd622e74c035a1df2999a":"f72d88b3e631e41c0e04ecaefd9cd84c","0ed596eef6e3c43c97f3ae8e5ca8e3e0":"2d3b6d9c1c45e109a8ed0fb0796cb081","9046652373a29c0f7f2fa11b5f5da693":"8d01fd1d91a4ad46af45880129054b23"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/213/1/live.mpd
+
+#EXTINF:-1 tvg-id="Piwi_+" tvg-logo="" group-title="oqee",Piwi +
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dcd0b27f2730030817b88160b57cd88b":"aef9d7a394e38f201477d92b3b4d63f9","213bd77c7544dbf17d2c0444cf1a75e2":"9698f29361d6e16d443903f3a328e310","b996e597554cecb6db5d0ded3e163471":"547a0469d68bba8010f5d34454125ef1","eb1508e5f5233cd043ff832be1b50e46":"585608fa66420cdc9fde19f6a0204493"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/673/1/live.mpd
+
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="" group-title="oqee",Planete+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d216b1ce167b9b60c33e6e5bd8e170d5":"1c25a62e629b98af1a7a7afcb11cdea1","eb0fb970f287b46a1f709174b0994673":"b8295dca313d3f3e199de1523374548b","ee9ca65d36c58b6a1807f3548addd867":"f10e6988dbd217c392185ca58f200ed4","0578872664306a36614187e77b485a0d":"d7a850e87602dd6b3ea20315c58a87bc"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1177/1/live.mpd
+
+#EXTINF:-1 tvg-id="Plan_te+_Aventure" tvg-logo="" group-title="oqee",Plan te+ Aventure
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1d59c24b902e4382fc49103a73aa0896":"5401a61ec881199216f37f4034b36e16","aadcd882050ce50c44ba6838ab00e2bb":"a5a8d447786d0cb1d6824192d65b87d0","aa57b5d7352c17a938957e434503460c":"8e37d2c82ea37931247ab9dfa3145434","23dfb109e7c9e9837a1accc59d0956f3":"0fc2b695aa84908e28848fbfc4684704"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1189/1/live.mpd
+
+#EXTINF:-1 tvg-id="Plan_te+_Crime" tvg-logo="" group-title="oqee",Plan te+ Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f86fb39c6d63302d41c331b7095327d2":"4f886ada934b9216e58f6bbe934512c0","ae7edbc272f67240bf7c4c6f028b6451":"7788973cc5fb5d6b1453dcaf4c729144","d1009321ff74f9a0e201272a58f0feb0":"492f7d53a574c1437e98fc9744382b97","464432c4b8e73aa6e7addf7cd3fa508f":"a0ebe5bc013b2b582011c644f52c540c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1188/1/live.mpd
+
+#EXTINF:-1 tvg-id="Polar+" tvg-logo="" group-title="oqee",Polar+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"539e86e9bf3c09e73d155193f6214a8a":"9111d1751e9c2f240a8d2c6c71f5819b","f50114d3aa0a9dab171006ab05176b9d":"4262d1754c1a142aedc42144a4dca1f3","70047c40050ae25be7500761b7cdbbe2":"96e5159718d6d0913973d823bb8c6a55","e813fb785c3bf39800a725bfd186d9e1":"d4859bd51485a9435e3bbd5b01a6f14c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1298/1/live.mpd
+
+#EXTINF:-1 tvg-id="Powert_rk_TV" tvg-logo="" group-title="oqee",Powert rk TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"581236ce35a806f4b1e6373cd4c055f7":"18fa8e45104a58e311cd512e7cf1a489","f58a0ec2fb98b934db52853bd3dc03b7":"489b88b5fef54960cc3cbfda659e7360","520ee21414b5df4fba845ebfef22c95c":"f01ad0dbd417f9841e14f2d598932fcd","bc072339ea2a6b027913d50a2b050640":"d1c09cb0f86e828541ef2dffdf67b015"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/489/1/live.mpd
+
+#EXTINF:-1 tvg-id="Public_S_nat" tvg-logo="" group-title="oqee",Public S nat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dba8f0a192a4bf8b7012184f6044da2b":"05928a209a17c75e4af8c6781b2183d5","040cb533721752b188893d05bdd4416c":"b0916dc5fb4c927798438cc707e866c9","ee825eff25c5cb53a76804172db6b3ed":"1dcd13c3823c116111053f709e43c99e","bbee10fd9518444380f89f2b82718c56":"5ff3363a7f4f122f00bfa4c1dc4a285e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/692/1/live.mpd
+
+#EXTINF:-1 tvg-id="Puissance_T_l_vision" tvg-logo="" group-title="oqee",Puissance T l vision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2169f64fd83f4eb873700a02cf70fe78":"306507db1386ea8a338b3d60b747c227","e089c85af511dd0ce1d8553091b3cab9":"6677ccf8ac0f656085981ff6fafac4d4","8872dc6a38a7e21bb34851e69c1bb3ff":"b8902a0434414445aab46ee888b37032","0b850b5ba793d78a00f0c5a1fa79df6d":"09c74ff1279c17b327cc941fcf58d737"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1621/1/live.mpd
+
+#EXTINF:-1 tvg-id="RMC_D_couverte_HD" tvg-logo="" group-title="oqee",RMC D couverte HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b8fcdb7b3697d2cf52ebbaac38278ebc":"806d02afd2eb826088c28ef1a578ae9a","e9011408b547966213bf00ed44e0e930":"1bd815e86dbd19df076146edc6f49dce","83d22f63b5b40e25b5f8699b1a78d6bd":"9911829f81b5b70d6ef487f3492273b6","67d0e0fbb9453a5537aaf54c8729e2d9":"742c9ca893c17bd21d49de317439e108"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/997/2/live.mpd
+
+#EXTINF:-1 tvg-id="RMC_Story_HD" tvg-logo="" group-title="oqee",RMC Story HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bfb51688785ef76193b64578ffc91bd":"c623425bef2551b038a1a0bce71d7e25","f86936a57cd3c2d985147d04ba0249fb":"4855097689705afaee85e4de7ced5150","1de757c3348b0ff82ea6d9447d811894":"8a4cc5eb39fb25a5429c6ee743513648","1920018c3808e5d08e2e07a95d6789e6":"577d8ac5aa09dc894291b815fa44e37d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/996/1/live.mpd
+
+#EXTINF:-1 tvg-id="RTL9_HD" tvg-logo="" group-title="oqee",RTL9 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bee26a2eb60a064938680b1e278bae71":"e4cdfb1b1c58c251c2f79948f0e53628","6add27ebd399f0c988aaba8ce0094ed2":"9f71e82f7a2b44648dd90510508e5e18","83b3b8293fddf3c02134bd7fe91e68d4":"116789990cae636cbc78744d5d7c7308","3534d5ca8517afdd0a18b248a52aff67":"a65988312ee47c4fce560ee291a8fb05"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/210/2/live.mpd
+
+#EXTINF:-1 tvg-id="Sharjah_TV" tvg-logo="" group-title="oqee",Sharjah TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3aac1bd0d3fbf1c5f39f8555d30bfb94":"c5bdbd18ed696faaab56442e86c993b1","c489dd212f25aa00341b543c2536127a":"8b05b719491e12d23dc56fe25befe323","eff42b094d2ce7d0878927c01c61146d":"8603d3d2124d1b61146821d4d861faf5","e4ac887054d3635e72143ae865c2b9f3":"a709a5eacf196810844881054ce40e43"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1551/1/live.mpd
+
+#EXTINF:-1 tvg-id="SkyTurk" tvg-logo="" group-title="oqee",SkyTurk
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1da571be919378a732bd7ecf8603283a":"68302703396dfbb6efbe1d1551a87dd5","50eb372361f1fe8cd017d63f8ab17685":"12400ca83fe9f3d9cd3d9049b024dc45","c713d464341caaaef2da91a32418281b":"3c8f29e6febacac501aaa482eb1b4bd4","cb570e5a1740802214a63cf0d2973d2d":"67e003eb8ab0a36befe86b276cabd401"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/913/1/live.mpd
+
+#EXTINF:-1 tvg-id="Souvenirs_from_Earth" tvg-logo="" group-title="oqee",Souvenirs from Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3ab5548075510ab492ef08455cf30f1d":"1ce110f0395f33c8270acb590f179ab6","fc490d948d10a86149bc78c400f43440":"aeaf70dfbf53cef0ab70913d31bbf48f","bd92bbe1d4f3d6667effa1844dfacd64":"ac8819fe9274b086805d30e22ae5a70e","2cd730e7bf3118983f69c888c88602e1":"81b07cbe20f800eb94431f75ec0cc422"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/710/1/live.mpd
+
+#EXTINF:-1 tvg-id="Sport_en_France" tvg-logo="" group-title="oqee",Sport en France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6b18c1a80936e42bab36d3971081ab65":"183894a217809fa7bbf35f4d05a013a9","1bb8cfd1af2b11f05aaaa8eca3222de7":"d99bb954a03d91842d1ebbb0f9e1cb65","240babec95e681312270a33cbc5ef933":"8ecd639fb504ab7ed70edbc8ba44897d","579ee1708aee37d5bdd672af5c46079b":"d2e23a381a6c0295a2ea3b6f0d520688"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1370/1/live.mpd
+
+#EXTINF:-1 tvg-id="Sqool_TV" tvg-logo="" group-title="oqee",Sqool TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d4df4ffe966477bf6ab535efe369efeb":"597f73f876c009957239ae292370eb21","44c1af9f3353b14c333725efecca1ebc":"a92dcaaf861d116a8852f5f3c1d6cd28","634b73518877ee84a623fe09cb64158e":"e53f2ed290192ddcc1525a510e3f603a","f1bfb735c1dc0b4c820bb7ad43864f9c":"c4c68e48c5643f5729fc9ae80ddb1839"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1542/1/live.mpd
+
+#EXTINF:-1 tvg-id="SYFY_HD" tvg-logo="" group-title="oqee",SYFY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ba4c89a3faacecd6ea0a70a3b69a2c43":"1e0b1232e0b5b102f97b129b2499c5e9","30861eb790e145ea843fd46ad9fd148d":"5a00f949cf6ff1b51bbb718b4ea98194","bf620d906c9d5015e934f764a49f8199":"8c110f4602f0e719698cdfa18cfb2628","1b65250a337ea81533b0be384001bb23":"2ce2a901e9c950ec6eff7eb166c4ce87"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1656/2/live.mpd
+
+#EXTINF:-1 tvg-id="Serie_Club" tvg-logo="" group-title="oqee",Serie Club
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"16108aba8bbff49bf3cce1255757167b":"80dbdb69a4a0c0eadbf812c21bb27158","786c0374ef6bc48881918a1d14f40b02":"75ce017eccabaef5b92d7488fc11d954","f23ed484153b674d310fb8fcc68b3043":"da13719bcb7114e0e118d9ff176ee049","c2b33e8904362c3ef95e678f7b48c287":"62ea1dd8e6d2919746882d59812c6486"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1205/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tahiti_Nui" tvg-logo="" group-title="oqee",Tahiti Nui
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"19538a886aecc81d75f470716d2323d0":"f64183bf382bf92f479b348f648a3a1e","fb8504903e9dd379bddfe00ea2586b12":"30f8098b6e887bf5a11c362d69b317b2","197bbe39ee879a5b1bb7512d36af49d4":"cdf670be36b8576d13790ee33ee558a0","7bfe761f61d0d5df6e545d0a161ef749":"b513b668396bc053b6586640d8408ec0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1297/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tamazight_TV" tvg-logo="" group-title="oqee",Tamazight TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1774df185a6b798b8edf92786cadeb10":"7826cd113b67da97a5a5f00c37f6062a","a7bb97dfc66fccc1a3e2df48ef43cf24":"eb68b19036e3250b3bfcfcd59d35b5ab","972010cfd20be9d497696a3cd8dd251f":"57fc8abfc5e40b60e7ba013377ff5ada","d2a8f23776b454745ac90130f4bda963":"51ed32947d30161b9048249aedf818fd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1138/1/live.mpd
+
+#EXTINF:-1 tvg-id="TCM_Cin_ma" tvg-logo="" group-title="oqee",TCM Cin ma
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50e6fc9de5dc7842e55f96ce65c1d276":"6098e5f4c194dc9347aab2b7889ee0bb","1490ab316fd506208ee9ac42a800dd1d":"69d039cfc11227b77b0eb72cbdced86e","4677d590d30870113fd8d09a13927657":"3b0e8dbcfd03a548bc85585c6794de8b","da2ddc25e1eb7442f5e2f04887652e64":"2fad00bbb2e77b9b3004ff2fe15c255b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/684/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tech_&_Co" tvg-logo="" group-title="oqee",Tech & Co
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"36d099f0b5f71e7264c66a6c07a7282e":"ca2217658a4e1f82d34f0e68538b559a","c422867cccbc7f198f46aea92bd4f47f":"b65aa0874d0d19f4dbcb53ba2a2e8544","30b261bd841a2b33de37c427611a5dfd":"f054e91fbf6575afa4fe1a43890c60ae","a6c1d4596e4ea2187fc1775b2d6eaa2f":"b01c327081f5cc3da6ff35afaa9a1638"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1424/1/live.mpd
+
+#EXTINF:-1 tvg-id="Telekreol" tvg-logo="" group-title="oqee",Telekreol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"17ebfd8df218187e1cabff8a50fe612f":"d51a767619927823e93514f6342dd148","357857a3b8cede1c93339b7e7f0c6250":"26d2a24ac55d223a31a40f602cd31c1c","df309f76522449a5b41c17a88de37e6c":"034e346699a092fae49216cab56cc6ef","5ba19c08538862a7ea071d6def64b4b7":"9174bc8862bc3fb394eab0bb0338b804"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1120/1/live.mpd
+
+#EXTINF:-1 tvg-id="Telesud" tvg-logo="" group-title="oqee",Telesud
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a9434cfafed8bb103ce2af3ad95876d7":"6c5cad1091ffe3dbd145ad88d000d806","f7f3754d4c403c32fdeb67d2727894d2":"c9a1bcfb4c0a1c29972e2d9bad23c456","d7c35d124132182674972eefb1c1ea3d":"35cfd93d2a2ab8b3d64bcf00caec06b0","2559b6102b1b07740203a3af773d724c":"081fae1f324e8b936c55d3df68d66512"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1494/1/live.mpd
+
+#EXTINF:-1 tvg-id="TEVA" tvg-logo="" group-title="oqee",TEVA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ae29431e22f7fabcfd903c17adde3f3":"ad315baf1ad0d9724571f68d90aed612","9c1e8eab27007b314e4ffe0bb5d49c15":"67ce0e9220d970695522ac1f76b8aa2b","49f2016100a7a77ef1f4a58e651d747c":"32a71d3384d72fc6906db24742880536","fdacb170e155af1393fad9ae01c30f87":"ac1a8967548f703ae8499a2e01979667"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/404/1/live.mpd
+
+#EXTINF:-1 tvg-id="TF1_+1" tvg-logo="" group-title="oqee",TF1 +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ebef5832412b6d54cc4a2f8d962a6022":"45e5ce05076be53118a012d3527235ce","baab51456f540f5f3fd8dceeb1fe1e2b":"2460ab3e69f5181e7bbdfba05ed291e0","f73bf8b639e0504e615e2738520b22ff":"f0ecf329f68a1934d241063c1ff6b38b","b19abe466deb0b444cf975e5d6334d85":"ad00c92f587cf2940b90effca4823f41"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1316/1/live.mpd
+
+#EXTINF:-1 tvg-id="TF1_HD" tvg-logo="" group-title="oqee",TF1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57567ecfd45749b816d66dae6c053bf4":"bb13a70803b797655c32e5234e6c6b88","a1c7fd154142a069bbef9ccf201af71d":"48e8222824ab19e03f2577a4cd4c7fae","0543edd233101c1bfcf17eb4e121064c":"e7461d1dcb03cbf14c80c6191b2145ec","525b3d90c60643f4a5cdaabb783b1a24":"48fdc08fb4ded0018ff92ad9b005b176"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/612/2/live.mpd
+
+#EXTINF:-1 tvg-id="TF1_S_ries_Films_HD" tvg-logo="" group-title="oqee",TF1 S ries Films HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"467302905fb6bbc3d700e18a602c0bfd":"92ab6cf135943fb6a9415248d6702859","accc6cc855748d2477b572f8fcc43e81":"425a1816b55c3dd25b337e428cca9d88","c9b1fd8454017bbd785e8c9bf92e75d7":"2a5a8018b5acb5bb487a58b470a2ceba","c4006265334688bd555d561d49df57af":"8c5efc463e8afc30e6f442a52c9fb13b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/993/1/live.mpd
+
+#EXTINF:-1 tvg-id="TFX_HD" tvg-logo="" group-title="oqee",TFX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7b2aa6a07ba0c1aff9ec2ffc415e4b6a":"c807c04ed9d1ee0cc592dcd51f76e761","87a6f2a905eb19fc454ca5560467bb04":"050b2a63a4538db6ff6c198cc1862c48","67b1b4e696f7b0d6c6872c38a7d771d7":"1d00f3c7893c537148790c6e76092150","69b9eb6f80863b3de49f718f2a83c09b":"b42298641d20c8f429a6852ec6dd7083"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/374/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tiji" tvg-logo="" group-title="oqee",Tiji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11c819d00133ddc9b66583d47453250e":"9070ad2f2e8ef6a8089d99f1c806287e","b270696ae8cd82c8c892a6e10b745030":"89113a2ed534bf1aca087d1ee760bb6b","0a8de57d6e8f8dcd06a4e60eb0c3b41b":"c11c29638d255b91caa388be32fdf668","6f11f96880fa38ba4d2ba14a88e608c3":"2a53bdd3f9ada137d187cb8df8001c1b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1181/1/live.mpd
+
+#EXTINF:-1 tvg-id="TL7" tvg-logo="" group-title="oqee",TL7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"98ea5f96cf710624fd1e1b732ec94add":"6cfa96a25154cb773e2a97602d453809","9d42171b00b5c21fde7beedc4117b34d":"bf75a5a8da256e7cf83aedb86e1c7d23","3b03256564ad8432909ae080c69a3640":"c147826c7dca0be4056fa77bd8a723c1","1b43bb6c6c16849c8c348316781b5ef8":"cde156abf7b4873366af811847c7a0c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1108/1/live.mpd
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="" group-title="oqee",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f54859780c41a09dbcb4de556a339bc":"1a5a0d9e9b6705cb76f550129f835d50","a3bdf07618e06fd62963e0c082de16a8":"ae9092ac6b219b12138c59afba2280e5","fe76c493ea4474c216ce51065015120b":"46ac4af14bda002a5fbd374069a19ca2","18285b314ac96ab05f35c38ab82abba2":"9dca043461ced1ceb5253f62676f899d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1360/1/live.mpd
+
+#EXTINF:-1 tvg-id="TMC_+1" tvg-logo="" group-title="oqee",TMC +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5315c350204507ce2d1acd0cb34fba6":"d8444ffcc6cd5dab14611df95dfb17e8","134542f0f4494b796a1a23dc1c2c9125":"4bfcd7a142cd240606ee3c886c1a4fd3","80f741d8101aeba8632e4f2edc48e24e":"c586a473c4b8fee2819f81e1ba918018","2a9cb7909aa8ec8a32b078c5f786667c":"cddd80c2e70e2f47d0ed84dcf82c7179"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1317/1/live.mpd
+
+#EXTINF:-1 tvg-id="TMC_HD" tvg-logo="" group-title="oqee",TMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"37ef4023c7f7f3e6d56c08db3118fa6d":"c34fb6569c2f538e2e5cb51298a86c5e","ff2d6392c6da019f5df06f1f1620ac5c":"2c9bdb2e6b04596c9967c0732c21e35f","e4b93e4aa397e4222e2199e297b70e7d":"f344039f3b7a1fa43c230e9205739bd7","48c789ae1502440eea3023e19c63c4c7":"69c4fcbe177b94d30fd860fc63122782"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/497/1/live.mpd
+
+#EXTINF:-1 tvg-id="Toute_l'histoire" tvg-logo="" group-title="oqee",Toute l'histoire
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2c7740e47f287a2672ae773014033412":"ce61522918e017c994532e66ebf8bc09","450a3828b29ef8fe17b12941a61b3170":"3cb4bef9b5a0aefc8235d7c8cc3e9603","9d4e9fba9dce913a64a0ce4d5a24d03f":"389dcb01d2608c0447cf416a7c1b0c4c","7721fd258618869ba0a0319fe68d9b19":"ddebed80a6b2fc308a48a034c2873d7d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/250/1/live.mpd
+
+#EXTINF:-1 tvg-id="Trace_Urban" tvg-logo="" group-title="oqee",Trace Urban
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e5bca4855b65b603d9d403f75909501c":"820f8e709712fa382299061659f035cf","19094d9094eaf453df33e19ab053b908":"687451b023f7752f3b14d9b0877c73a7","23ef4435826d117247bd771fe301c2e8":"6a37c102dfeccfde37bfc5b34abff4e0","2703dfafa51e56487c001ae25ff1e182":"c884644f52302d0c0a972004044ae6c7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/228/1/live.mpd
+
+#EXTINF:-1 tvg-id="Trotters_TV" tvg-logo="" group-title="oqee",Trotters TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"38c01ea1f7e665f9179bd5f9eb55d782":"9142e39591a94beb6d79539c7ba7bec1","f6dab408ff0a8c2fab9a32934a81d2fb":"6568fe3fe1d9b8fab417bb4622862176","9cb009006d8ab54c21cf20de66f00671":"041fef0f74d5f4160e63e7f8556e4caf","eeb350704db339fb93c67b569079fbd6":"fc63f20fd8ce3610458bc534588db313"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1645/1/live.mpd
+
+#EXTINF:-1 tvg-id="TRT_World" tvg-logo="" group-title="oqee",TRT World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7e68931c9839d83303f4cc35d6444c25":"cd78f87a59adf9e24c2af2f724a24d02","3eb2d16535dd1ca680d11d296df57e42":"75cc3049c46f8e2af643e0d31c640c1d","25c8e6bb1773249b5cac1593fa9ee528":"c48e00b22eaec22113713002e14f6992","a3b8ed539baa5c92b503716d8b5e89e7":"57811581e070e19745f528ea3b8da29e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1233/1/live.mpd
+
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="" group-title="oqee",TRT1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"033307a147a4d35a99109a79b2aa3e8c":"a1e51fff110f8784491219998c447ab2","0936d915376efcd813ce40428601cc31":"c542de1c1fb7e64b48fe72e14b6b6dc4","e6042fe46ecd1b2a15c2771a25fbb7ba":"8939d00458e7883730cdd60ba0e391f2","e4f022a08508d006918dd90275feff34":"0eb4ccdf0d39c9e5a4a0b596ab5751a9"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Breizh_HD" tvg-logo="" group-title="oqee",TV Breizh HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2c5743fa30d6c3d33d3a6c3571dfe755":"4dd82878672b27c157c7abbdc68a8b98","980e50c0ce63791f64a75ed3dc7ed61b":"00e7951d2f3c308c7935bc4276483c3c","55c761f340c0cc1996b69383aadcfbfb":"648a546dce0fe889776ea1e6477ec47b","6a4c369364d6cf89ba6fb4c8ae501336":"9ccc2cb36deddb2648a8a4a6ac1382d7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1178/2/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Pitchoun+1" tvg-logo="" group-title="oqee",TV Pitchoun+1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e34be52ffde64f62d2a7421e795a7bc2":"fde5026f2fbfd30db5e248e60fd146fd","ebed607382d69f17fe0cc30124e04236":"c66e9cfe1b58b8cb10a75e0781bff059","f4e1750c040a35781080d1d13c5e6038":"dc294965c306a482733fba786a31dcfb","36f7cc666f516dd551a29ccf91911db8":"230e2e076aaf0abd122f6f9f688254d0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1576/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Tarn" tvg-logo="" group-title="oqee",TV Tarn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c3c3d6cdb1d1c4f91591f18d9bbab89":"8e5e2a8302180d2112e121f5290eb047","d0d6815759212c5c48440a86fff1a817":"b6cf9576e18b400ec90a55a1e609c73c","2afa62e445b3be2ed924448009d115b0":"887565142f6aa8c1d545177c1f0b6bbf","22fc57ccd6073ebafb7e6ce69e1f156c":"775ad7e26dedc645215fdcf9cea0f61c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1665/2/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Tours" tvg-logo="" group-title="oqee",TV Tours
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ea55ddda46cf55d42ef837af43469054":"bccc221d371436a930eee9a632f51f08","32e085843a1b6b439499ce5de04a236d":"c0a0e8cea65f1f901ece1760623a61b9","ec5dae8c55ddc3046d00b9e0529e66d7":"0f1b92cfca9cef62240f95ed64dd9795","c025927af891f56b03cdb4bfc6d07806":"54690c3678f84de6b18048890eb4170e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/493/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV5_Monde" tvg-logo="" group-title="oqee",TV5 Monde
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c10904eae8cc01dee32664dd21b82cbb":"28ac26a17b168971f30f802b45363524","64164cfe31e9b4bf69b5cb1d2ae77bb9":"8eddc5c1b31b9e6af445f2d3ec3ca22c","83e21dfa304b86c77bd2f2cd042f2f99":"8990b3385c0f23e8b5aa2dc38f882915","ffd7c5673b41714ad626f8a9e80c1685":"0f0c8d4dfeddcb9eb347c209c11df5b1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/206/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV78" tvg-logo="" group-title="oqee",TV78
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d8c11ee541f4028e06bbf0bbcff74223":"aa3532838601cb325a0fb5625e8ac54c","8af6d8e34fe5d11fafa5358b09e3b19f":"c9cb17a6439b593d672f4f12587871ae","0a1a30f1c43b70c82dd1ce288f61d916":"615c13418002c785647278983a189092","8cd58f5aef382b36b20816af51572384":"74ecad4d1870330f1adc037f1558d396"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/268/1/live.mpd
+
+#EXTINF:-1 tvg-id="TVMonaco" tvg-logo="" group-title="oqee",TVMonaco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e8a9be4439789bc1f14ff5e1aa52a1c2":"b64e2c5c4ffd42af429363927e295521","77c1ae2f4cabd30fcc5448235be291b2":"6b1dff5aad90169b7f4cd53bfb097638","6a96b7d55dba9956440c12fb14304440":"0ab59b9b3bbace449257ae04680856a6","8330850c2b01675a2ce79f207dede922":"46cb2c72e8b8e5c066990e5e8e28a6b1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1647/1/live.mpd
+
+#EXTINF:-1 tvg-id="TVPI" tvg-logo="" group-title="oqee",TVPI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"264e48be60d56c26dc7b9cf0d599220b":"dae1a7e1eaab10a842b76655bf3b7276","24cd1871b15eea29b1da743e3ab76a46":"d763d16ce1d23e642fc4089e2f9cf84b","a03f0772313d7eecdc39b17af3853581":"86e644e20c647d3c9cb876b4606f18c9","13eb0c6e7d3a595d2d7169dd6a5f1374":"8fb59f333f0f8f92c9e1a50cf2f77702"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1107/1/live.mpd
+
+#EXTINF:-1 tvg-id="TVR" tvg-logo="" group-title="oqee",TVR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"790098a3b56c7fd72f685d1cc294c288":"d392063a0a874658232af8bccf887a5b","b467e273f330a0c9af59368096582200":"2977e1cd14af3e2c3187967be6e693e5","e28b76a73b79271df3b50705d716187c":"d9e94d98266801feef796ebf8de7c20e","47a41e1b85df17441a58d637ad8eaddb":"978df7eba7f2a70fc8373658567dc015"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1063/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_b_o" tvg-logo="" group-title="oqee",T b o
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f2d06e87f7c48d2a5ae777b62bce10e9":"b9929b0bf9730b2d0dec8688523d27cd","c511316e1775ee3d029acac54b610b12":"3b9cdd8fc1fc878697c2630c3f0e1369","db3f4efe3e3e59aa9345ea10be6a02f8":"69da15b3d2b728cbbca4594d6b348dc0","f2a340638b9a8f4658b319a7dbc050e2":"f509894146b190b72c0478f148255e8c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1065/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_b_sud" tvg-logo="" group-title="oqee",T b sud
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d23cefcaf1be872f72497fc0481805f":"c7f37835619da484f24faaf5c8c29810","5f26f022cd284a1f3426d8585268b658":"2d4684f8f348cc7def1b2ee620c49d29","90546bce96299e5a5bb44a00ce5be476":"b2024f8788ef8bcb127fe290496673bd","581d1e7dc6654d62b85d9bbba5dcdb63":"f4ec88914fd2706f3ea59316b28b7174"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1064/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l_Grenoble" tvg-logo="" group-title="oqee",T l Grenoble
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dd54892db063995348475d834088f266":"4217b7ed84881c745ad3b9c1b869059f","9d6e9ee327ec07a0e0a8592310cec421":"44fbef7cb42cbae5b97b90fd8b46df25","ec1a92eb1a7e1cb9aa904b5d857c5f0d":"8eafa27991d2b159aa88bc793c49e139","a2efb4e692a263e093a5b427b230ae25":"b9d0713c9f2f1161492ec3e645e1d06f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/423/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l_toon" tvg-logo="" group-title="oqee",T l toon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"32e2f915e1b03b04ea806f68908dadd2":"10ab5bd699781ce41d63ce0c7c2b826a","ff10d027e663780c04ea9e53ea99fd1b":"42cb6fb79382c0afec6c12b94b5c640e","5d4f9bf66e1b02f5fa88129fe9883c4e":"ecf4ec9fbf4595bc941f6f60e48b20fe","29cdf33d59fffd521e86117111d143dd":"34f72e2c03af8bd5616448a03c42e99d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/672/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l_toon+1" tvg-logo="" group-title="oqee",T l toon+1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d0165a3952057d2f77a3d74364e7c79":"5c7f5335d90616ec4cb3d340b93fb90b","947fcd8c3a7874a0a7ec1862757523af":"36ea762e1153d20fa44d3a139d3a7cb1","e633f55426cc7391c177f218e0421651":"c1046a78f76361d70576d212649a6dd1","135937fb0d8d1bc6b9b1ce30c3736abc":"d9e777bed0838eb6121245dbbec1f45c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1183/1/live.mpd
+
+#EXTINF:-1 tvg-id="Ushua_a_TV" tvg-logo="" group-title="oqee",Ushua a TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1fff49abf1ebf9bc2dde22dd95f19288":"e0c2e3ba84ed246cec59c896bb955038","a05216d22e4e437acd63c9e8aae45fde":"9ab985bb542531737787c1ec001ed298","5fc222eaf24379ce2b72a453a2dd754f":"77969f028ef67af822e218fe359d8ccb","92d4e4cf081afd6d9d22396c2617219a":"22e2e14799e990a66791f599430187d4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1100/1/live.mpd
+
+#EXTINF:-1 tvg-id="Vibes_TV" tvg-logo="" group-title="oqee",Vibes TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e2cf8e3368a7106a2c19ba1fc1b3fd60":"2aa7cbced807f6bd5453eb1dc213a8b7","b6b965788a04a89ccaac26f40d8cb84f":"cc7230faed6f33892e2cfa3ab0e955e8","872f086a3e49a0dd0172864c0827cabf":"65e21022efe6586198bfe407935a7cea","fc61694258f9ba5b3425679f1b6db635":"02ea7b4b910e2c9012b4f37c0063f959"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1636/1/live.mpd
+
+#EXTINF:-1 tvg-id="vi_MATELE" tvg-logo="" group-title="oqee",vi MATELE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1cecb7083dbd747181ee80bd2e1c6b8b":"c4c11ef5872855615b953bc34a5e31f9","c6b52a2f48288604f9b803e3daf9ba4e":"a1be4be391a498b581d0cdba1a6533be","2f130fb15dd5db94135c37d61b2dc0a7":"e197e62c8d9fa22d968d9abce0fd30e4","8875d5a12615080b1aa834bba0a9fd28":"e8193606071d036cda7b84da9e99baee"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1165/1/live.mpd
+
+#EXTINF:-1 tvg-id="vi_Occitanie_Toulouse" tvg-logo="" group-title="oqee",vi Occitanie Toulouse
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a750e1f52e6ca33bf422ef496a6d59e6":"cc8be7203dd02f83a9827312bdd0f8d7","dfb79c465f4f3e4f00174695e65574bf":"1d586b38695e6bda53710084958f2a50","5d7aceac2c8958e019a6decfc06a48f1":"80fa0fdd6df783cce9fc9391422f7b61","680a6b3e85b1f8ebb5a60c2f63ccac69":"d5bb576f7973af1315abae47e67ad7eb"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1303/1/live.mpd
+
+#EXTINF:-1 tvg-id="W-Sport" tvg-logo="" group-title="oqee",W-Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"323e0f4f70c442cac2591f6dd3d480a3":"7768b42dedc08308216ed051689aa0ed","a9b32382b9a44d2b31b5504c8a15d0e8":"5651c5c5adda38b635b3c7c15b7db71a","c9b919d7872c567b2144fcfd4e9f7ca4":"327c7af67647f62a63a0211f0c1f362d","f86d9fb8e12d9997905374a1474da155":"60b61e601fc8cb1858f4be60b014c479"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1652/1/live.mpd
+
+#EXTINF:-1 tvg-id="W9_HD" tvg-logo="" group-title="oqee",W9 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f6365d586c709f7adea7ea0a3004df7":"5392b5b237bb15cfdbd4914076d73e68","393d73ea2255b1578b80201020795e1e":"349a8e7837f618c839c3cd9c46983925","9225539fd4925cb73dbf2f175e10b0d3":"cc881603b6ad6fdc113ce9dfa23626b8","e6bea9dd4f5f6cb2068dec135b28f38d":"23a377c5398bc69d0ae98790f6d505c0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/373/2/live.mpd
+
+#EXTINF:-1 tvg-id="Warner_TV" tvg-logo="" group-title="oqee",Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0d73e4302a0f93743e1d3ceeaf7f7030":"43fa54a65046ab6405abc5900053a045","8d0191242e841be7597c32dcec5707d5":"5f76f13008e96cfbd2c8dc1eed88be04","d591827c875d8ca8aa299aa105a3d431":"a9bf975579824b4050b92122b00f3ff1","1a86a19ad62747b16de282ddde62278d":"95f367984922f2f98ea358b7c0706830"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1614/1/live.mpd
+
+#EXTINF:-1 tvg-id="Warner_TV_Next" tvg-logo="" group-title="oqee",Warner TV Next
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fb89857350c50d58c4a20cd2e045db95":"834ca39f9aaf7dfa4c5054cdf8c28eb9","2f623d3e25a4c496ff88e5a57efd9307":"00718d11a8e1de7b7a77a49817e5fa41","54e1311fc66bc9eb54ac4e4da997a464":"14e9dac02d249f93e08514ea71c9357a","bfaa3315e25392cd99c7eb8eacbe94cf":"20b16a342521b101c0691bdc573a998d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1163/1/live.mpd
+
+#EXTINF:-1 tvg-id="Wataa" tvg-logo="" group-title="oqee",Wataa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ca224b7db6d82bf71001db0dac22161b":"1bf5edcc6f6e2e5ef95189a825a8a4c4","b8a57f9503347bc5100f5c8b2cf75041":"8ce9fc9ba8c0ff097d54f01ee11dd776","88c13c4b2fdcf2e8341dfe35331e7bc4":"9932f143d3b4d75c35e29bba5e6844c7","798263ef9f570b17eab3c5b52d132530":"45e8b0acb2a9617d2a1192e8601d98df"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1505/1/live.mpd
+
+#EXTINF:-1 tvg-id="W_o" tvg-logo="" group-title="oqee",W o
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f793b94bd61acfc23ef1c8d0930f2b6":"a3114e1bf96b836f83f6837ff7d5c29f","0f15813ffff0d0f26f31995e45dbd3e5":"8aed896bef629b1838db3f85088f1cef","fab079ec319f48d2f2c659b1fd0a7b9b":"0c8913f690530781434168ab9b48a0c9","17fbd97d9dca640511ef9f30d006b30b":"8bedf7319b9f058a810314ac63c2cd63"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/832/1/live.mpd
+
+#EXTINF:-1 tvg-id="W_o_Picardie" tvg-logo="" group-title="oqee",W o Picardie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40c336a1d452feb7e733918b4d0a60ed":"3681b9f654d4cbf5d622e5e18bf601ed","a103c386c8b8f24513386b9a2e93656d":"36258dfdddfe96b54f56d862379a567f","5d11f80b38046404eabaea875cdc2cce":"19638bf56bbb953c284199d021a53c33","29a2ced215bdfaebf1d16edc132e448b":"dc4980bbb294b327c38774e7bd620e61"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1362/1/live.mpd
+
+#EXTINF:-1 tvg-id="360_TuneBox_HD" tvg-logo="" group-title="oqee",360 TuneBox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dfe7be427521bfb74b164d1079d0214f":"91b0adc10a8410dcc06a1682605bf672","a30b02294205c4c0d1386b84c3c21b61":"29d89a5e9a3efb36fbcb1cab63f768cf"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1627/2/live.mpd
+
+#EXTINF:-1 tvg-id="Africa_24" tvg-logo="" group-title="oqee",Africa 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"63e66c1521a437954e1f06a959c54eaa":"0c38e5595fb6a6d7a0a6be2a78d3c607","e37bd4c1e5ec262fb2f0f328366b418a":"a41d613708de6eaabc0e6da68ccf4828"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/999/1/live.mpd
+
+#EXTINF:-1 tvg-id="Al_Jazeera" tvg-logo="" group-title="oqee",Al Jazeera
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bf17f2c5d95d6fdd193b0eb6ff358587":"9632d39ac3627557a59b37a08a0a67e8","944b7b80b95f56aa086215a0b832afe0":"fe58350a2bcfadcd54ad2c5234dbb363"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/276/1/live.mpd
+
+#EXTINF:-1 tvg-id="Al_Jazeera_International" tvg-logo="" group-title="oqee",Al Jazeera International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e78cf5c10b1644f05dead2d27864dece":"35acd93f083bbe74d65a9d756100c88c","087738b6a4ab9ec410cf456edc9b5e69":"e4687a6e55cff23e818321929caf3afb"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/494/1/live.mpd
+
+#EXTINF:-1 tvg-id="Al_Magharibia" tvg-logo="" group-title="oqee",Al Magharibia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f60d312cdc490249ebe41e09442603b3":"5de64b78ff6fa3489989e01f9de80d54","31111da44a75d8ff3e23cdbfb64d8117":"2bb39494c87a16827a016afa3676bd07"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1142/1/live.mpd
+
+#EXTINF:-1 tvg-id="Alg_rie_3" tvg-logo="" group-title="oqee",Alg rie 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b07e10005ffa6920b902624a5059adae":"2ad5feca0ccc6fdb558bedc889d2317d","2f8a0e25a0d9c52cf6e30869d99c9165":"1510cb3226e79d9083a4dc48bd9e8eef"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/943/1/live.mpd
+
+#EXTINF:-1 tvg-id="Alg_rie_5" tvg-logo="" group-title="oqee",Alg rie 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8f7affa514c3589035a23a931ed5cc14":"09ad6d2cfcc289615348a78350e5bd2d","1a0ae160361f369e7eb77c0ced581331":"06916e8f2df9cd034e0b293705331515"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/944/1/live.mpd
+
+#EXTINF:-1 tvg-id="Antenne_A" tvg-logo="" group-title="oqee",Antenne A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ff1199918eaceaa2877e7f76e2f94a26":"99638494b8b9aece08e35c194b789383","f939da814423e934e84d31d45d1ff91a":"7dbe15232574540a11a6444e135bc745"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1143/2/live.mpd
+
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="" group-title="oqee",Arirang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"068134b02c6df58050b390fcb6a142a3":"4083e51c52ae1531d737e913c69bea4d","379c4f4e3927ae1a61ea3e6bcc375173":"9f2b9a6a1d9f8e3c32f4e7f294e48a6b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/894/1/live.mpd
+
+#EXTINF:-1 tvg-id="Armenia_Public_TV" tvg-logo="" group-title="oqee",Armenia Public TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b94c4c13abb02cd52e31e40ec064f521":"cd0379efa2bb02d86a4ec72e06de9fcc","7cc6ab6f57e0b21419a2cbe0b359b408":"412390dc8a8aa15c8afed907dd637f6c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/380/1/live.mpd
+
+#EXTINF:-1 tvg-id="Astro_Center_TV" tvg-logo="" group-title="oqee",Astro Center TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"844906fd810c6a9104a6ff3bffc22eda":"bd297465deebca673cad02b2fd3771a2","e706134aa3223fef32320e78db22f9e4":"bfc217e4887534817e9e7a20dea07238"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/415/1/live.mpd
+
+#EXTINF:-1 tvg-id="B_TV" tvg-logo="" group-title="oqee",B TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ab245a8258fce3aa9e0d497960dc6037":"02cabc78fe7e3ed8bce367778a0c865f","e987560270f9489ca7c50933bb6dbfca":"7edab66b05d50189dbb6f82f1646f5e9"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1544/1/live.mpd
+
+#EXTINF:-1 tvg-id="B-One_TV" tvg-logo="" group-title="oqee",B-One TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2cfd89f17d3445966d6a237d479862e0":"9d438114e5f38110610ec1072abf2d88","6be92d23993f517784c1774b4c0e5a80":"a18444beee1b8f0e807199a47b4fd4bd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1085/1/live.mpd
+
+#EXTINF:-1 tvg-id="Baraem" tvg-logo="" group-title="oqee",Baraem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c01704b3a3c7752d4a5062f1e80e4d94":"2e59d19dbd8c441332feb665da9303ec","2eb0ba1f689a5334d55a4ce1461a13e1":"4c43a44f0db2477fc0d2bf23427604e6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/750/2/live.mpd
+
+#EXTINF:-1 tvg-id="Basma" tvg-logo="" group-title="oqee",Basma
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8183e954c1156005cfd85ac2ce75653d":"6b146286ec62c0a0eb9dad3c32bb9c28","0d93147554612e7678c4ebb916e4409d":"3536f62f0369bd813e832bb0e7e56f10"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1230/1/live.mpd
+
+#EXTINF:-1 tvg-id="BBC_News" tvg-logo="" group-title="oqee",BBC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bdfe703032556cb93c76baeb5cbaf576":"66dd75f3fad906ab0b9912b1a74a6dc3","3b696a57bbd183b429c9ca5af90951e7":"848c047c8bf75b2481db4763df92723b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/240/1/live.mpd
+
+#EXTINF:-1 tvg-id="Beur_TV" tvg-logo="" group-title="oqee",Beur TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4b92e70fa7b2f32c09fe8b511c4a901b":"32b5ce0d960191ded54dbbd1b31c9bcf","c3743f6aaba197b33e9d2db94c085a40":"4d72db29560dd2d498befa1be25f60fc"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/225/1/live.mpd
+
+#EXTINF:-1 tvg-id="Boomerang_+1" tvg-logo="" group-title="oqee",Boomerang +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3a39539a213fd0836c4a7a447867b9db":"1442fcab38c120581568757baabb8b5e","49bedf7b997a92eded35ccb1feb485d6":"44270662a8d88d522faa6332a0b6d420"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1077/1/live.mpd
+
+#EXTINF:-1 tvg-id="Canal_10_Guadeloupe" tvg-logo="" group-title="oqee",Canal 10 Guadeloupe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a35df9710ca643972365fe1fa5f65d5":"13955bec6f705df59e2abf90e1e49205","b756355be57e4c2cb2bcaec9b1cdfaa3":"ecd616d65492f6b4463d48ecfe23f0bf"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/929/2/live.mpd
+
+#EXTINF:-1 tvg-id="Canal_Alg_rie" tvg-logo="" group-title="oqee",Canal Alg rie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"445c07eda79bb4df8457e8c16de75565":"32aea9b1fc3b90859828b32214120349","0bcfc7a5a800f35499ad357202813eae":"c57b965aecc0a4171db4efe502a4eb0e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/274/1/live.mpd
+
+#EXTINF:-1 tvg-id="Canal_Atlas" tvg-logo="" group-title="oqee",Canal Atlas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ebac3520ff50ae5206b19d0af65b11a":"46da1164e768c9eaef01bf40e1d10e53","220227884bcd1300b5e6e7272979367c":"b3a62b485bc1352887da9f9d17a9051c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1139/1/live.mpd
+
+#EXTINF:-1 tvg-id="Cem_TV" tvg-logo="" group-title="oqee",Cem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f1995e36e41886ced9efa52a19b0621":"e34e6e1157b0f10ee108a46ebb7a219a","01be500159d2d2025eaa0dd75b08a0be":"d90347fb9c634da3bfb3dd97876802df"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1440/1/live.mpd
+
+#EXTINF:-1 tvg-id="CGTN_F" tvg-logo="" group-title="oqee",CGTN F
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eeb4f7ace686e12292beef3dfa516007":"081118372886a0b4361f56d34416cfae","0f98413ad3d64ce0c815f15e4d6b351c":"d2dc4eef767ad006cab1b18d8d490cdd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/480/1/live.mpd
+
+#EXTINF:-1 tvg-id="CGTN-Documentaire" tvg-logo="" group-title="oqee",CGTN-Documentaire
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8301ebbc207bf26b07d4a0c887fb2252":"e257b936422389b709b18d0bf8defdc9","ede93c4c7adc57bb59e9f58bd7189a43":"7c4977543b0e123a4c1cf4598e925d29"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/948/1/live.mpd
+
+#EXTINF:-1 tvg-id="CGTN-News" tvg-logo="" group-title="oqee",CGTN-News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c9a1a602028b2dc9a9f7ec211c6c4aae":"f6f764bcbe94ed708182e44a4cc391d9","bf9397e7df83f464fc0cdd26bd1b9bb0":"50b168ab3c15204767ea514bce5e85ba"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/479/1/live.mpd
+
+#EXTINF:-1 tvg-id="Club_MTV" tvg-logo="" group-title="oqee",Club MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"da922636fdef0ccd8dfe8f6029793273":"d4aaefb4927a1477a1f07589f93cd7cc","85455ad83d7d4dfb45bbb4be91ed0d64":"3e0ccb8652242a8eea3ea29402399ee1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1557/1/live.mpd
+
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="oqee",CNBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"56cd2f47e7fe0b5afee54e661c66b6c9":"bc0bde051960008f12bdb89f51f1f633","b0288199057c6ae54ef25be9069b5b71":"81d6759b84db7563ff30b7a7f8e1eef9"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/208/1/live.mpd
+
+#EXTINF:-1 tvg-id="CNN_International" tvg-logo="" group-title="oqee",CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"529ba2143b0082fa8afcd73b8be0b51d":"7d41bffe3fa874cd9716917779190ecb","21eab1a9b3739eed60d4e94e92e72e4d":"a5361b014aae625fb29b34f260d7f928"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/323/1/live.mpd
+
+#EXTINF:-1 tvg-id="Daystar" tvg-logo="" group-title="oqee",Daystar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ceb271bcff8148ecee54fc86cc07c0a":"73fd12b8c0e4e39bef4432c5a3b38945","3611f30d9ce5936a3382a394d290faff":"9e4b786ba10187cef52136d693372abf"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1141/1/live.mpd
+
+#EXTINF:-1 tvg-id="Demain.tv" tvg-logo="" group-title="oqee",Demain.tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"011351f5bdfe425f5dd822ddad991871":"0601340b9f5a5bb3601ea4d021243ae4","6ac734ccf99c24ce427101fd8799db21":"747ba697a36c758b36290467a86f14ca"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/227/1/live.mpd
+
+#EXTINF:-1 tvg-id="Drive_In_Movie_Channel" tvg-logo="" group-title="oqee",Drive In Movie Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b8e132c784e78de3a9e01c445d83cef":"fd18c66f6aca1a1fcf17602c7c7b25da","6514e5d602f6f3a6322cb566a0397515":"91ca65e836f15cc8d66655b715bdf2cc"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1295/1/live.mpd
+
+#EXTINF:-1 tvg-id="Dubai_TV" tvg-logo="" group-title="oqee",Dubai TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eb3153ab9612b3f696171cfea7d3aa35":"946cd4226fc75b3ec0d53fc5a84436c9","7717cff3150a21089de56148d3dc0e4d":"2881a2471211ee85aa9c4c6c3fd9a9de"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/748/1/live.mpd
+
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="" group-title="oqee",DW-TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"375093f20024c9fb4e01682958b252ed":"b83ca82ec630e4f37dd1e4317350970b","a1931ef1ef770c4c83e798e072ee40e1":"1f0d10a0cda2eae4fa3b256abac290ae"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/312/1/live.mpd
+
+#EXTINF:-1 tvg-id="Euromed_TV" tvg-logo="" group-title="oqee",Euromed TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7b8810fb770cae111eb1dd5ab22282b4":"781a524472f5a0f878748e60fe94f5e3","122f7b31893bc7236bad92a3fbc479ed":"1278fa05b55b40894a093d01107bfb6d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/838/1/live.mpd
+
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="" group-title="oqee",Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b52bd9e35e61145222e748bf936f0cd":"1d1f9fc67a3072af5ce4b6b13f0618d7","8a691d192a1dafca61bfd7114c9f04ce":"185f7c7fb804f2e60de2398b198cc05e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/205/1/live.mpd
+
+#EXTINF:-1 tvg-id="Fashion_TV" tvg-logo="" group-title="oqee",Fashion TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"829e3dbf3211df6fd569e4f63a2c7612":"64be3bc47f4323afde4e39c6a7fb1ca5","36008af8fb76034bc0c307f350d5c5a9":"17e55529d503db0eb994df4ed6650dc6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/221/1/live.mpd
+
+#EXTINF:-1 tvg-id="FastnFunBox_HD" tvg-logo="" group-title="oqee",FastnFunBox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a1a4180fe34174302942b168cccc91d4":"253dae920fc543863ed7f21505e9183a","e20776c566c1c64e3b1364ff237bd662":"d1743f9b0741a3f0222165ed48592afd"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1624/2/live.mpd
+
+#EXTINF:-1 tvg-id="Festival_4K" tvg-logo="" group-title="oqee",Festival 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"38f86474743dd215545c14ce6e2f14fd":"7eef12b053f3287748a032a1ed3b94a7","d6c7df7767e8de3e2efe67ffad90eb09":"4460c9af6718fa527c2434e315bede24"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1134/2/live.mpd
+
+#EXTINF:-1 tvg-id="FightBox_HD" tvg-logo="" group-title="oqee",FightBox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5770251ce2e35d152c0361d0bdf1f374":"801a3a0913dd6d734aaf77801a125f32","497f6a867b745189e03ce3e944a7a4aa":"fd4cbff21667db0b7f60fcbc22cbe394"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1625/2/live.mpd
+
+#EXTINF:-1 tvg-id="France_24" tvg-logo="" group-title="oqee",France 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1ddbfa63bc8fbdd50460cb271a7b09ef":"6ef92d8bb0fcd34af507f8cc3c7bc54a","080785b81b65d258ea8243f70b991324":"66e9c86fc5c7502d20f16c0edc139bde"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/739/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_24_Arab" tvg-logo="" group-title="oqee",France 24 Arab
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"03d0e91620e553eb4b092fce32e99358":"113c028a36dd47c121ff9cfcfad87b68","f04b58deaaec26734662e273304db472":"3c0269069ddfd33912d117a724ed983d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/741/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_24_English" tvg-logo="" group-title="oqee",France 24 English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3bd53a6eb103c9cff354c97d013dcfd":"1b56ab1f417c7e62a25d99fc86bf45da","0f1ecea0dca696d3dd14ae881289a733":"229fe1be947c909af79fde5209a204e7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/740/1/live.mpd
+
+#EXTINF:-1 tvg-id="France_3_NoA" tvg-logo="" group-title="oqee",France 3 NoA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00ffa49930226fd9e412f6f103ee1cd2":"c3fe3b97f607c7a7c5ac0df6de4546d7","e6e8babe7461cf24d0efb24c8efa8b2f":"d856fe3c7348aecfaf158c55e300c4c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1315/2/live.mpd
+
+#EXTINF:-1 tvg-id="Gametoon_HD" tvg-logo="" group-title="oqee",Gametoon HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fc3a1758b1422931a0d2f04820c475be":"eba8fad55e6579912d5bb3d61cd42556","3ecd608274fc46ee5059751a8e0bdcb5":"3cb1bc3fe14a495e681f7f1230050c80"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1623/2/live.mpd
+
+#EXTINF:-1 tvg-id="Haber_Turk" tvg-logo="" group-title="oqee",Haber Turk
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4cb78ee62297823710bf966ad3c7cd7c":"ece1f55fcc003600603cf73e6b5ff2d0","5230f48e32752247e56569180b1652a9":"785a22d8a43643fbe9d8fe84cc5a3d64"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1438/1/live.mpd
+
+#EXTINF:-1 tvg-id="HLive" tvg-logo="" group-title="oqee",HLive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a83a3e544121552c9070f8fd630eae6":"3f7d07cefc2fddc75a108334ddbfe6a1","edb5b8f9a159aed01832386476783258":"aedf3cb648a7044edd6324b742e0131f"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1126/1/live.mpd
+
+#EXTINF:-1 tvg-id="i24_News" tvg-logo="" group-title="oqee",i24 News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bcf9144da83aea06f4ec39886e7480da":"568c913792ff727caffdfe9699cdda87","e50992c5fca05015c0614730531e8044":"18fed3d5c69ca69211edb57157a07dd8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1048/1/live.mpd
+
+#EXTINF:-1 tvg-id="INULTRA_4K" tvg-logo="" group-title="oqee",INULTRA 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d59997611afd2fab15e3e8d6fec86b00":"277373339385ca7368c6c1ab4d51efe0","69aa57ecf4cad82e1a93cb06e62d74a1":"7f9a051b7db0774ebaf08af359153862"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1565/1/live.mpd
+
+#EXTINF:-1 tvg-id="J-One" tvg-logo="" group-title="oqee",J-One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"62931034fa92480765b7108c099e5f5b":"2e9341584b550187432f34deabb9c2b3","6048379436186daf4b802c45e6b3b55d":"f4d59c6bdccde19f9f751342e39f9ac2"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1209/1/live.mpd
+
+#EXTINF:-1 tvg-id="Jordan_Satellite_Channel" tvg-logo="" group-title="oqee",Jordan Satellite Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae43c6fa49d59e30e5d62cd7668bc1f9":"ca76bdede0bdb6d847669cfb27eeefcd","43957bd08d743a9b6301bd80c6cd2403":"069900ecfdb2d4097f733990ea206ab8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/718/1/live.mpd
+
+#EXTINF:-1 tvg-id="Kentron_TV" tvg-logo="" group-title="oqee",Kentron TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6e3d5f47d7f7bbdde1deed8c27e66552":"b6aab853a6254d232a304cc575e47cf9","0b5a6b1580a6f03d20e9a802a0d0c9cf":"8622f59f097baa0bbe8c97bee783324e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1159/1/live.mpd
+
+#EXTINF:-1 tvg-id="KTO" tvg-logo="" group-title="oqee",KTO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5cbca17d6431666d2dfa376fe94cbc47":"d140af2c1b1870cf9e4c6ae3a0b6c628","69d687db0dda5abc836f3070beba90d9":"5598a398978c86af1b91d7c06caf8d13"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/223/1/live.mpd
+
+#EXTINF:-1 tvg-id="La_cha_ne_M_t_o" tvg-logo="" group-title="oqee",La cha ne M t o
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa4800a1926a658b5258aa7d006c736e":"dc93b8f07c059c0cf1bc4f149a12ed08","f82a2ad8c9f6c8b9aa5061d97e05a387":"d5708ca4fc944f3438db4a687d466152"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1191/1/live.mpd
+
+#EXTINF:-1 tvg-id="LCP_-_Assembl_e_Nationale_24h-24_HD" tvg-logo="" group-title="oqee",LCP - Assembl e Nationale 24h-24 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"de7e4dfd27a8b3457c1a1bbef3de80ae":"bb145d2f43bc0b997b0859a4b4a59e6e","a15873ba974cc7437e5ae9f126cfd68c":"5e61424b33a7cd14e8fc45f7ead280c1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/688/1/live.mpd
+
+#EXTINF:-1 tvg-id="M24_News" tvg-logo="" group-title="oqee",M24 News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"35811c1c6d77093334dce071c0a0c621":"eb0b3d176a366c9646824ef893dc4463","8afae6f73f6121618f4475a2da5ed25d":"65f9b66b46dadfd8f3df9b70f69fe930"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1491/1/live.mpd
+
+#EXTINF:-1 tvg-id="M6_4K" tvg-logo="" group-title="oqee",M6 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b18ac06789510949f5fee55ee2274151":"d7b9d6dba05741b1070d8c19743020f9","6a14d4e9a2ec70d060b873622d0fe0a3":"4fe37af81e6be1edf17e2f5e00c67ae4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
+
+#EXTINF:-1 tvg-id="Maboke_TV" tvg-logo="" group-title="oqee",Maboke TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edcc7302f4e0e7bc2d5c211244db6f78":"b66dec9b9bdcb8bfeef29e9049528ac7","f0f6cbae6fb7502d263d42f6c8aed20e":"a52a030a47652fedeed06fe1e20d429a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1558/2/live.mpd
+
+#EXTINF:-1 tvg-id="Maritima_TV" tvg-logo="" group-title="oqee",Maritima TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"956977d6df1df821f554ecb9216cae62":"856f7bccf2608ee98c391dcc70d2a466","dc67e53a00d1d547bfb5d03bce995e7d":"655278e3d4e141cf9ccc862c472570f1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/951/1/live.mpd
+
+#EXTINF:-1 tvg-id="MCM_TOP" tvg-logo="" group-title="oqee",MCM TOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e1bb2766765ef06542abed1053ea6251":"279ef1a7cfbecafc9df4613b4461d30e","f817e571bd2bf1f16d74f860f947695a":"0c87165d12d6fb66d8030f60270a7079"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/622/1/live.mpd
+
+#EXTINF:-1 tvg-id="Medi1TV" tvg-logo="" group-title="oqee",Medi1TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3ccb983e0e7d0a81a5430e4b537c1c3":"78e5086bd5242067a0673e5593cd4d45","d6f035f72e33f1b8d086fbc2bac3083a":"5ad9e24ce14397c53a507a7ecb083ac4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/730/1/live.mpd
+
+#EXTINF:-1 tvg-id="Men's_Up_TV" tvg-logo="" group-title="oqee",Men's Up TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9d440df662f1c44f639d0ebbc19606f1":"dc9fcd03abb0af96d9ad6095be2ce837","e95c377462cb3a52ee4f4fffdaa68f74":"4e8a213fe85c6ed08a846ae0029cf937"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/878/1/live.mpd
+
+#EXTINF:-1 tvg-id="Moselle_TV" tvg-logo="" group-title="oqee",Moselle TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d4e1ff1998398f0ba44bb241adaa87a":"53998df9c9a6721cb42ff6ec5a6ea445","a5bfe5990e67c4c4b8825567f70931c8":"9f5a1e2b4e2694830e2869b20e79c701"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/907/1/live.mpd
+
+#EXTINF:-1 tvg-id="MTV_90s" tvg-logo="" group-title="oqee",MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bd342591d9538e09da7b2ae249b953f":"30c1c31d84c76e3c5fee15f3b9cee7ec","099673cd57032421ce5737827b636923":"0f9f9ec2b3add1bf9f69c70f2c9b82e8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1556/1/live.mpd
+
+#EXTINF:-1 tvg-id="Noursat" tvg-logo="" group-title="oqee",Noursat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11c503caa8ba3e29029f200dcefe73f6":"edf13490d5d63492b7e56a4dcb66769a","a8181b8b3d149425ebb011776b62a85a":"cb2b7b3685354eee0ed2bd760f4cf0c4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1069/1/live.mpd
+
+#EXTINF:-1 tvg-id="Novelas" tvg-logo="" group-title="oqee",Novelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34c7f2a6f666abb7483d507cfadedc40":"a34e72f76d92fc8c9e577be6462875c0","dffeb41dd0b87ad7d06735ef2f904b0e":"6858a7d98cd982a5852c9200cc2ca233"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1300/1/live.mpd
+
+#EXTINF:-1 tvg-id="NTD_Television" tvg-logo="" group-title="oqee",NTD Television
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4b8672191e7c9b34b239e15b81dc7af3":"c53a512fa24d96ac41e5d0a230a348dd","253c48f4bbadae44aef5a26432895b2d":"bdac0e404da0abb674dce268073fdcb2"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/912/1/live.mpd
+
+#EXTINF:-1 tvg-id="OLPLAY_HD" tvg-logo="" group-title="oqee",OLPLAY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"375686cf7f67a713b992fe0c0980862c":"0283879f69bbdc171af4c1cedcd710d9","8dd1d4b2c7da89b5ea7e6e19113e2316":"b524a3f8acfc32e1c76a898d92b091a7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1185/2/live.mpd
+
+#EXTINF:-1 tvg-id="Panorama_Cinema" tvg-logo="" group-title="oqee",Panorama Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"78d61026dbcd17dd0621248526fcef15":"79a567af486d304b5a8d752adbd18e94","0334432c3b10ad8ed1957feb659cec0b":"e5ffc9db50b3c90f32c87b6c914348df"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1168/1/live.mpd
+
+#EXTINF:-1 tvg-id="Panorama_Drama" tvg-logo="" group-title="oqee",Panorama Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"41b1bf0838806826b9f965dadacef6c5":"2bc3ac968c8613eb7380e2c42208341a","6071c9ed516c6cfe8828f07213645548":"043984d219e5217a5bc6a4e2dec15ab8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1169/1/live.mpd
+
+#EXTINF:-1 tvg-id="People_24" tvg-logo="" group-title="oqee",People 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b7ebe8693f2a9a297d985769774dbdd7":"7374d32c2e1fb9a7b315eb055e8ef7b5","4e149c7d86d73ea6ded61e5cfd564790":"9c867f42ddeed33bd6663c426e171da4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/981/1/live.mpd
+
+#EXTINF:-1 tvg-id="Rai_Due" tvg-logo="" group-title="oqee",Rai Due
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a781332cef695662d4317362a5f1362c":"8edf898077a26048116e464a4999d2dd","3e8f8589562df3ba2a6001ad36136bc9":"90dcaa3dfdca64596ae50a4f8f0d0f52"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/314/1/live.mpd
+
+#EXTINF:-1 tvg-id="Rai_Tre" tvg-logo="" group-title="oqee",Rai Tre
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"938457e954d7a3680e214856b4a1469c":"6091721b08c220c40ae9bc5a9ffabc02","7c5197068f9e590b5fe5197213c07f30":"ff4516a062384885031a3608cf34e6a0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/315/1/live.mpd
+
+#EXTINF:-1 tvg-id="Rai_Uno" tvg-logo="" group-title="oqee",Rai Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"982d6d9bc8658f9843988096cb829bd9":"72fa4f0936baa31eebf78b947f8194e2","0b6713faf72134ad44c4ef2a8ee35edd":"7cd5d84277d7e383643fe107e80def18"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/309/1/live.mpd
+
+#EXTINF:-1 tvg-id="RFM_TV" tvg-logo="" group-title="oqee",RFM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e85dff06a80e2d70c966dca2b15c35e5":"115b20540471b628f07443766ef5766f","4642766c634674271f6b66b297445caa":"14c831bdccd1ad3b9b6e251d2d8f0367"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/623/1/live.mpd
+
+#EXTINF:-1 tvg-id="RTPi" tvg-logo="" group-title="oqee",RTPi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5112947f86b8050b9ed0200ea5ae92d7":"fb433c3f840e4947815848dad5481b21","cd7eaf10cf99fd444be696a9f6b4a3a6":"87c480df0804f2fc4ccd438bb21269d6"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/388/1/live.mpd
+
+#EXTINF:-1 tvg-id="Sky_News_International" tvg-logo="" group-title="oqee",Sky News International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b9948751adaa5056131914eeedf4e3e":"25188c165ddf1c64836cada8382928b4","c6d520adacaf46ba842be69c42b9fb11":"579277abbf4dbe6ead9f6805d4158267"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/355/1/live.mpd
+
+#EXTINF:-1 tvg-id="Stingray_DJAZZ_HD" tvg-logo="" group-title="oqee",Stingray DJAZZ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"78036d95f8b9beded86685ad618b8bc5":"3fa2779f9c84320fa952e1b96331cd35","ccefe39192821fd57fc1033eae48776f":"be3b444153c3b3900d929776ca85ff33"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1140/2/live.mpd
+
+#EXTINF:-1 tvg-id="STINGRAY_FESTIVAL_UHD" tvg-logo="" group-title="oqee",STINGRAY FESTIVAL UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"38f86474743dd215545c14ce6e2f14fd":"7eef12b053f3287748a032a1ed3b94a7","d6c7df7767e8de3e2efe67ffad90eb09":"4460c9af6718fa527c2434e315bede24"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1134/1/live.mpd
+
+#EXTINF:-1 tvg-id="SUD1ere" tvg-logo="" group-title="oqee",SUD1ere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0580d1a1d5595e75b9fb190957526703":"03ea6fc0ace4598d30d69e3443875dbd","4975d35ec77922019029426b84fdee42":"6af7ca0776cddf11ee54cd044ffa8fb5"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1068/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tamazight_TV4" tvg-logo="" group-title="oqee",Tamazight TV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"188071b31c1aadfd6537de2bf95bc143":"a65a0dd1ea7c25cb70303efc5c21912e","ed96e8d7018a4183e90690852c3f11ee":"c11cfb22be797055e250cb7d58d3b918"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/945/1/live.mpd
+
+#EXTINF:-1 tvg-id="Tele_1" tvg-logo="" group-title="oqee",Tele 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7dd1aab8b93f56eed5819f867e8ea356":"ae31df1ad4de36540b9d462f534ab1e3","80fc4e7eb0c43e41f25500c47e8fff95":"b84f1d2cbd614d491f1d3da3fd11f475"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1441/1/live.mpd
+
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="" group-title="oqee",Telesur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e0abc5654a916be45f01f273569da9e3":"9699de69ec810de80aad1860bdcd6f86","c465efa9eb4fc47ad0c01dc10b95f786":"710732532e16c2022fa59ef9c710b61b"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/729/1/live.mpd
+
+#EXTINF:-1 tvg-id="TF1_4K" tvg-logo="" group-title="oqee",TF1 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02b07f6394293c409350cded71ce3654":"9e03072c3b243bbe9aba03fce2f5cfa4","65006bc6637e7a291061f45870a04e81":"0b50bfea6301df542eb9efcca75d5ec8"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/1/live.mpd
+
+#EXTINF:-1 tvg-id="TGCOM24_HD" tvg-logo="" group-title="oqee",TGCOM24 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1274e5fd25429de56a80d32ce94d75aa":"051d2ce9df4491da974c6c1db9be95d4","cfadb5b53174403b40fd3a0867e597e8":"a7dd819166240349ee8d1cce11eb9db1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1640/2/live.mpd
+
+#EXTINF:-1 tvg-id="Trace_Africa" tvg-logo="" group-title="oqee",Trace Africa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6e9613ff61a55e00ab6267709ea24ea":"d3f0280585c9f50e318c4a1bcf6cb796","6b23427507636031c8a1ea98d9e7aeaf":"41d27c63dd1c33f4e751cb1893fea20c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/963/2/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Romania" tvg-logo="" group-title="oqee",TV Romania
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3a2ea4b95b20c94e12999e48f7b00ed0":"561d648fd0b5a8cb18ff47569b7664cc","30bd495941516c77852720e1a803eb8a":"86624b3e3530e49fba5f52edd70aab70"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/318/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV_Vend_e" tvg-logo="" group-title="oqee",TV Vend e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8fdde4c946867ca2d62f700473f5a1b3":"1bf4e943a5867a92476e68cd30a6cb64","b1177897eb2f0e051edf65199c737c20":"43ed73956449d283854d309a9519cab1"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/964/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV5_Turkey" tvg-logo="" group-title="oqee",TV5 Turkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5899e1cabe068bd75aa5114a47a62443":"354922ca16011f5b496355f2267ec342","04f7e99289d597f7d1106073f70d2527":"33542efe8730d16d8435f3b615af4eda"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/447/1/live.mpd
+
+#EXTINF:-1 tvg-id="TV7_Bordeaux" tvg-logo="" group-title="oqee",TV7 Bordeaux
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5899e1cabe068bd75aa5114a47a62443":"354922ca16011f5b496355f2267ec342","04f7e99289d597f7d1106073f70d2527":"33542efe8730d16d8435f3b615af4eda"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/268/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l__Antilles" tvg-logo="" group-title="oqee",T l  Antilles
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0fb49e80a0fd8b9dd569e043cf8d651c":"2b72eb23b10b632ebd69a2f9f86e9c28","07c01f11ad517cd1655e211e93f483f8":"2d0c0d1a2c6e1e85b6cf77316aba50f7"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1084/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l__Bocal" tvg-logo="" group-title="oqee",T l  Bocal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"71adb810502dbdd328041318f2040e80":"b6ecb709bbddab0441d7da2a8d1e7c84","088a87cc09e7554e87a93d2247094892":"20b99733cea6384bde32288613f8b94e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1220/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l_nantes" tvg-logo="" group-title="oqee",T l nantes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f98deedc9d76d25095ccafc5b46950e5":"13ce865b79f49b25062a6b527d514d01","890fccd01a111b840e757548e88651cd":"cec8050fdf9028f11a7d6ed1cd30706c"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/389/1/live.mpd
+
+#EXTINF:-1 tvg-id="T_l_vision_Tunisienne" tvg-logo="" group-title="oqee",T l vision Tunisienne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d55b1ae93a3f7a4dfcced11fa306ca5f":"a5810c29a8485fad45d8c4550cfe5c72","166b01c929bba4539a58026c46cdf9da":"b4c25b4f612fc73d9628a402ccd0fb03"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/277/1/live.mpd
+
+#EXTINF:-1 tvg-id="Ulke" tvg-logo="" group-title="oqee",Ulke
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4e801cc363a168407957cc7137a29eab":"b21d8ebf3f4b8d2870ed7d2a0cff85f6","ee5118204c14d7ba21322fc76278bc42":"7ceb1898cdc5d4f787460b083f1d0120"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1439/1/live.mpd
+
+#EXTINF:-1 tvg-id="Ulusal_Kanal" tvg-logo="" group-title="oqee",Ulusal Kanal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ecce70f3e3396a98633d60922a8d881c":"b7f2facf9b8e7cf79f1238aded42ffcf","ed7b62565195ca0969679f922a541ee7":"e00d266f945888b3bd32cca4cac8ac56"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/914/1/live.mpd
+
+#EXTINF:-1 tvg-id="viaTelePaese" tvg-logo="" group-title="oqee",viaTelePaese
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8558b9ceb30875a33b5d6c50c761a943":"0859af31842d7b586e5f6fb87c472fe9","fbda55f641a70f6cde41ae09e4526d9a":"8ebcd0b8996dd49f892804fa83cda8f0"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1502/1/live.mpd
+
+#EXTINF:-1 tvg-id="vi_Occitanie_Montpellier" tvg-logo="" group-title="oqee",vi Occitanie Montpellier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2d8a374966f131aadfd90989740f63b4":"dd88a9b09447c66c000cf6f2441f9a94","531da951a8f5831151006656fa3e33c7":"85da5460e840fd52ce5c1b783b6bf80d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/930/1/live.mpd
+
+#EXTINF:-1 tvg-id="vi_Occitanie_Pays_Catalan" tvg-logo="" group-title="oqee",vi Occitanie Pays Catalan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f4ba4ec8d04b165f328bb9b3c039b99d":"f13690dd182938bd4f21f0fc133fe508","b6f13c1d23cca01c5ea17219e90eba5f":"af2e59a973d14d1157fe017a8e2e433d"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1235/1/live.mpd
+
+#EXTINF:-1 tvg-id="vi_Occitanie_Pays_Gardois" tvg-logo="" group-title="oqee",vi Occitanie Pays Gardois
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f0f3788f7366c88c6f59f76cf6c4cc0":"e07349aef5adf2b3c42b47225b981681","a90134d39f4b34944a22cfc0a8bcd126":"910048d6c9d56a4f9d16b53f6e1ba050"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/880/1/live.mpd
+
+#EXTINF:-1 tvg-id="Vosges_TV" tvg-logo="" group-title="oqee",Vosges TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2619ad56a9dee1f58fd2af08029c5730":"fc3f9e761cfeb5a9ff30d20425a2fa46","416affd5399bf71065abcb54de048824":"8028b07e8706a80bf071d74e4538e636"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/900/1/live.mpd
+
+#EXTINF:-1 tvg-id="Vox_Africa" tvg-logo="" group-title="oqee",Vox Africa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7afc0b5efe053b709c0b8893a6fadbe2":"007e90f7c5f249960ef23a199f5ddd36","69d4e128bb09235a8e6dcc64ca474dbf":"df280f6207be5d91ab3c610c22680648"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/773/1/live.mpd
+
+#EXTINF:-1 tvg-id="Arte_Allemand" tvg-logo="" group-title="oqee",Arte Allemand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5135340c108dc75228f6fec700e42682":"01d645b343ad8af415c4131921ade497","e2da95bb831be1f401a9fcf215aa04d6":"ec6d2bf82627fb470177ce6b1f89d08e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/270/1/live.mpd
+
+#EXTINF:-1 tvg-id="Bloomberg_TV" tvg-logo="" group-title="oqee",Bloomberg TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6102664007610a4d364aadfc75b7bfb9":"097e1cc229a945a897b5b7c2113f4661","e3de1e1567ccc7ffa2a4c27b964f2557":"1716b281c53dca3fe1581680caa53753"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/207/1/live.mpd
