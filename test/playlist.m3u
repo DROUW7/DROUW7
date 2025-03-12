@@ -1,1 +1,55 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/d9ba22AstroSportsPlus_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia" group-logo="https://sooka.my/assets/images/png/SOOKA_LOGO.png",Astro Sports Plus 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDQ1MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.oCOf0R_KmgqbzTuN7huGq-yqXPDxBEz43-kcWECoSOA"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e676c88f5cc74beebed5f6fb6406c23c":"7091db9a73ccea572d2b7b4461f0c8e5","28bfcc9774644bda822c17a35660164c":"620dba660d3e1f42acd6b077b4ca1dd8"}
+https://l16.dp.sooka.my/5171/linear/index.mpd
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/884ec1AstroArenaBola_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia",Astro Arena Bola 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDQ1MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.oCOf0R_KmgqbzTuN7huGq-yqXPDxBEz43-kcWECoSOA"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
+https://l01.dp.sooka.my/5099/linear/index.mpd
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/3dd40cAstroArenaBola2_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia",Astro Arena Bola 2 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDQ1MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.oCOf0R_KmgqbzTuN7huGq-yqXPDxBEz43-kcWECoSOA"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
+https://l02.dp.sooka.my/5100/linear/index.mpd
+
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c73dd1AstroGrandstand_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia",Astro Grandstand 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDU1MjgsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.SfkZgiVsJoP-OyJSblmrKc9kr2umsZslEu1TS9LTeEU"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035","66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71"}
+https://l03.dp.sooka.my/2701/linear/index.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9f7c88AstroPremierLeague_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia",Astro Premier League 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDU1MjgsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.SfkZgiVsJoP-OyJSblmrKc9kr2umsZslEu1TS9LTeEU"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
+https://l01.dp.sooka.my/601/linear/index.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e9a723AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg" group-title="SOOKA Malaysia",Astro Premier League 2 🇲🇾
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3NDU1MjgsImlzcyI6IlZSIiwiZXhwIjoxNzQxODE4NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGEzN2E5YmYtZTQ4NC00NWI2LWI0M2ItZWNlNzBlYzNkNmIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.SfkZgiVsJoP-OyJSblmrKc9kr2umsZslEu1TS9LTeEU"}
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
+https://l02.dp.sooka.my/2104/linear/index.mpd
