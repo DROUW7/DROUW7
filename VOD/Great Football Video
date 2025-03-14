@@ -1,5 +1,8 @@
 #EXTM3U billed-msg="Watch UEFA Champions League Highlights and More Great Football Video!"
 
+#EXTINF:-1 tvg-id="03/11/25" tvg-logo="https://img.nbc.com/files/nbc_pl_netbusters28v2_250311.jpg?impolicy=nbc_com&imwidth=480&imdensity=1" group-title="Premier League 2024/2025",Top Premier League highlights from Matchweek 28
+https://prodamdhdliveextra.akamaized.net/NBCU_Sports_Group_-_nbcsports/nbc_pl_netbusters28v2_250311/1/index.mpd?audio=all&subtitle=all&forcedNarrative=true
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01010cd255086abe79b6fe99ababed2e":"f6ecd06a08c3ec20706aecf8e5628f74","0102400ec8891988257b8f8542d1fe76":"7cd093829f47c89a8a49869bab4395cc","01059389d757572498708d5069917ce7":"00000000000000000000000000000000","0100da9769226df5db205610dfdc9d32":"96782747d4286d5f865a6b9d197a3f7e"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://play.max.com/
