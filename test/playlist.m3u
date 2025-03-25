@@ -1,1 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports Golazo Network" tvg-logo="https://sports.cbsimg.net/fly/images/channel-logos/light/44.svg", CBS Sports Golazo Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/2f8fe9fd-881d-469e-9c5d-3a54d98d1116:MRN2/master.m3u8
+
+#EXTINF:-1 group-title="UEFA Champions League Channel" tvg-id="UEFA Champions League Channel" tvg-logo="https://sports.cbsimg.net/fly/images/channel-logos/light/60.svg", UEFA Champions League Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/2faebf14-48e0-4f48-8e27-d6f4ae40282c:CBF2/master.m3u8
+
+#EXTINF:-1 group-title="New Stream" tvg-id="New Stream Channel" tvg-logo="https://sports.cbsimg.net/fly/images/channel-logos/light/60.svg", New Stream Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/c21b4639-1b45-4740-a7a0-5cf0a0f88178:TUL/master.m3u8
+
