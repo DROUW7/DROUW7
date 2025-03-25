@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports Golazo Network" tvg-logo="https://sports.cbsimg.net/fly/images/channel-logos/light/44.svg", CBS Sports Golazo Network
+#EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports Golazo Network" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports Golazo Network 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/2071f114-ead7-4a06-8933-20d952cbaea7:MRN2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/9000cb77-f0cb-4653-ab66-af9a174b343f:CHS/master.m3u8
 
-#EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel" tvg-logo="https://sports.cbsimg.net/fly/images/channel-logos/light/60.svg", UEFA Champions League Channel
+#EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/c057476f-7a37-4065-810a-e674790054da:TUL/master.m3u8
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/20a8c317-1fd1-4b7c-bf9f-5e222a87c4bd:MRN2/master.m3u8
 
-#EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports HQ" tvg-logo="https://shop.cbssports.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p%2Fcbs-sports-hq-logo-1737694157270.png&w=640&q=75", CBS Sports HQ
+#EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports HQ" tvg-logo="https://shop.cbssports.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p%2Fcbs-sports-hq-logo-1737694157270.png&w=640&q=75" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports HQ 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/b04f94f2-2965-473e-a45e-908ddc8b221c:CBF2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/5dc6292c-39bf-438b-a9c6-2dfd84a322ac:CBF2/master.m3u8
 
