@@ -1,5 +1,10 @@
 #EXTM3U billed-msg="Watch UEFA Champions League Highlights and More Great Football Video!"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1108b3bc036ead6c043e229c737a24b6":"3291aab0175140e43b70c38c6d7cb203"}
+#EXTINF:-1 tvg-logo="https://pixel.disco.nowtv.com/uuid/a474f085-86f7-42a6-bb93-1df40de2da2d/LAND_16_9/400?language=en-GB&proposition=NOWOTT&version=7d9312b5-20af-373a-833f-e6c41f95fb9e&image-format=webp&image-quality=7&image-format=webp" group-title="Premier League Highlights",Arsenal v Chelsea 🇬🇧
+https://b70f1f1eed99417dab77d6fef4195dcc.mediatailor.eu-central-1.amazonaws.com/v1/dash/992382804236/skynow-dash-vod-8s-hd-sdr-generic/pub/global/vod/zr7/BNp/bsky_skysportspost10/TITL0000000007093339/SKYNOW_986f9f5d-3440-48dc-85c0-9d410a7fc873_1/mpeg_cenc_sd_8s/vod_master_manifest_sd.mpd?c3.ri=13631690613640403041&aws.sessionId=c53b62c0-0ed3-4105-9936-a15db1530482
+
 #EXTINF:-1 tvg-id="03/11/25" tvg-logo="https://img.nbc.com/files/nbc_pl_netbusters28v2_250311.jpg?impolicy=nbc_com&imwidth=480&imdensity=1" group-title="Premier League 2024/2025",Top Premier League highlights from Matchweek 28
 https://prodamdhdliveextra.akamaized.net/NBCU_Sports_Group_-_nbcsports/nbc_pl_netbusters28v2_250311/1/index.mpd?audio=all&subtitle=all&forcedNarrative=true
 
