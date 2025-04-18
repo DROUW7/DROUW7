@@ -78,12 +78,12 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=aaa1a5884a794f81bb5a7344dd557b78:d57e4563407f9a3276b924d5a53790a7 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
-#EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="" group-title="sfr france",RMC Sport Access HD
+#EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100gris.png" group-title="sfr france",RMC Sport Access HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47ac6c129bee0533b28450a2d36":"6ab322b896fefbdd2849bf38c499e661"}
 http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_SFRSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
 
-#EXTINF:-1 tvg-id="RMC Sport 1 HD" tvg-logo="" group-title="sfr france",RMC Sport 1 HD
+#EXTINF:-1 tvg-id="RMC Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" group-title="sfr france",RMC Sport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47afbce29b4e0533b28450a72df":"ec7b42d680f395e98b70f0f41528d13e"}
 http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
