@@ -1,26 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel Live 1" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel Live 1 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/4OYVa5UPTPKCFR6A-8fbEg/stream/44efe8a7-01a3-4bf6-b889-9741842e0aaf:DLS/master.m3u8
-
-#EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel Live 2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel Live 2 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/rkPo4NjFSYWIxEL6gKspVg/stream/f5d69885-25e7-4713-9fc4-13d0794b67ff:TUL/master.m3u8
-
-#EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel Multicast" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel Multicast 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/NYBoeZ7gTqKw1601xQ1pjg/stream/ef316b36-81ee-4d59-8e1b-9f2c8ca4950b:DLS/master.m3u8
-
 #EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports Golazo Network" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports Golazo Network 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/b839df74-1a4c-40e6-8eec-0ebf0b0247a9:CBF2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/263889f2-ecb1-47b6-a94a-905c11abcab8:BRU/master.m3u8
 
 #EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/df80e9fe-3bba-4bbe-816f-831490e9c29b:CHS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/d81ae30d-470a-4bac-86b8-56d66401af87:GRQ/master.m3u8
 
 #EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports HQ" tvg-logo="https://shop.cbssports.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p%2Fcbs-sports-hq-logo-1737694157270.png&w=640&q=75" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports HQ 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/bfcb533b-fb45-40fe-8f48-f7033f87a938:DLS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/428cc8dd-4134-485a-91b0-47d271deb832:BRU/master.m3u8
 
