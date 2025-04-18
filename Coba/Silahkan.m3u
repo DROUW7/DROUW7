@@ -45,41 +45,35 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&
 #EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" tvg-chno="35" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/765d4d33f8b84d00b52cdec58ecb4194/version/1", DAZN 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=07f066f5393c460f86ac04f08a776837:1c40eed9a4ccd67ea0990750b58dcb64 
+#KODIPROP:inputstream.adaptive.license_key=d57ab33c1937452195b74827e3e2252c:7729457a7910693e01bedd49a27c2c83 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" tvg-chno="36" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1", DAZN 2 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=24f69e1477ce48358eadae8c8352e8cb:96dabbf56a4f1bf5324167e016a53051 
+#KODIPROP:inputstream.adaptive.license_key=b074b44743ee47749003fd070e3c4608:b5032f6defa8d5197454840d3f248a4e 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
 #EXTINF:-1 tvg-name="DAZN 3" tvg-id="DAZN 3" tvg-chno="37" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1", DAZN 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3c1c87c136cd4aa48887dc8f5ac824d2:fbde8cdd9f34e911a1468a6e697d2304 
+#KODIPROP:inputstream.adaptive.license_key=b717bc0fc446424289661af15f8a2669:b4cc570d4dd0c3d092e9b12a9cc87994 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
 #EXTINF:-1 tvg-name="DAZN 4" tvg-id="DAZN 4" tvg-chno="38" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/0795d50dd30a4896bb1010245aacc4b0/version/1", DAZN 4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c2c530af25b74932a067b3e3c3aed86a:5098b36ba50b144c309bfb31372c02c8 
+#KODIPROP:inputstream.adaptive.license_key=ce0f1dbd76ad4fbda05a9056720ab295:9199379887967b681c7b81dab6761442 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
 #EXTINF:-1 tvg-name="DAZN 5" tvg-id="DAZN 5" tvg-chno="39" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e55b4dbbc5a248fdaa613226e77791c1/version/1", DAZN 5 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9a1aae06bc36423dbb6b8a1388a39164:960c3e267730a869c70236de1d2bd3c7 
+#KODIPROP:inputstream.adaptive.license_key=c2a56f1ab5884801bebdf2d31e3535f2:f6c147aa48e879f8a68fae5f39cc553f 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
 #EXTINF:-1 tvg-name="DAZN  6" tvg-id="DAZN  6" tvg-chno="40" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/67e734ee68de4f2ba002c89d4bc0dc30/version/1", DAZN  6 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e7ff966460fc4cb98441a85a6cc53471:1eafde3e7d3bd7fe98fac545991a837a 
-http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"aaa1a5884a794f81bb5a7344dd557b78":"d57e4563407f9a3276b924d5a53790a7"} 
-#EXTINF:-1 group-title="Vodafone TV 🇵🇹",DAZN 6 🇵🇹 
+#KODIPROP:inputstream.adaptive.license_key=aaa1a5884a794f81bb5a7344dd557b78:d57e4563407f9a3276b924d5a53790a7 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
-
