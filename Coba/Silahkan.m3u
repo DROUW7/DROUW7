@@ -98,6 +98,132 @@ http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT2/index.mpd/Manifest.mpd?st
 #KODIPROP:inputstream.adaptive.license_key={"bae0abaa952a26cbe0533b28450a9878":"35a4f31b31084db95a17f722a671aa26"}
 http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
 
+#EXTINF:-1 tvg-id="RMC Sport 4 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 4 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bae0abaac3a03086e0533b28450afc5e":"9f2de3b0b19e3adf5153075e54e4c699"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 5 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 5 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbcb29b4e0533b28450a72df":"1e997d3ca17dafe659778369bffb69cf"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE5/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 6 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 6 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbca29b4e0533b28450a72df":"3b93e5243301b8ae6894150aaf170e9c"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE6/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 7 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 7 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc929b4e0533b28450a72df":"991b4807238d7d2d7a726b4e019dc968"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE7/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 8 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 8 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc829b4e0533b28450a72df":"84ee44b4db5d81bc0c1a84eaa33c00ce"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE8/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 9 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 9 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc729b4e0533b28450a72df":"82922f00901058b0d3d06d01cb55b67f"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE9/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 10 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 10 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc629b4e0533b28450a72df":"13e4e749d27fa540c7427df23387ba1b"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 11 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 11 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc529b4e0533b28450a72df":"60716b9af75972e30dfbad63764e2fed"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE11/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 12 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 12 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc429b4e0533b28450a72df":"5111d58c70b9371f18bec4cea82996b7"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE12/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 13 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 13 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc329b4e0533b28450a72df":"19f3cf33711f591cea80b01fa79c83a3"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE13/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 14 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 14 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc229b4e0533b28450a72df":"e85dff1819ac81edafa47ce9e426eacf"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE14/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 15 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 15 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc129b4e0533b28450a72df":"3d5eeabae4f28bf35330218dfcc52d79"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE15/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 16 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 16 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbc029b4e0533b28450a72df":"c08c1f01011c2461b33856a3ad4cabdd"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE16/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 17 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 17 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6b22817783794abfb5569d60a4d3a64d":"f535ba865adde999111e6d7acfb33ed9"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE17/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 1 HD" tvg-logo="" group-title="sfr france",Bein Sport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21b29d2e0533b28450a08e5":"f97a650149ca42faf3d37149736ed148"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="" group-title="sfr france",Bein Sport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="" group-title="sfr france",Bein Sport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38b29b8e0533b28450a5a69":"39c20726e6046a8daa0cac9769d4f9bb"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 4 HD" tvg-logo="" group-title="sfr france",Bein Sport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38c29b8e0533b28450a5a69":"3347388623ca6b30dde4168077922781"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 5 HD" tvg-logo="" group-title="sfr france",Bein Sport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38d29b8e0533b28450a5a69":"28184f668fef0b3732c9fed26861f112"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 6 HD" tvg-logo="" group-title="sfr france",Bein Sport 6 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38e29b8e0533b28450a5a69":"1792b02fba7e1bbe0da8cdb44103dc6e"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 7 HD" tvg-logo="" group-title="sfr france",Bein Sport 7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21829d2e0533b28450a08e5":"cd5f5d140671b3a9594972bd4dda4e90"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI6/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 8 HD" tvg-logo="" group-title="sfr france",Bein Sport 8 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21929d2e0533b28450a08e5":"a2c1cc608bb291a21b858e6159532c53"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI7/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 9 HD" tvg-logo="" group-title="sfr france",Bein Sport 9 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21a29d2e0533b28450a08e5":"27480235eb8415f3fc6f5b3d8be4fd2c"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI8/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 10 HD" tvg-logo="" group-title="sfr france",Bein Sport 10 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be479c4bf04d3e0533b28450a4097":"2ebb699d015d8e71e13d9acadaf7ed8f"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI5/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Equidia HD" tvg-logo="" group-title="sfr france",Equidia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47a9e8d29c8e0533b28450a1575":"3df71a886d5bab5984e30f2455865965"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$EQUIDIALIVE/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+
 #EXTINF:-1 tvg-id="MGM+_HITS_HD" tvg-logo="https://cdnimg.spectrum.net/imageserver/guide/67929?sourceType=colorHybrid&twccategory=deluxe&width=360" group-title="Spectrum | USA" group-logo="https://i.postimg.cc/qMD1WYHK/Spectrum.png",MGM+ HITS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9da5406e34895b19957b2d706bdb47c3":"999bc8dac480f82cbd67e85a5f862668"}
