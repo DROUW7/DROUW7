@@ -77,3 +77,28 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aaa1a5884a794f81bb5a7344dd557b78:d57e4563407f9a3276b924d5a53790a7 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="" group-title="sfr france",RMC Sport Access HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ac6c129bee0533b28450a2d36":"6ab322b896fefbdd2849bf38c499e661"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_SFRSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 1 HD" tvg-logo="" group-title="sfr france",RMC Sport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbce29b4e0533b28450a72df":"ec7b42d680f395e98b70f0f41528d13e"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 2 HD" tvg-logo="" group-title="sfr france",RMC Sport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47afbcd29b4e0533b28450a72df":"3f09c23d329e616e5be781381578b9d6"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="RMC Sport 3 Live HD" tvg-logo="" group-title="sfr france",RMC Sport 3 Live HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bae0abaa952a26cbe0533b28450a9878":"35a4f31b31084db95a17f722a671aa26"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$RMCSPORTLIVE3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="MGM+_HITS_HD" tvg-logo="https://cdnimg.spectrum.net/imageserver/guide/67929?sourceType=colorHybrid&twccategory=deluxe&width=360" group-title="Spectrum | USA" group-logo="https://i.postimg.cc/qMD1WYHK/Spectrum.png",MGM+ HITS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9da5406e34895b19957b2d706bdb47c3":"999bc8dac480f82cbd67e85a5f862668"}
+https://origin.stvacdn.spectrum.com/LIVE/5287/bpk-tv/10404/drm/manifest.mpd
