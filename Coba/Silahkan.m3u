@@ -10,21 +10,25 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$231/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=153402c420904fb4bbc05b6dd8cd678f:58510c5670cd65513a6059ff0c5653ba
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$586/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
 #EXTINF:-1 tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/766c21424bb1497e9431b7c21a450f60/version/0/width/120/height/75/quality/100" group-title="Vodafone TV 🇵🇹",BenficaTV Multicam 2
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6133481a63ee4da79515fe12adfa4690:55e5ef67912d05e8e092b4dbd0abccee
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$587/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
 #EXTINF:-1 tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3f6b1a94df264273ac66d1f3b3a1fe9d/version/0/width/120/height/75/quality/100" group-title="Vodafone TV 🇵🇹",BenficaTV Multicam 3
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=163336e70ef44b9cbf37322977d521e8:93c6f4bf549668bd8017dbbea74d9904
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$588/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
 #EXTINF:-1 tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/be438eaa5dd049928bb70e075a14eb0b/version/0/width/120/height/75/quality/100" group-title="Vodafone TV 🇵🇹",BenficaTV Multicam 4
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7c0bda7378d422796e6af8332f86fb3:6a1179f3f4aa09398f5f37d0a2c68402
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$589/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
 
 
