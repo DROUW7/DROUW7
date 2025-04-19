@@ -1,78 +1,84 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="Sport TV 1" tvg-chno="20" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e3a7169255414c35b01973e333e762e5/version/0", Sport TV 1 
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="Sport TV 1" tvg-chno="20" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e3a7169255414c35b01973e333e762e5/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aa3ca282c6564761acdab35b3819fbb7:08a7c1baa9772385d511e93642b7a09e 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 2" tvg-id="Sport TV 2" tvg-chno="21" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/886565c7d7714745880d938025a1610b/version/0", Sport TV 2 
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-id="Sport TV 2" tvg-chno="21" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/886565c7d7714745880d938025a1610b/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 2 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=77e1c1e20aa449bbb7dc9a908976d4b5:48c87efa254c210ae204430e0ce07b99 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="Sport TV 3" tvg-chno="22" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9966cfdee0a04619b2be74ecf4119e25/version/0", Sport TV 3 
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="Sport TV 3" tvg-chno="22" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9966cfdee0a04619b2be74ecf4119e25/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e3314302bfd043f69fd32d08c0218550:eb7278753bb7e551c9e2950c2b2033b9 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 4" tvg-id="Sport TV 4" tvg-chno="23" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a2aabacfc9a54ce3ad64acf33e161b14/version/0", Sport TV 4 
+#EXTINF:-1 tvg-name="Sport TV 4" tvg-id="Sport TV 4" tvg-chno="23" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a2aabacfc9a54ce3ad64acf33e161b14/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2e8e0a78f65746338c9c8fa22bf86345:9544ee9f2f92782c75eb4045f2f9acc6 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 5" tvg-id="Sport TV 5" tvg-chno="24" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/adfc9e4d07124034bcf3a440eb1e1179/version/0", Sport TV 5 
+#EXTINF:-1 tvg-name="Sport TV 5" tvg-id="Sport TV 5" tvg-chno="24" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/adfc9e4d07124034bcf3a440eb1e1179/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 5 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6eb5e0027bca47fda9ec70a1415ca4a0:7d2655ca5045c342ec0f68456ca765be 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 6" tvg-id="Sport TV 6" tvg-chno="25" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3ba84ea044f7493b9f4f82a7735aa1fb/version/0", Sport TV 6 
+#EXTINF:-1 tvg-name="Sport TV 6" tvg-id="Sport TV 6" tvg-chno="25" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3ba84ea044f7493b9f4f82a7735aa1fb/version/0" group-title="Vodafone TV 🇵🇹", Sport TV 6 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=363a69d3ad9c451a901a36e81703bc9d:e999886aa1134ca4f2fbd124c48a41eb 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="Sport TV 7" tvg-id="Sport TV 7" tvg-chno="26" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/11b05c45e5e54609b5a6515d6b0ffdb7/version/2", Sport TV 7 
+#EXTINF:-1 tvg-name="Sport TV 7" tvg-id="Sport TV 7" tvg-chno="26" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/11b05c45e5e54609b5a6515d6b0ffdb7/version/2" group-title="Vodafone TV 🇵🇹", Sport TV 7 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6e8055e8d375416298c9f8a5f30ec449:79f5f0472045d0436ca0f569576cd5a7 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
-#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" tvg-chno="35" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/765d4d33f8b84d00b52cdec58ecb4194/version/1", DAZN 1 
+#EXTINF:-1 tvg-logo="http://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/477cd7f5a7354324b6a9a27db865708f_20/version/0/width/120/height/75/quality/100" group-title="Vodafone TV 🇵🇹",Benfica TV
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5f8dfc1e4fb42979a72425efe9e1a93":"0db373e1039908124f6a3eb97ac14799"}
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$231/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" tvg-chno="35" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/765d4d33f8b84d00b52cdec58ecb4194/version/1" group-title="Vodafone TV 🇵🇹", DAZN 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=d57ab33c1937452195b74827e3e2252c:7729457a7910693e01bedd49a27c2c83 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" tvg-chno="36" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1", DAZN 2 
+#EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" tvg-chno="36" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1" group-title="Vodafone TV 🇵🇹", DAZN 2 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b074b44743ee47749003fd070e3c4608:b5032f6defa8d5197454840d3f248a4e 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="DAZN 3" tvg-id="DAZN 3" tvg-chno="37" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1", DAZN 3 
+#EXTINF:-1 tvg-name="DAZN 3" tvg-id="DAZN 3" tvg-chno="37" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1" group-title="Vodafone TV 🇵🇹", DAZN 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b717bc0fc446424289661af15f8a2669:b4cc570d4dd0c3d092e9b12a9cc87994 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="DAZN 4" tvg-id="DAZN 4" tvg-chno="38" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/0795d50dd30a4896bb1010245aacc4b0/version/1", DAZN 4 
+#EXTINF:-1 tvg-name="DAZN 4" tvg-id="DAZN 4" tvg-chno="38" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/0795d50dd30a4896bb1010245aacc4b0/version/1" group-title="Vodafone TV 🇵🇹", DAZN 4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ce0f1dbd76ad4fbda05a9056720ab295:9199379887967b681c7b81dab6761442 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="DAZN 5" tvg-id="DAZN 5" tvg-chno="39" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e55b4dbbc5a248fdaa613226e77791c1/version/1", DAZN 5 
+#EXTINF:-1 tvg-name="DAZN 5" tvg-id="DAZN 5" tvg-chno="39" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e55b4dbbc5a248fdaa613226e77791c1/version/1" group-title="Vodafone TV 🇵🇹", DAZN 5 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c2a56f1ab5884801bebdf2d31e3535f2:f6c147aa48e879f8a68fae5f39cc553f 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD 
  
-#EXTINF:-1 tvg-name="DAZN  6" tvg-id="DAZN  6" tvg-chno="40" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/67e734ee68de4f2ba002c89d4bc0dc30/version/1", DAZN  6 
+#EXTINF:-1 tvg-name="DAZN  6" tvg-id="DAZN  6" tvg-chno="40" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/67e734ee68de4f2ba002c89d4bc0dc30/version/1" group-title="Vodafone TV 🇵🇹", DAZN  6 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aaa1a5884a794f81bb5a7344dd557b78:d57e4563407f9a3276b924d5a53790a7 
