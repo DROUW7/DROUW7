@@ -104,6 +104,342 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=aaa1a5884a794f81bb5a7344dd557b78:d57e4563407f9a3276b924d5a53790a7 
 http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="RTP1" tvg-id="RTP1" tvg-chno="1" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a1bef425c634497b9341957d36e692c3_20/version/0" group-title="Vodafone TV", RTP1 FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a9202001d464c61b1205b5f5ba41265:3a50a80ce128555dbe1882b7549b25f1
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$110/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="RTP2" tvg-id="RTP2" tvg-chno="2" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f47f5f7d4acd493891cb1225d10024e2_20/version/0" group-title="Vodafone TV", RTP2 FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7f33de9000446d0a65ba6d14866166f:8680bd50a544bfc176591560e05d3f0d
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$172/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC" tvg-id="SIC" tvg-chno="3" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/807cd0cdbf314c44a0a5d9c852b2f835_20/version/0" group-title="Vodafone TV", SIC FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb3933f6961e4796a15ccd33cd4f84a1:6f3812b7a05b8e96b8d02ff2aac6bd8c
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$390/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="TVI" tvg-id="TVI" tvg-chno="4" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b9990b7191a247208b94e70be0d912b9/version/0" group-title="Vodafone TV", TVI FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ab0ffa9bf6c4bfaa9e1ffd5f5a9efb1:69de9b3817bd3d17bfd2f7407d2201b7
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$174/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC Notícias" tvg-id="SIC Notícias" tvg-chno="5" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ebfd641cd2f44b5782b72959938d17a0/version/0" group-title="Vodafone TV", SIC Notícias FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f06ef8376c7402ebeaf5758290b9380:15703d1001deda6ad8c409e12f81b4fb
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$413/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="RTP3" tvg-id="RTP3" tvg-chno="6" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/27ddeb5c47b14631ac8da6171c086e4f_20/version/0" group-title="Vodafone TV", RTP3 FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b53e147ab36942edad64afc0bb33f078:5c06a33b041c1bdad1472a8a28df0748
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$563/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN Portugal" tvg-chno="7" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6ac1e1d42b0f4376bac1657cd8074ffa/version/0" group-title="Vodafone TV", CNN Portugal FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c0b3363932d497bab57912d58aac156:d12540d986df89958bcd43ba68a0544b
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$542/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="CMTV" tvg-id="CMTV" tvg-chno="8" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9059345359844b3ca594134c8d81ffc0_20/version/0" group-title="Vodafone TV", CMTV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5ff14904cb48c089806a040974f5c4:34e51b88d8a0e64d9f3ceddfc3d6310d
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$498/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="News Now " tvg-id="News Now " tvg-chno="9" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a28f39e61a7c494aa155a24df8c483b1/version/0" group-title="Vodafone TV", News Now  FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb873848af44e5ea29404ef14fc9685:fb1cc122881d26ec675a2f3b14070101
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$596/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="TV Globo" tvg-id="TV Globo" tvg-chno="10" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f3715346f3e748c088eeacef18bef34b_20/version/0" group-title="Vodafone TV", TV Globo FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85bfb666e0741c58def65b7a964b6e3:b6edafa70a476bb8f4ed03fa9e3563e9
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$501/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Canal 11" tvg-id="Canal 11" tvg-chno="11" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3c6048c60dc042fd84e395b33d1f049e_20/version/0" group-title="Vodafone TV", Canal 11 FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54bb9ac2e34b4fedbc3e720adef099ad:78b638859af5da98c0a8433348da4e08
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$538/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="V+ TVI" tvg-id="V+ TVI" tvg-chno="12" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/bd6f1e6c4d60465d8bd8ac99bfd6a04e_20/version/2" group-title="Vodafone TV", V+ TVI FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a8eec036ab0443ba76558a53f75b833:a40113dc94a037a9e92aa196f0693af8
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$578/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Porto Canal" tvg-id="Porto Canal" tvg-chno="13" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/16cdb28b90cb46b1aee589be8a477eff_20/version/0" group-title="Vodafone TV", Porto Canal FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eba471194c8343cfaf135d775d3d2d20:95c5b5e5d212fd27d7436b720b25c5de
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$375/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC Caras" tvg-id="SIC Caras" tvg-chno="14" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/71c7fa677b894fecada52f4fdb1defb5_20/version/0" group-title="Vodafone TV", SIC Caras FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7005c59ee3c14dd9a0a002a0e2b76214:a9b7746df4b8763ac9d6bb7e598b3cd5
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$415/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC Radical" tvg-id="SIC Radical" tvg-chno="15" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/5a461799731d4344b277dcae381f0a89_20/version/0" group-title="Vodafone TV", SIC Radical FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d33754061b4a456e9a76cdbb70adf65a:2f094b2574e0e91cc8e563e668a8dbbb
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$392/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC Mulher" tvg-id="SIC Mulher" tvg-chno="16" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c23aa79c4be64a78be3ea5843c079529_20/version/0" group-title="Vodafone TV", SIC Mulher FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18453853f4e044d19f996a1fb2c998f2:9fe9b4917978d9b4279b75a0f0e20f9b
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$414/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="RTP Memória" tvg-id="RTP Memória" tvg-chno="17" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/79a94c670a9943d895f2eaca4e72780b_20/version/0" group-title="Vodafone TV", RTP Memória FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f1fd5ad410148c5a6a628960153f8f8:e4aa20ce24449b901a215a057cded15f
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Sport TV +" tvg-id="Sport TV +" tvg-chno="19" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a3dd495ded2d4e30a6edb51a5147572e/version/0" group-title="Vodafone TV", Sport TV + FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd661ae35814bd98c688741401e17fe:950232cffcc16465e61225caf8f62754
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$408/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport" tvg-chno="29" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9e5ca9dad53a4dc88a3e0eb367015327_20/version/0" group-title="Vodafone TV", Eurosport FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5253f9f714ba429fa8a2d7984f14ee51:07b3333630077cd14ce466bed92ced55
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$54/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-id="EuroSport 2" tvg-chno="30" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/13130dde270143ea90c7ad709cd33cda_20/version/0" group-title="Vodafone TV", EuroSport 2 FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93ddd2a5c487424abed32013ee89500f:860de2e4f4e49aaaa9fbded4b7a7d5c1
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$527/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="A Bola TV" tvg-id="A Bola TV" tvg-chno="31" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/81847fc044e84e7f8f3fc9b7a1cb7d01_20/version/1" group-title="Vodafone TV", A Bola TV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dfb09fd42114f6aa4e6efe5c478a1dc:098d4a99f7c911499a7b021079b88d31
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$536/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Sporting TV" tvg-id="Sporting TV" tvg-chno="34" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/868cdc88b86b4033a6be7fd2652bd05e_20/version/0" group-title="Vodafone TV", Sporting TV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22cf8b5e98bf4f1db7ae1fe22faeb166:f6dd8677a1a7b5585b68c6cbfa324d7a
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$487/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Fight Network" tvg-id="Fight Network" tvg-chno="44" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4dcc70dcdde34d708b9ec9b1a861c8ad_20/version/0" group-title="Vodafone TV", Fight Network FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c911fcc899eb4295bd284978c223db36:1650007f1b7a62c887cff41066bda944
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$374/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Fight Box" tvg-id="Fight Box" tvg-chno="45" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/48c6c330e3364d98aac9583ab6b7621d_20/version/0" group-title="Vodafone TV", Fight Box FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efa991508014bffabb3f186599029ca:cfb218bdbd1fa0f36165d5785c68c120
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$350/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Nautical Channel" tvg-id="Nautical Channel" tvg-chno="46" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3ecdccfb21a5429e8d44bf2f29e4dd34_20/version/0" group-title="Vodafone TV", Nautical Channel FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd70a7fac77f47d2872fda6500821bde:d9ec30093111fbfdb70af16de08e13f0
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$73/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Fuel TV" tvg-id="Fuel TV" tvg-chno="47" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/721d0d21b99c4b239ccb9b2daf54596c_20/version/0" group-title="Vodafone TV", Fuel TV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df0ff1035d6b4e5c85e1ef0c5b58920b:62aa0a9361b4c28611537fe7f1cb0edf
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$177/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="Disney Channel" tvg-chno="50" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2887957962b24db6beee92d0b470a54c_20/version/0" group-title="Vodafone TV", Disney Channel FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c53ed6af10f24306bd89bab0c57b4c87:88dce08d905460c25c5b96bb67ef3e87
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$48/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id="Disney Junior" tvg-chno="51" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a3b255ea7c1444a8b78fc7ff80987e1a/version/0" group-title="Vodafone TV", Disney Junior FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f17d38e9b64dd4b02dffcd4fd70044:843ed7d091f7f86ef4736ed4e0c9c70a
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$568/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Panda Kids" tvg-id="Panda Kids" tvg-chno="52" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/5d8aecb1aeb949149f96cc6566b5aae5_20/version/0" group-title="Vodafone TV", Panda Kids FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e29d7988252d4a07b1221cc638ffcea5:c5b6aef56e08bcf26d26fee96b097f95
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$564/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network" tvg-chno="53" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/d9c0fb53f7c9439ba44ac198fd5b52e9_20/version/0" group-title="Vodafone TV", Cartoon Network FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8752c15955794302bb85afeb98a2a6df:d162b125191e004acbc17340f1b1a036
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$570/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Panda" tvg-id="Panda" tvg-chno="54" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/0477d3a4f4d64c84af016c04d492ede4_20/version/0" group-title="Vodafone TV", Panda FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a2e66031fd941acab1b4f3ef8418bde:ca3015336f46d928050484e16be1133a
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$562/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="BabyTV" tvg-id="BabyTV" tvg-chno="56" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b74cf152069e418fb3fcb9784917e32d/version/0" group-title="Vodafone TV", BabyTV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93732eeb38b945a5946cf73a23a6e751:abe11eb5fa2e9b32dedb6e455435d1cf
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$607/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC K" tvg-id="SIC K" tvg-chno="57" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e45f250d72334fbdb3dbe1d91c4bc751_20/version/0" group-title="Vodafone TV", SIC K FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12710f4fb8684caaa8349acc79f9ef43:b26f7367bb38ac929066e23fb711dc83
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$416/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito" tvg-chno="58" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c126e095cf744295b785e76e57893cf5_20/version/2" group-title="Vodafone TV", Cartoonito FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12d09977193549b6b5fbac361852574f:5409168191efb8e9c14ea680b501ea22
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$569/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-chno="60" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4fe25a92506e4107a019b2c730886b27/version/0" group-title="Vodafone TV", Nickelodeon FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c2f524ee4d842a7bd019f907d2d21b5:41fe26d5cd6935dc608cd46bdee08667
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$594/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Super RTL" tvg-id="Super RTL" tvg-chno="61" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/19d68563a568431b9cd8cfd63a2abae3_20/version/0" group-title="Vodafone TV", Super RTL FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3240ca63642244e083731edf71805195:5977a3663bf708d4f65f6b76aca0f4d0
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$244/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Panda Biggs" tvg-id="Panda Biggs" tvg-chno="65" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/bf5b9c568198495b82f064c5e88f0dce/version/0" group-title="Vodafone TV", Panda Biggs FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aec73cdfe0854ab198c0b12877ad7d98:516b23a79ed4a09127c69b8742b51e50
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$593/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Dizi" tvg-id="Dizi" tvg-chno="68" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ef28284a4db649eabeadb83cb781797c_20/version/0" group-title="Vodafone TV", Dizi FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4557ff15150149deb6ac11c996a3f1e5:be01e11d5951be28aeb5569d056367d8
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$585/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SIC Novelas" tvg-id="SIC Novelas" tvg-chno="69" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ca43dbab2d384db79369c8264a683d11/version/0" group-title="Vodafone TV", SIC Novelas FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dda10989db6e447ead9c088be748b030:09d7279c511748dd3ac129610dcafd60
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$606/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Hollywood" tvg-id="Hollywood" tvg-chno="76" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/d3a18b81bedc48c6aaf41b64c3d570fd_20/version/0" group-title="Vodafone TV", Hollywood FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6186d4a43b34bb4bf60fdb1b9517fc4:ef6e5d8a2baa0f45529b2c24cdda4e10
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$478/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Cinemundo" tvg-id="Cinemundo" tvg-chno="77" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/653fc31c29e34d62a434156b905c7cff_20/version/0" group-title="Vodafone TV", Cinemundo FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=149e145758fe4ab6b7715374cd6a09f9:f52f5171bccf1369b33915aa2bc3a7ed
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$352/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="STAR MOVIES" tvg-id="STAR MOVIES" tvg-chno="78" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3e7474629a5b416c8deaf0919002e6df_20/version/1" group-title="Vodafone TV", STAR MOVIES FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d09c6419f55c4e91b58436ee22d28df7:d954bbf8c3b22eb556d59f5ed9b6b7a2
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$197/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-id="STAR CHANNEL" tvg-chno="79" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/777adf78621046109570913715ab336c_20/version/1" group-title="Vodafone TV", STAR CHANNEL FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b12885ad76534a159db0b85b68a75e5e:91bb2e7be1e1c0b0343553757f374e36
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$107/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="AXN" tvg-id="AXN" tvg-chno="80" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a44800b441224087aea741f0bf74263c_20/version/0" group-title="Vodafone TV", AXN FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=626ee78515554e4d9db03142bfce7a20:fb9fe8dc45afff732b473aa5e40a9cfe
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$108/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="STAR LIFE" tvg-id="STAR LIFE" tvg-chno="81" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/5022d2f187a646d696cb57f977a0c9d1_20/version/1" group-title="Vodafone TV", STAR LIFE FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40c6ead2fcce43f5925b022a5b9cffb2:1dbd1329d2f88ea053619861ec53eba6
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$104/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="STAR CRIME" tvg-id="STAR CRIME" tvg-chno="82" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/25769e8d419c4ea6b63d8097352b9cae_20/version/1" group-title="Vodafone TV", STAR CRIME FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd0889b98d824a3bba7059c3858450fd:62fb8ef9d4ea8ae651298d5fc81bc548
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$199/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="STAR COMEDY" tvg-id="STAR COMEDY" tvg-chno="84" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ea358343e7c4465c93ad1872e52ff0d6_20/version/1" group-title="Vodafone TV", STAR COMEDY FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca4b47be209465bae11f6958fccf92d:3a41fb048b841a5c2f5c1255fbc45021
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$363/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="AXN White" tvg-id="AXN White" tvg-chno="85" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f54c7528c31947c8be68f13748cd15b0_20/version/0" group-title="Vodafone TV", AXN White FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fabfbe0304d44d9e828e8d056d092299:d7e189104c3186d378eed2efc497a266
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$184/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="AXN Movies" tvg-id="AXN Movies" tvg-chno="86" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/37500ae831f84b30822e5bd5e04fd882_20/version/0" group-title="Vodafone TV", AXN Movies FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f552deff63f4d13a1703825ab48458a:96ff130b95748f482e50c7dcd414d1da
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$183/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SyFy" tvg-id="SyFy" tvg-chno="87" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4a0409944e5542a9b5acb0647467203a_20/version/0" group-title="Vodafone TV", SyFy FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7254aed3ae7c4b56a77262bc4c763e6a:e64be111312257d50014a59ff594c55a
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$228/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="SyFy SD" tvg-id="SyFy SD" tvg-chno="88" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/656c66e4f9784c5aacfe8a056df4e4b3_20/version/0" group-title="Vodafone TV", SyFy SD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c9b537b124467cb862a17e2107b5b6:f178971777b4f43f90d1ef7873aeec81
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$227/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC" tvg-chno="89" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/1b0fa6a1c5544a24bdea82e2bc9222e3_20/version/0" group-title="Vodafone TV", AMC FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=273a2d6c58a6479fbe4acf5bc818d99f:0c8036f0a95f5cee61be1a62cc4d481f
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$479/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Eurochannel" tvg-id="Eurochannel" tvg-chno="90" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/31e835a44556419cb807872290c545e7_20/version/0" group-title="Vodafone TV", Eurochannel FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a853e0efef847c89f25be27a1ddae40:38bc40e9fb39f41f1590bbb9f499ef79
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$510/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="Canal Q" tvg-id="Canal Q" tvg-chno="104" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e1ebf412bd444a61afdd2d9fa1263e1a_20/version/0" group-title="Vodafone TV", Canal Q FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=645051b9edd146bba25720352340c995:fbbfa0e32ffb2a9b3bf8cb830710df36
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$373/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-name="MTV" tvg-id="MTV" tvg-chno="105" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9108b7d984a54a43b441bb44b9a84b85_20/version/0" group-title="Vodafone TV", MTV FHD 🇵🇹 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a68d8b041fd4ee18fd679601076fb93:4b525ab537c1d943b52e37ca49c6ca97
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$403/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_AVC_FULLHD
+
+
+
+
+
 #EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100gris.png" group-title="sfr france",RMC Sport Access HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47ac6c129bee0533b28450a2d36":"6ab322b896fefbdd2849bf38c499e661"}
