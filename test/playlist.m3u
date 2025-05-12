@@ -2,13 +2,13 @@
 
 #EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports Golazo Network" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports Golazo Network 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/9175caef-f04c-4c41-9cd3-39cd19bba2d3:CBF2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/cffb3f0d-76ca-4e19-813e-6b7ae06ac482:TUL/master.m3u8
 
 #EXTINF:-1 group-title="CBS Sports" tvg-id="UEFA Champions League Channel" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", UEFA Champions League Channel 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/b3a20a6a-1a00-4d1c-84a7-7187a1e4210e:CHS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/e18db415-2d8a-46a3-a2ea-e15ab16ab98c:TUL/master.m3u8
 
 #EXTINF:-1 group-title="CBS Sports" tvg-id="CBS Sports HQ" tvg-logo="https://shop.cbssports.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p%2Fcbs-sports-hq-logo-1737694157270.png&w=640&q=75" group-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png", CBS Sports HQ 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/4caa47d7-26e6-4f04-abb7-70f2fa6f0935:MRN2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/6a736b73-8fb2-4e8c-877e-2632b3807f6b:TUL/master.m3u8
 
