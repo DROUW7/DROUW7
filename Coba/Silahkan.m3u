@@ -803,13 +803,13 @@ infantiles (200xx)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
 #EXTINF:-1 group-title="Infantil" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png", Baby TV
-https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
 #EXTINF:-1 group-title="Infantil" ch-number="201" tvg-id="CANAL INFANTIL" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1804/CH_LOGO/800/542/0/0/25045866075258.png", Canal Infantil
-https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
