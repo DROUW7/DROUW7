@@ -1,5 +1,56 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/uruguay2.xml"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"82f84bbde0844125a1e4d1714c4a934a":"15c7ec98d9a19841649c558f670e53a2"}
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a3d2af-7569-4bdf-9ce5-b903c2075046/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney+" group-logo="https://static-assets.bamgrid.com/product/disneyplus/images/disney-plus-logo-white-update.f384bde4d5a7f1f455e2dc7d8d4348ae.png",ESPN 🇲🇽
+https://linear-ftc-na-south-2.media.dssott.com/dvt2=exp=1747138685~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Fc5a21e71-4a45-45c6-87e8-776181cc58a3-1744110298355%2F~psid=2d6f085c-1fe8-4222-8f11-553aee3525fb~aid=cf06e776-41e8-4395-896f-6a1a89cc0e9f~did=5122303b-0cd3-49c8-bbdb-a96f7451a1c5~country=MX~kid=k02~hmac=1b9769d9357cf191f23030ff51008b556ee9e28ba6644559b68742a93b3fa7d5/clt2/va01/disneyplus/channel/c5a21e71-4a45-45c6-87e8-776181cc58a3-1744110298355/ctr-all-sliding.m3u8?fr=30&v=1&hash=0c100d6871080d6ca0e0446063fdf376647a251f
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c7357ef4a82c41a0be3dcf7e9d290b87":"2bbc9c423f2ccf1c38a72e733a5bd1ee"}
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b8aa11d0-af30-4398-831e-40cf63590750/compose?format=webp&label=standard_regular_prompt_espn-2_178&width=800" group-title="Disney+",ESPN2 🇲🇽
+https://linear-ftc-na-south-2.media.dssott.com/dvt2=exp=1747138799~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2F2cc5aecd-a471-4f2d-9381-e4b5664c0fdf-1744110339964%2F~psid=5727e5d0-27fb-4fbd-a1fa-8425b0019001~aid=cf06e776-41e8-4395-896f-6a1a89cc0e9f~did=5122303b-0cd3-49c8-bbdb-a96f7451a1c5~country=MX~kid=k02~hmac=c87f24e859e27c80c996b355f73fdbc7737f680b2e579db658e82124dab5149a/clt2/va01/disneyplus/channel/2cc5aecd-a471-4f2d-9381-e4b5664c0fdf-1744110339964/ctr-all-sliding.m3u8?fr=30&v=1&hash=52ac26052019e3d5fe8cac1dfc4f9d0f9e942917
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"04e487089dfb427d8ce44676beeb0995":"8109ef91cae56f25f3e1147d181ebeda"}
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/cdf42661-2bbb-469a-b367-75a0c607e8b6/compose?format=webp&label=standard_regular_prompt_espn3_178&width=800" group-title="Disney+",ESPN3 🇲🇽
+https://linear-ftc-na-south-2.media.dssott.com/dvt2=exp=1747139000~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Fa353717b-7ca3-4b93-af48-28d3dfa8eb73-1744109498668%2F~psid=ddb213e0-6cae-46b8-a94e-268c6c1e11e2~aid=cf06e776-41e8-4395-896f-6a1a89cc0e9f~did=5122303b-0cd3-49c8-bbdb-a96f7451a1c5~country=MX~kid=k02~hmac=0a7802ce6a71f8d7e478fa4e122d289bcdbd8540885ea5b7265684d21a046694/clt2/va01/disneyplus/channel/a353717b-7ca3-4b93-af48-28d3dfa8eb73-1744109498668/ctr-all-sliding.m3u8?fr=30&v=1&hash=915ac00ee1c44fedcef5d70bde6f478204eec5ee
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc49022cd7e74c2a9c9a1a80d85d2726":"bdd730154151f14ed9c1d96455d75dfa"}
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/052440ac-ee25-48d4-bcca-cd5678c41984/compose?format=webp&label=standard_regular_prompt_espn4_178&width=800" group-title="Disney+",ESPN4 🇲🇽
+https://linear-ftc-na-south-2.media.dssott.com/dvt2=exp=1747139097~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2F8efa8f8a-afd2-4517-aaf3-26759190360f-1744109015135%2F~psid=f02b825b-5aa1-47fa-bcdf-8708eea34621~aid=cf06e776-41e8-4395-896f-6a1a89cc0e9f~did=5122303b-0cd3-49c8-bbdb-a96f7451a1c5~country=MX~kid=k02~hmac=12f31327e4e858516386ba084e0bdf6446133dbb4f9c87e3a49c719444fc93ce/clt2/va01/disneyplus/channel/8efa8f8a-afd2-4517-aaf3-26759190360f-1744109015135/ctr-all-sliding.m3u8?fr=30&v=1&hash=0f1a505aebffed3443f02e6f1d967478b1d607b3
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39e9f16e08204dd9a586af959ae8c334:4344f9cf89aba22f7ec24bf2effcf0d0
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a3d2af-7569-4bdf-9ce5-b903c2075046/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney+" group-logo="https://static-assets.bamgrid.com/product/disneyplus/images/disney-plus-logo-white-update.f384bde4d5a7f1f455e2dc7d8d4348ae.png",ESPN 🇧🇷
+https://linear-akc-sa-east-1.media.dssott.com/dvt2=exp=1747874931~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Fef857a31-bd76-436b-b327-8889d90e6e5c-1747292428289%2F~psid=dac51c2c-4542-4a9c-b003-36f0f1786fac~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=5fea137cb3483b850b5565e47e6557fc5eb8bac9c27726eaaaeb4353a5f0cbea/clt2/va01/disneyplus/channel/ef857a31-bd76-436b-b327-8889d90e6e5c-1747292428289/ctr-all-sliding.m3u8?fr=30&v=1&hash=bab358aceea6b5dd28513d50c29fb32f5409b201
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32ab8c05f1af49ffaae14ede36106912:201a43622b2745a15b328f8b0ed5cb71
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b8aa11d0-af30-4398-831e-40cf63590750/compose?format=webp&label=standard_regular_prompt_espn-2_178&width=800" group-title="Disney+",ESPN2 🇧🇷
+https://linear-ftc-sa-east-1.media.dssott.com/dvt2=exp=1747875028~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Fab853641-69f3-4e7f-8b56-6c06719d7734-1747302140725%2F~psid=3cc873b6-5ae5-49bb-8b6b-7764662066f7~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=87ba99f5c58a74d98dd09e32ece638bc6b6701691c174ddd2c68b36f7c7a6c01/clt2/va01/disneyplus/channel/ab853641-69f3-4e7f-8b56-6c06719d7734-1747302140725/ctr-all-sliding.m3u8?fr=30&v=1&hash=dbabdd4220a97e53310433add37dca7ab9e495e9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aba95630319481abbe7784b2d3f7de7:fc5b63fecbd44813b9213b4ea1f53a54
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/cdf42661-2bbb-469a-b367-75a0c607e8b6/compose?format=webp&label=standard_regular_prompt_espn3_178&width=800" group-title="Disney+",ESPN3 🇧🇷
+https://linear-ftc-sa-east-1.media.dssott.com/dvt2=exp=1747875282~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Faa536155-4878-4b15-be18-011382749efc-1747301900389%2F~psid=7ca634a4-2112-4f00-81bf-34c7ccba93e2~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=6ca44c980d5e8a01f6609992a4e92a94b81ac4f0abf6fc4d2e6da6b8d1c9b032/clt2/va01/disneyplus/channel/aa536155-4878-4b15-be18-011382749efc-1747301900389/ctr-all-sliding.m3u8?fr=30&v=1&hash=891defaede1234f5ec8f9cc3c3115819a1b6419b
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eb1c0c78d204ba3af722c0ea0168446:c754c0a78d96c34c19aef8a25b81618d
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/052440ac-ee25-48d4-bcca-cd5678c41984/compose?format=webp&label=standard_regular_prompt_espn4_178&width=800" group-title="Disney+",ESPN4 🇧🇷
+https://linear-akc-sa-east-1.media.dssott.com/dvt2=exp=1747875383~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2F889e14c4-4e16-4f3f-8e83-90ee0e8157f7-1747299762785%2F~psid=8f9d06b9-9fbd-4263-8441-5327b650f91a~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=fd9d9b5c562bab893b9f5bbc8e36fecd41cb58fe409d19531ae8cc626907e58e/clt2/va01/disneyplus/channel/889e14c4-4e16-4f3f-8e83-90ee0e8157f7-1747299762785/ctr-all-sliding.m3u8?fr=30&v=1&hash=1629a28d6b6a2c496f7b97e2a6a1b9295726cdf1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae3be1df6b324888be578e1b4a5563c3:c3e8aedb5f0b5a3cae578ab48cbc9369
+#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d0eb3aec-cc90-40dd-b42b-f88d8a4f0a4d/compose?format=webp&label=standard_regular_prompt_espn5_178&width=800" group-title="Disney+",ESPN5 🇧🇷
+https://linear-ftc-sa-east-1.media.dssott.com/dvt2=exp=1747875475~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2F8b05ead0-d92f-498c-88be-0d5e0804f976-1747300041470%2F~psid=89738b06-ac58-4308-b126-d7311cd3b27d~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=3a75793bba1b0632e29f26b4d712d926cbbf8da4f9f9d5d43df8e5f105070821/clt2/va01/disneyplus/channel/8b05ead0-d92f-498c-88be-0d5e0804f976-1747300041470/ctr-all-sliding.m3u8?fr=30&v=1&hash=9274d449e36be4d78695fa8da5b723b4631b1e1a
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d9da69c4fa4d818516e80f8cc8da90:ef6250ef152e82a601b6f87ca7b459b4
+#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d8c18188-374d-4573-b5cb-e6ab042d9f14/compose?format=webp&label=standard_regular_prompt_espn6_178&width=800" group-title="Disney+",ESPN6 🇧🇷
+https://linear-ftc-sa-east-1.media.dssott.com/dvt2=exp=1747875565~url=%2Fclt2%2Fva01%2Fdisneyplus%2Fchannel%2Fa2899a0f-e966-4895-ac4a-f6433744b6c4-1747301042578%2F~psid=78ab5126-a320-4f26-89c4-896b6dd571b1~aid=55cc719e-6124-4eb6-836f-b14ee81a579f~did=7b7412ab-c0fb-492a-aeb7-484897eedb73~country=BR~kid=k02~hmac=57e7c08bc99c4597af9f0d7559a61d771a110f2048119f462887be1c863e29bb/clt2/va01/disneyplus/channel/a2899a0f-e966-4895-ac4a-f6433744b6c4-1747301042578/ctr-all-sliding.m3u8?fr=30&v=1&hash=4b728f9d2d949ba2ef03bdf5c104361950c7dca2
 
 
 
