@@ -3,8 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bcabc0fba912433fb12f40542783c726":"7af404173b1cbb725934e4725a274b9c","005dad2d8ba53f278bea72d24da19eb5":"13f7c2da56e441ff97aa698d5aaa41c4"}
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1749207646072" group-title="DGO",DSPORTS (ARG)
-https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?da=0&country=CO&accountType=OTT
-
+https://db94fd00ac0e43679bf5def573fffabf.mediatailor.us-east-1.amazonaws.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd?hdnts=exp%3D1750008892%7Eacl%3D%2F*%7Eid%3Df3574022-d4bd-5ccc-89df-3cac80c44597%7Ehmac%3D72fca99cf382e54629ff3e773b1d30f234925f730a0411200fc333b1ce05bf75&tokenization=true&da=1&aws.sessionId=5cc138cd-0e9f-4823-b566-ececf566d1ef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b469a64124984b54bcfe4c242ad460d7":"9150b1eec1008c60fb4bd0e289ff619c"}
 #EXTINF:-1 tvg-logo="https://img4.hulu.com/user/v3/artwork/ffea295e-e063-45b8-8dba-57e712d2cd40?base_image_bucket_name=image_manager&base_image=8370b177-19eb-4d4e-a737-f6e9d50ecc82&operations=%5B%7B%22resize%22%3A%22600x600%7Cmax%22%7D%2C%7B%22format%22%3A%22webp%22%7D%5D" group-title="VOD Hulu",Into the Deep (2025)
