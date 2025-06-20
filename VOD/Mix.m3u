@@ -1,0 +1,161 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aacdfd60bdc24a928b7e2b1b66b43409":"0e420f7db2f9682d2b739ed0d30705e3","717ec31a4a2e4b13967d7d46917e3aaf":"dc1c76bde53c9896471ce5125198be80","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2c09df85f719da43533604877062cac28cae2767f893a0bb090236193f7dcdbb._SX1440_FMwebp_.png" group-title="VOD Prime Video",Maria (2024)
+https://abb7byhaaaaaaaamfriachafvphct.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0CiAIAhIECgI9HyA9MAFSBoDAAoHwA3oDgLgXggEBAYgBBBgB/84ae/f864/bc0e/46d2-ba14-207d2f81145d/1e0ad728-7c3d-482b-8c03-07eeb83ee2b2_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a26e09a565c540e3a6219fd8422759fc":"f5873d31d9ece5529534b9089905db8b","1e765066ec9c44f7bf3d1515a256bc69":"bcdcc2b2ec53ad2278b5b42e04a7062f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a9b4877ef17f477fbe289269f35ae4100c6a6c8e1ea4abfc7d32fdfd49273a9a._UR1920,1080_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Thanksgiving (2023)
+https://abmrxflaaaaaaaamcncbm2dobu3id.pop-br-cf.dash.pv-cdn.net/dm/3$0ChwIAiAlMAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/b412/86cc/b79e/4618-9a10-7280259a4aa8/26b0ed65-2cbb-40a5-a01c-3ce0b72fac56_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ff041856c323456581bfd5d46a6dd635":"82d7e938b7242ed286b3e433ca8d7248","7e3e96ec95cd41cf83df6234938aad52":"fc35c8f00eee2a63ce75cfe5212d8d75","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/671dc5566cf70a458294377c7970a7fbe34621a14930fdd683c31bd7ac2bc6dc._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/mgmbe/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1658,924,183,78_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Les pirates du cyberspace (1995)
+https://abb7byhaaaaaaaamib2ikts6jancu.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0ChoIAiA9MAFSBoDAAoHwA3oDgLgXggEBAYgBBBgB/f136/371b/e147/42be-a952-046e5a989e07/1b6bb6f0-c257-4e2a-80ff-e88d11de6f1d_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"970645e6384c4b2da80efda875f18b8e":"4ed8533bcaea540b5eaa09d3ba945e84","2424626c88164d868bb7740c3a8b9993":"34cce30487915e7fa6cb2ea08e620776","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f89c6f22a71f42be1e2377b6a11872bb243ed91e5e6f54ecb376f4274d803862._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Hell's Kitchen (1999)
+https://vod-dash-pv.amazon.fastly-edge.com/3$0ChoIAiA9MAFSBoDAAoHwA3oDgLgXggEBAYgBBBgB/ww_dub/bea1/e288/2744/405c-8319-a25a581378bf/eb487642-50c4-4193-94ee-33d88fefb9bb_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"18e44657c9364977899715f00d3a0356":"a5b695305c9b66af95725df6f5ad7e8b","b98d4176dc414f68a78f0c11dadfad82":"d63e0210e9e5d92c25d27d831a62fef1","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a50c68a855f4a3ea8de044ea28f1015622b049a09976cb3b4b1f45982da682d6._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",The Love Hotel Girl (2020)
+https://shard-5-pop-fr-cf.dash.pv-cdn.net/dm/3$0ChwIAiA9MAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/b8ab/d953/848f/4298-b565-c08670524e13/69e42895-b599-47cc-911e-473213acf0f9_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"49bc4220e0d04bd4b3d04df94be46e17":"7e609ec29c14058ab944f91bf29c471c","0629d5ae5d554a04b4a40086ec0d9462":"3ddb1b481a1f31848516d5ebfe632fa7","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/3bea6b9956d9bedb257d387302f2b83e9e944ed7a8aab5a74c54be5a2b110c8a._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",The Canyons (2013)
+https://a248avoddashs3ww-a.akamaihd.net/3$0ChwIAiA9MAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/ondemand/ww_dub/b05f/7001/c846/4838-8b1c-25b862f14819/8fcf5cec-1dc6-4e3d-b19a-a0e331db0d65_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dd514da46d014e8cb030d2e3f80dce0d":"09593505a9a415cd7d5c75a2489af0f8","652e0f5109984857adedff7b5eb49b10":"f1e15415b3be35668109cdde401ed115","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4fac6d31f94d73d4bb546edde88e8a238091b5e2ff78c9878badef9904a5ecbc._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.png" group-title="VOD Prime Video",Hope Lost (2016)
+https://abls5sfaaaaaaaamamwaq2ybrj6t6.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0ChwIAiA9MAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/d8ee/2c7a/7427/4fa0-a77f-aa4ed8df4bdc/6aa98b13-2282-4b91-984f-8f3fd42c8171_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fabd738184004a3fbbec84cb0efbdb31":"bfb40905e24c964c8a4c877be88598df","0b7701f503ac479b9d513de20bd1c6f4":"2caedab0e9b434aba110ec1a40162b10"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8769ed4a73dc097e01010c4f9fe73fdefccef33d7b344082da88d56a14a261f5._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Arsene Lupin (2004)
+https://abls5sfaaaaaaaamimxwzjdv6oqvz.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0ChwIAiA9MAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/c59c/cbfd/0cfd/4980-9cce-05dc8d1fb75e/abe37a94-c4ac-4865-a8c3-0a6b1f77bc91_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b5a04354d2348caa87c728154f7c432":"056f46c628d423e9a5271e814648d9ef","e5b3a306897744d2969ce8620fe5a28b":"a33063e580acfc8205fba0bf13405fb0","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/6b4cd8ccd3f272dcaf8824e2be8d047110da3a00af3aa33245dde4f3a21ab812._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Sin City (2005)
+https://abb7byhaaaaaaaamhde3rb35umztb.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0ChoIAiA9MAFSBoDAAoHwA3oDgLgXggEBAYgBBBgB/9181/68e2/4981/49cc-be49-f32c44e41768/e3c0f50a-16a7-4c75-86fb-48cc9ddbf00d_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"51cf87d5d9e14ac3a03658f7e7e3d295":"5e77dbf5b27374eaac5e14ea47ed88e0","f3ab441e4fc24e05a0d9290ef48fc783":"a9184df036dae8b278cb8b15f9cf6cf4"}
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bd55e622c020229dd255b9fd8c7e7fbb814f768af860c5d1ecd710921f7c3a08._UR1920,1080_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Sin City : j'ai tué pour elle (2014)
+https://abls5sfaaaaaaaammlftgckms3lh5.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0ChwIAiA9MAFIAVIGgMACgfADegOAuBeCAQEBiAECGAE/2cfe/d3e1/d079/446a-aeac-39664e6823c1/0030bce2-2d02-4068-b55d-b13ec609fe72_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0000d8e37a995cfd035947eefd8fc288":"df3e0758567d7768669f3fe50f50d7ff"}
+#EXTINF:-1 tvg-logo="https://pixel.disco.skyshowtime.com/uuid/2a316e31-afe0-39c8-9eef-464d62691b2d/COVER_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=fbcdcfa8-625c-3d98-8b0f-2b725a7cff5e" group-title="VOD SkyShowtime",Un lugar tranquilo (2018)
+https://g003-vod-eu-cmaf-prd-ak.pcdn01.cssott.com/pub/global/My4/kq9/GMO_00000000198565_02/SST_1750105280736_f83f_01/mpeg_cenc_2sec/master_manifest_default_r0.mpd?c3.ri=13505597194300207101&audio=all&subtitle=all&forcedNarrative=true&trickplay=true&audioCodec=mp4a.40.2%2Cmp4a.40.5&aws.sessionId=e576cedf-47c2-4f82-8d0c-593739a5be0d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00169598ce4c081b37394c24e5692428":"7b3aae5cbc4f1162ac92d05b596a2cf7"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c26aa163-de3a-3972-8ca3-37c0bad2448e/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=2818ff86-0efe-3771-934a-7d6b6026695e" group-title="VOD Peacock TV",Jennifer's Body (2009)
+https://g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com/pub/global/HXm/yl9/GMO_00000000250007_02/PCK_1747938639927_841d_01/mpeg_cenc/master_cmaf.mpd?c3.ri=858c9dae-0159-4e2a-b364-e82d15a2bb8b&aws.sessionId=895641e4-1b92-4300-9574-a04489e6c81b
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001666133011649e7599851bf0993f3f":"1b647ea8455772cf3282e730f9aa1b05"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/6903204d-72f4-3ff3-8f4f-5a9806fdb8a5/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=758cc30a-03ec-3fe7-8f33-e88fd936080c" group-title="VOD Peacock TV",Wicked: Sing-Along
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/IjL/GT0/GMO_00000000242573_02_HDSDR/PCK_1742362134854_f83b_01/mpeg_cenc/master_cmaf.mpd?c3.ri=248e1a87-8e49-4b4a-bf55-498ad1e5c323
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016379777ccccde9615fb6088bfce66":"46a10852e8c36762472064f746cd14ee"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/a826c175-447a-37e9-bf9e-1a0412b990f3/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=adb4d0dd-2098-3fb2-b0b1-88f775a02f4d" group-title="VOD Peacock TV",Wicked
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/JZa/MfD/GMO_00000000243022_02_HDSDR/PCK_1741896811946_03aa_01/mpeg_cenc/master_cmaf.mpd?c3.ri=c6abf21d-0eb6-484f-bd59-5539ef068c6b
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00161921b0e26fb0eb27abc139dfa23c":"a9f9e739a97d16d4214cffe041833aa1"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/fd0299d1-ee23-3507-a8a8-2d6961b57707/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=949548d7-fb75-3442-b465-81134d68badb" group-title="VOD Peacock TV",Wolf Man (2025)
+https://g003-vod-us-cmaf-prd-mc.cdn.peacocktv.com/pub/global/v5s/HRO/GMO_00000000244455_02_HDSDR/PCK_1744916895148_e6d3_01/mpeg_cenc/master_cmaf.mpd?c3.ri=23282260-d8c1-4719-8547-529a3ba012d9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001634bc5b36298a55d0677ff35f3acd":"e4098dc3f45bd0996e137be4fb8ccf2d"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/dddb0fca-8db1-3f00-8a75-8cf996e6b046/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=918222af-930d-3f27-b5e1-ca8e11f32023" group-title="VOD Peacock TV",Nosferatu (Extended Cut)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/bYA/1Lg/GMO_00000000243181_02_HDSDR/PCK_1743642942487_b4db_01/mpeg_cenc/master_cmaf.mpd?c3.ri=fc5978db-4073-498f-b35f-775b2069a22d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001673f084c7f13e5716ca85fcde17d1":"6c44e2ce421306708b6e273c82bc68f4"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/ce4c5cce-c0a9-3a6e-a3b7-49e7d2fe4649/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=eeee81de-7463-393d-9725-19beca91cd9a" group-title="VOD Peacock TV",The Layover (2017)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/4XK/ygs/GMO_00000000534323_01/PCK_1744828951987_d84d_01/mpeg_cenc/master_cmaf.mpd?c3.ri=2934a90b-948c-42bb-b148-ccedc9ccf2e1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001696b4ed1de2b13da2609f8746ad13":"c54a00180c9f999367a1b777254dc5f8"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/a820ed4a-2fae-3cc6-a530-8029efb1d394/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=d6e3e921-99cb-3bd7-84fb-8d3eba03dea7" group-title="VOD Peacock TV",The Choice (2016)
+https://g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com/pub/global/epC/rmY/GMO_00000000508560_01/PCK_1745003198983_1da6_01/mpeg_cenc/master_cmaf.mpd?c3.ri=b79a717e-4fbb-4146-b459-0d5d63c0f93d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016101adba28999c10d7719b71f16c1":"94e8091438e9d89a6cc14538e5241671"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c728e282-9d1b-3b75-8224-7266ae1ae11f/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=6cabf8db-d6d9-325c-a5bf-d0dafc8d7d56" group-title="VOD Peacock TV",We Summon the Darkness (2020)
+https://g003-vod-us-cmaf-prd-mc.cdn.peacocktv.com/pub/global/hfm/WVu/GMO_00000000508757_01/PCK_1745170441701_1114_01/mpeg_cenc/master_cmaf.mpd?c3.ri=fae60dbf-8406-4b22-92e9-f05d9d718aa8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016060331d1601f1fba698cd9b0f4a6":"3016738a5c5f52a4fa6c087a44d06651"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/91de9f6a-323a-3517-b37f-62b50c4297dc/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=8359eb65-1b71-3e73-b88f-ff5eb3c0e9f8" group-title="VOD Peacock TV",Malevolence 2: Bereavement (2012)
+https://g003-vod-us-cmaf-prd-mc.cdn.peacocktv.com/pub/global/khi/TaY/PCK_1648265116479.6404_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=ba789b75-f3b5-4d12-b8ba-2252624a28aa
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016a2b1c49118f0a49faa0c2d73f5c7":"af4aa258fcea89cb0a0e610180e41127"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/b61a53bf-953e-3e7e-9f70-2126891c9f95/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=8a20ebb0-fbb9-3945-bb8f-585e6625eee0" group-title="VOD Peacock TV",We Have Always Lived in the Castle (2019)
+https://g003-vod-us-cmaf-prd-mc.cdn.peacocktv.com/pub/global/3xF/aic/PCK_1648697691022.9175_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=13fe5d13-91dd-4d8f-a803-613b185e3e03
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016e2569850561f6cde3c3735ef153a":"59fba558aa6327b526007039505d4a80"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/62108de1-0fdb-3abb-8ba5-c53aa1b7db11/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=e26ae7ae-fa11-3060-9b98-9df77477d960" group-title="VOD Peacock TV",Baked in Brooklyn (2016)
+https://g003-vod-us-cmaf-prd-mc.cdn.peacocktv.com/pub/global/29w/1js/PCK_1676005437736.2244_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=cfc8d3cb-5792-4603-84e8-716672b50b9d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016486f39354330c10543ef2f5a7703":"e89277ede46922ed017acced047d3e05"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/8a446756-6b74-34a4-b0c1-74bbdd31d42d/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=9b63507a-0902-3099-9605-3e86ec4274b6" group-title="VOD Peacock TV",Lost Transmissions (2020)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/AUJ/IQw/PCK_1674792777486.6528_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=f3e7789c-cfc5-42f6-a415-fccc5f73d8ce
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001637bb185bbd6cb95dec922b7e30a3":"81f72527f08f87f84f66d9edf707cab8"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/fdd0b625-ef4b-3f29-ba62-a38f7d0eb9ee/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=222b354b-560e-37d4-9fa7-4b054c392499" group-title="VOD Peacock TV",Exposed (2016)
+https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pub/global/5nW/mjq/GMO_00000000326921_01/PCK_1743093947069_a391_01/mpeg_cenc/master_cmaf.mpd?c3.ri=ea8a1e8b-6e46-4729-830f-085956894a74
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001620aa97214bc75f8d494b36335441":"1d6496a715b9cb42486cc421023545a4"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/f084ac1b-4f2c-3292-a781-520a81f074d0/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=13480b17-a266-36e0-98f5-f7d2b1cbdcaa" group-title="VOD Peacock TV",For a Handful of Kisses (2014)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/6Kc/d7I/PCK_1700213220209-ILxkW_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=d50380c8-a496-4a0f-ba2e-2dfedac65cee
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"001627ee9ede8707f03e46a85194848f":"73ddeff90b483d653c41df1db9c9f707"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/pcms/181e2234-3f06-11f0-924e-f7a418abec95/LAND_16_9?proposition=NBCUOTT&language=eng&versionId=e1d2fdcb-acb2-5d88-bf9f-cc28a8724f60&territory=US" group-title="VOD Peacock TV",Knock Knock (2014)
+https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pub/global/cOi/Vsf/GMO_00000000327198_01/PCK_1745431268413_edf2_01/mpeg_cenc/master_cmaf.mpd?c3.ri=b6222ff5-ede2-449f-b7d1-dcadbfeca156&aws.sessionId=fc52ce97-6279-46fa-9b79-91c94165f213
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00168630f9f833909ab5efc9c4fc9398":"005069b4bbcca377f5f27a650a8d1c24"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/03166e3a-329c-3fbf-a409-6b8daffb125b/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=56d05695-9024-3cb1-8400-65c8e2aaade0" group-title="VOD Peacock TV",Elegy (2008)
+https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/bME/wjg/PCK_1703706240504-AQKpV_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=336299f0-fec2-40ce-83f5-0e36b79400b5&aws.sessionId=830b649e-391c-41a6-bc76-4193767b5f0c
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00168630f9f833909ab5efc9c4fc9398":"005069b4bbcca377f5f27a650a8d1c24"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/03166e3a-329c-3fbf-a409-6b8daffb125b/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=56d05695-9024-3cb1-8400-65c8e2aaade0" group-title="VOD Peacock TV",Elegy (2008)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/bME/wjg/PCK_1703706240504-AQKpV_01/cmaf/mpeg_cenc/master_cmaf.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016c87b13a47d9d5d394d69e93849e0":"7529ceeb83136d3501a43a305e5d62c2"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/dde5fa4b-69a3-3742-8a42-739774e2430a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=911c1e1d-9496-39a6-afc1-266074c4db60" group-title="VOD Peacock TV",Vicky Cristina Barcelona (2008)
+https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/xLn/7Or/GMO_00000000099022_01/PCK_1739430861329_7429_01/mpeg_cenc/master_cmaf.mpd?c3.ri=979873c6-7d32-47c2-b7bc-cf4158a6cae8&aws.sessionId=4b7b147d-b700-4520-8331-0ac3feb28151
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016c87b13a47d9d5d394d69e93849e0":"7529ceeb83136d3501a43a305e5d62c2"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/dde5fa4b-69a3-3742-8a42-739774e2430a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=911c1e1d-9496-39a6-afc1-266074c4db60" group-title="VOD Peacock TV",Vicky Cristina Barcelona (2008)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/xLn/7Or/GMO_00000000099022_01/PCK_1739430861329_7429_01/mpeg_cenc/master_cmaf.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016a73dfb777e4624cb06fdccdbd2ff":"cf8d9f506bfa4ba07c818ef289d19318"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/4881a17b-8a76-3b53-8573-d75d60b09c5a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=5a3df5a1-768f-34af-ae30-b914b9030d3c" group-title="VOD Peacock TV",Noel (2004)
+https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/Mxj/csU/PCK_1682581460902.5217_01/cmaf/mpeg_cenc/master_cmaf.mpd?c3.ri=5d3ecdbd-2049-4d54-a6ce-affaf8fa6125&aws.sessionId=eebad439-acc2-4b3f-8eff-5efa276f6a4d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0016a73dfb777e4624cb06fdccdbd2ff":"cf8d9f506bfa4ba07c818ef289d19318"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/4881a17b-8a76-3b53-8573-d75d60b09c5a/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=5a3df5a1-768f-34af-ae30-b914b9030d3c" group-title="VOD Peacock TV",Noel (2004)
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pub/global/Mxj/csU/PCK_1682581460902.5217_01/cmaf/mpeg_cenc/master_cmaf.mpd
