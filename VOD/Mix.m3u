@@ -1,6 +1,11 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"09353876c8b24aa08b9e3482bf2eba0f":"d3cbc7be2274b075fb813fda00026b60","9bcd0e77efe448689e784ce69638a648":"5d80ca5bcf5a73fc69e958890d628d4e","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3734dbd0e3f348d8820f1051ed47b4579f32980b689f4c07f3b56c1492a378cd._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_SX400_FMwebp_.jpg" group-title="VOD Prime Video",Salt (2010)
+https://abmrxflaaaaaaaamlkfeow777rmly.shard-2-pop-br-cf.dash.pv-cdn.net/dm/3$0CiYIAhIICgZeJSUlJScgJTABSAFSBoDAAoHwA3oDgLgXggEBAYgBAxgB/8f49/accf/e603/45dd-a4b5-4a8bf171b6ce/16776824-f31f-4402-934f-5515045ff8fa_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aacdfd60bdc24a928b7e2b1b66b43409":"0e420f7db2f9682d2b739ed0d30705e3","717ec31a4a2e4b13967d7d46917e3aaf":"dc1c76bde53c9896471ce5125198be80","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2c09df85f719da43533604877062cac28cae2767f893a0bb090236193f7dcdbb._SX1440_FMwebp_.png" group-title="VOD Prime Video",Maria (2024)
 https://abb7byhaaaaaaaamfriachafvphct.s3-dub-2.cf.dash.row.aiv-cdn.net/dm/3$0CiAIAhIECgI9HyA9MAFSBoDAAoHwA3oDgLgXggEBAYgBBBgB/84ae/f864/bc0e/46d2-ba14-207d2f81145d/1e0ad728-7c3d-482b-8c03-07eeb83ee2b2_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
