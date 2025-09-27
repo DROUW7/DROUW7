@@ -1,16 +1,14 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/unitedkingdom1.xml,https://www.open-epg.com/files/unitedkingdom2.xml,https://www.open-epg.com/files/unitedkingdom3.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates5.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy2.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/italy4.xml,https://www.open-epg.com/files/germany1.xml,https://www.open-epg.com/files/germany2.xml,https://www.open-epg.com/files/germany3.xml,https://www.open-epg.com/files/germany4.xml,https://www.open-epg.com/files/germany5.xml,https://www.open-epg.com/files/newzealand1.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://www.open-epg.com/files/sports3.xml,https://www.open-epg.com/files/singapore3.xml,https://www.open-epg.com/files/croatia3.xml,http://epg.serbianforum.org/losmij/epg.xml,https://www.open-epg.com/files/poland1.xml,https://www.open-epg.com/files/netherlands2.xml,https://www.open-epg.com/files/belgium3.xml,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=404695,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=13198,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=12709,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=13156,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405049,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=404833,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405060,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405134,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405079,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/india5.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/iceland1.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/uruguay1.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/norway1.xml,https://www.open-epg.com/files/norway2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/canada2.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/colombia3.xml,https://www.open-epg.com/files/croatia1.xml,https://www.open-epg.com/files/croatia2.xml,https://www.open-epg.com/files/croatia3.xml,https://www.open-epg.com/files/croatia4.xml,https://www.open-epg.com/files/croatia5.xml,https://www.open-epg.com/files/croatia6.xml,https://www.open-epg.com/files/poland1.xml,https://www.open-epg.com/files/poland2.xml,https://www.open-epg.com/files/france1.xml,https://www.open-epg.com/files/france2.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_sports_2_new._SL170_FMpng_.png" group-title="Undefined",beIN SPORTS 2 (Prime)
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"f06247c1f4646d0af6acafb0c5c92fa2":"00dbeb4523bff098887892a173a258ed"}
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fsn-02._SL170_FMpng_.png" group-title="Undefined",Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qo51jknive/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_Sports_3_new._SL170_FMpng_.png" group-title="Undefined",beIN SPORTS 3 (Prime)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"e2bcfecd0d8be3ec34801b8900c5834b":"1ce88bea8d6276dd4bac0a16f9de766f"}
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fsn-02._SL170_FMpng_.png" group-title="Undefined",Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cnm4gvd2ja/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 
 ==============================================================================================================================================================================================================================
 Collected by @drouw7 menampilkan playlist >>> Ziggo Sport Netherlands
@@ -99,6 +97,18 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)
 ==============================================================================================================================================================================================================================
 Collected by @drouw7 menampilkan playlist >>> Prime Video Live TV
 ==============================================================================================================================================================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_sports_2_new._SL170_FMpng_.png" group-title="Prime Video Live TV Australia",beIN SPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_Sports_3_new._SL170_FMpng_.png" group-title="Prime Video Live TV Australia",beIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_sports._SL170_FMpng_.png" group-title="Prime Video Live TV México" group-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w240-h480-rw",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
