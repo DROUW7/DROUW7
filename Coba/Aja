@@ -100,7 +100,7 @@ Collected by @drouw7 menampilkan playlist >>> Prime Video Live TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"335dad778109954503dcbb21dc92015f":"24bfd75d436cbf73168a2a2dccd40281"}
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_sports_1_new._SL170_FMpng_.png" group-title="Prime Video Live TV Australia",beIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/beIN_sports_1_new_2._SL170_FMpng_.png" group-title="Prime Video Live TV Australia",beIN SPORTS 1
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
