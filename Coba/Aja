@@ -158,19 +158,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f06247c1f4646d0af6acafb0c5c92fa2":"00dbeb4523bff098887892a173a258ed"}
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fsn-01._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",Fubo Sports  [lhr]
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qo51jknive/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e2bcfecd0d8be3ec34801b8900c5834b":"1ce88bea8d6276dd4bac0a16f9de766f"}
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fsn-01._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",Fubo Sports  [lhr]
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cnm4gvd2ja/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7e99f734748d098cbfa2f7bde968dd44":"98ea6088c3222e9abaf61e537804d6cc"}
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",TSN 1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"362202eefc5d9e42eec6450998cce9e8":"978dfdd53186ec587d940e0bd1e2ec42"}
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",TSN 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e1aa4c4daf6222a04f7ae80130495ea1":"31bb1ee9a8d088f62b0103550c301449"}
