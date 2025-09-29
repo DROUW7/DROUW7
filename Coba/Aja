@@ -168,6 +168,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d9097a1b7d04b7786b29f2b0e155316d":"279695ebe0fb1bc5787422b6b59ce8a8"}
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",TSN 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e1aa4c4daf6222a04f7ae80130495ea1":"31bb1ee9a8d088f62b0103550c301449"}
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png" group-title="Prime Video Live TV Canada",TSN 4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
@@ -261,6 +266,7 @@ https://sweet-night-1d1d.worst.workers.dev/red/play.mpd?id=18190&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"92c44afb343b28f903c024436ca9342f":"a336c4a3cf55482eeb399d2c9c318658"}
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://thumbor.prod.vidiocdn.com/B9KVu56f3WHPswjEOg7avzOmmLY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="Champions TV Indonesia",Real Madrid TV
 https://sweet-night-1d1d.worst.workers.dev/red/play.mpd?id=19538&type=dash
 
