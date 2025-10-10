@@ -10,7 +10,7 @@ https://ncdn-live-mob.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE5/index.mpd/Manifest?sta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa8be47a9e9229c8e0533b28450a1575":"f6b4f6d80a541758058c4810838fecb1"}
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100" group-title="SFR",FRANCE 5 B
-https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+https://ncdn-live-stb.pfd.sfr.net/sdash/LIVE$NEUF_FRANCE5/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
 
 ==============================================================================================================================================================================================================================
 Collected by @drouw7 menampilkan playlist >>> Ziggo Sport Netherlands
