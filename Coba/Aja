@@ -1,6 +1,109 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/unitedkingdom1.xml,https://www.open-epg.com/files/unitedkingdom2.xml,https://www.open-epg.com/files/unitedkingdom3.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates5.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy2.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/italy4.xml,https://www.open-epg.com/files/germany1.xml,https://www.open-epg.com/files/germany2.xml,https://www.open-epg.com/files/germany3.xml,https://www.open-epg.com/files/germany4.xml,https://www.open-epg.com/files/germany5.xml,https://www.open-epg.com/files/newzealand1.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://www.open-epg.com/files/sports3.xml,https://www.open-epg.com/files/singapore3.xml,https://www.open-epg.com/files/croatia3.xml,http://epg.serbianforum.org/losmij/epg.xml,https://www.open-epg.com/files/poland1.xml,https://www.open-epg.com/files/netherlands2.xml,https://www.open-epg.com/files/belgium3.xml,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=404695,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=13198,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=12709,https://epg.pw/api/epg.xml?lang=en&date=20250104&channel_id=13156,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405049,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=404833,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405060,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405134,https://epg.pw/api/epg.xml?lang=en&date=20250111&channel_id=405079,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/india5.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/iceland1.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/uruguay1.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/norway1.xml,https://www.open-epg.com/files/norway2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/canada2.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/colombia3.xml,https://www.open-epg.com/files/croatia1.xml,https://www.open-epg.com/files/croatia2.xml,https://www.open-epg.com/files/croatia3.xml,https://www.open-epg.com/files/croatia4.xml,https://www.open-epg.com/files/croatia5.xml,https://www.open-epg.com/files/croatia6.xml,https://www.open-epg.com/files/poland1.xml,https://www.open-epg.com/files/poland2.xml,https://www.open-epg.com/files/france1.xml,https://www.open-epg.com/files/france2.xml"
 
+#EXTINF:-1 tvg-logo="https://mc-y23j21hvtq.bunny.run/logo/214a502e-c54a-4b61-8904-b4ce37c1e38a" group-title="DIRECTV",USA Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
+https://mc-y23j21hvtq.bunny.run/dtv/8273/master.m3u8
 
+#EXTINF:-1 tvg-id="TBS.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32239.png" group-title="美国" , TBS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TBS
+https://mc-0x5t0x453e.bunny.run/channel/TBS/master.mpd
+
+ #EXTINF:-1 tvg-id="truTV.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/838090.png" group-title="美国" , TRU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TRU
+https://mc-0x5t0x453e.bunny.run/channel/TRU/master.mpd
+
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32271.png" group-title="美国" , TVLAND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TVLND
+https://mc-0x5t0x453e.bunny.run/channel/TVLND/master.mpd
+
+#EXTINF:-1 tvg-id="Fuse.HD.us" tvg-name="" tvg-logo="https://p-img.movetv.com/1280x720/8f57243d7b1a32dde244b7934a0f0081.jpeg" group-title="美国" , FUSE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FUSEHD
+https://mc-0x5t0x453e.bunny.run/channel/FUSEHD/master.mpd
+
+#EXTINF:-1 tvg-id="FXX.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327234.png" group-title="美国" , FXX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FXX
+https://mc-0x5t0x453e.bunny.run/channel/FXX/master.mpd
+
+ #EXTINF:-1 tvg-id="FX.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327235.png" group-title="美国" , FX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FX
+https://mc-0x5t0x453e.bunny.run/channel/FX/master.mpd
+
+ #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327188.png" group-title="美国" , FX Movie
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=FXM
+https://mc-0x5t0x453e.bunny.run/channel/FXM/master.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32155.png" group-title="美国" , Nickelodeon 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NICKW
+https://mc-0x5t0x453e.bunny.run/channel/NICKW/master.mpd
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/791321.png" group-title="美国" , Paramount Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=PARAM
+https://mc-0x5t0x453e.bunny.run/channel/PARAM/master.mpd
+
+ #EXTINF:-1 tvg-id="Syfy.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/778321.png" group-title="美国" , SYFY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SYFY
+https://mc-0x5t0x453e.bunny.run/channel/SYFY/master.mpd
+
+#EXTINF:-1 tvg-id="Showtime.2.HD.us" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327214.png" group-title="美国", SHOWTIME 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOTO
+https://mc-0x5t0x453e.bunny.run/channel/SHOTO/master.mpd
+
+#EXTINF:-1 tvg-id="0000" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327213.png" group-title="美国" tvg-name="Showtime.Extreme.HD.us2", Showtime Extreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOEX
+https://mc-0x5t0x453e.bunny.run/channel/SHOEX/master.mpd
+
+#EXTINF:-1 tvg-id="0000" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327212.png" group-title="美国" tvg-name="Paramount+.with.Showtime.HD.us2", Paramount+ with Showtime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=SHOW
+https://mc-0x5t0x453e.bunny.run/channel/SHOW/master.mpd
+
+#EXTINF:-1 tvg-id="0000" tvg-name="" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/407201.png" group-title="美国" tvg-name="TNT.HD.(Pacific).us2", TNT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=TNT
+https://mc-0x5t0x453e.bunny.run/channel/TNT/master.mpd
 
 ==============================================================================================================================================================================================================================
 Collected by @drouw7 menampilkan playlist >>> Ziggo Sport Netherlands
