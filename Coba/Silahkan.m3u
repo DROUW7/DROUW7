@@ -2022,6 +2022,42 @@ https://cdnvmx.vivamax.net/video/T00481FFLMAKINANGGABI_1b04ac7aea0a6126db61a674b
 #EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T00009_KA_MAIN_HORIZ_LM_TEACHER'S%20PET.480.jpg" group-title="VMX",TEACHER'S PET
 https://cdnvmx.vivamax.net/video/T00009FFLMTEACHERSPET_dab49b45d07c729f279bfb7e43e2322fe6208d3295f4a43222487f94a988ad5e/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9864e66b2bc1cf4dc8d18521d84d09bf":"637ef773b3e5aac838acb7155a3353cd"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T99648_KA_MAIN_HORIZ_LM_WANTED%20GIRLFRIEND.480.jpg" group-title="VMX",WANTED: GIRLFRIEND
+https://cdnvmx.vivamax.net/video/T99648FFLMWANTEDGIRLFRIEND_bb427d84fd890d0d5db1b421ae1f77fa6c4b53637f314e4f2fb72e88ab43656a/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c67812f5e3d9a891d1235afd06d0137":"b86e5ae63f3b4255778ff16868eab8cf"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T00095_KA_MAIN_HORIZ_LM_DELUSYON.480.jpg" group-title="VMX",DELUSYON
+https://cdnvmx.vivamax.net/video/T00095FFLMDELUSYON_bf3d002474cbd38ca4d6d236b296370b8f27ac029c04a484955ae25d4e09bb25/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c0f07d618aa072cf1477d138bb77d3f2":"748a5e6a23fbf5c32e613c59ab5193d2"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T99820_KA_MAIN_HORIZ_LM_DADDYSITTER.480.jpg" group-title="VMX",DADDYSITTER
+https://cdnvmx.vivamax.net/video/T99820FFLMDADDYSITTER_f5b166a5bf65be40930d8faac156ecad105d7737e2e5a0922393834d09cee936/dash/hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e2c9cadbcb028cbcd3bd9932746ac36":"c3747a0d27d3b0849aedb224e3f0ba8b"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T99323_KA_MAIN_HORIZ_LM_TUHOG.480.jpg" group-title="VMX",TUHOG
+https://cdnvmx.vivamax.net/video/T99323FFLMTUHOG_294a0bbb32656a9e800d12332aaa465c6a3b2eda7457702a9ff472872fa30592/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"629ad5e1b2eb7cce3b90a14ca9b234b2":"4e155cbb21691673314db530b0c81730"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T99452_KA_MAIN_HORIZ_LM_KARINYO%20BRUTAL.480.jpg" group-title="VMX",KARINYO BRUTAL
+https://cdnvmx.vivamax.net/video/T99452FFLMKARINYOBRUTAL_a63b094cbd1dcf35138bc4136fb87b85aca3f2308761a8eda40c0c3155a0177b/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b4d14b66b3fa51daf596aee86cafec34":"7ee91255d91ccb0ae82858259ce5e029"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T00362_KA_MAIN_HORIZ_LM_KIROT.480.jpg" group-title="VMX",KIROT
+https://cdnvmx.vivamax.net/video/T00362FFLMKIROT_a9456261a6a87c5c41c6da2b5cd7f21dfc2824a2e21ed65c83703be4255d6023/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f0b6adca45ebcef9c9c0395ba45230a3":"737e1e64d31290f97f7232ab4d2c60d6"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T00321_KA_MAIN_HORIZ_LM_SIPSIPAN.480.jpg" group-title="VMX",SIPSIPAN
+https://cdnvmx.vivamax.net/video/T00321FFLMSIPSIPAN_d379415b2230790687ca73cf9a5f726c6bcf5404a108c27f20fd23da0384354c/dash/hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d227be9f5384e5844e3eae2fbc9a95a9":"91525676b477bfd4c8faf585ba9b53ad"}
+#EXTINF:-1 tvg-logo="https://public.vivamax.net/images/T99970_KA_MAIN_HORIZ_LM_SPONSOR.480.jpg" group-title="VMX",SPONSOR
+https://cdnvmx.vivamax.net/video/T99970FFLMSPONSOR_b0e9eb81a74ebae88809af24943f50976e074ff0c4087c0dc35e15a1bbba58e2/dash/hd.mpd
